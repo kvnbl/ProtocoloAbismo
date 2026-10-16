@@ -5,9 +5,6 @@ TextureImporter:
   - first:
       213: -3365474479429014241
     second: taladro_0
-  - first:
-      213: 7777715151654580077
-    second: taladro_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -107,9 +104,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 33
-        height: 27
+        y: 72
+        width: 208
+        height: 179
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,28 +117,6 @@ TextureImporter:
       bones: []
       spriteID: f1dadf0cace6b41d0800000000000000
       internalID: -3365474479429014241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: taladro_1
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 33
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6f6b8ae8beffeb60800000000000000
-      internalID: 7777715151654580077
       vertices: []
       indices: 
       edges: []
@@ -161,7 +136,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       taladro_0: -3365474479429014241
-      taladro_1: 7777715151654580077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
