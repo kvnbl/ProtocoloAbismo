@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 5a0990333b945894c82b13b754cb4d24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4941346584513789482
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_0
+  - first:
+      213: 7786082600129002705
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_1
+  - first:
+      213: -1680686118021593833
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_2
+  - first:
+      213: -277722458013626626
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_3
+  - first:
+      213: -3069209747728940624
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_4
+  - first:
+      213: -264010219951195948
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_5
+  - first:
+      213: 345501896323681489
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_6
+  - first:
+      213: 1758845818577589288
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_7
+  - first:
+      213: 3274627772144529757
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_8
+  - first:
+      213: -5858316444546196722
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_9
+  - first:
+      213: -3857186050704833303
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_10
+  - first:
+      213: -8605733081190569032
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_11
+  - first:
+      213: 6040243442453384729
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_12
+  - first:
+      213: -5857156414582936239
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_13
+  - first:
+      213: -6172391774201961491
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_14
+  - first:
+      213: 6435299606588508088
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_15
+  - first:
+      213: 9194544236623774962
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_16
+  - first:
+      213: 2335472719860562241
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_17
+  - first:
+      213: -5051251068651262544
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_18
+  - first:
+      213: 5794363405912613851
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_19
+  - first:
+      213: 4513293684555697344
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_20
+  - first:
+      213: -5526584142098196396
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_21
+  - first:
+      213: -5721708677963039409
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_22
+  - first:
+      213: -7777305475733287732
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_23
+  - first:
+      213: 6859623118434892835
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_24
+  - first:
+      213: -8781283698260981663
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_25
+  - first:
+      213: 1330083006226895219
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_26
+  - first:
+      213: 9205076596731828241
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_27
+  - first:
+      213: -4565776006693702975
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_28
+  - first:
+      213: -3377811039401576102
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_29
+  - first:
+      213: -2020474925353940130
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_30
+  - first:
+      213: -6111573800115441065
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_31
+  - first:
+      213: -7296304654032479779
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_32
+  - first:
+      213: -1784458106119095837
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_33
+  - first:
+      213: 315350049206363987
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_34
+  - first:
+      213: 1831653950751792577
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_35
+  - first:
+      213: 3019851197699392797
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_36
+  - first:
+      213: 3840401456342633184
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_37
+  - first:
+      213: -1625745495344897136
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_38
+  - first:
+      213: 8491691118871699252
+    second: Taladro_Idle_Termico_40_Frames_2048x1280_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eb80ac980339440800000000000000
+      internalID: 4941346584513789482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcf9845fd8bd0c60800000000000000
+      internalID: 7786082600129002705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715846c51e00da8e0800000000000000
+      internalID: -1680686118021593833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe03f755e4552cf0800000000000000
+      internalID: -277722458013626626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1437deef9f765d0800000000000000
+      internalID: -3069209747728940624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d87cbe8a1c065cf0800000000000000
+      internalID: -264010219951195948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_6
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc897e4287bc400800000000000000
+      internalID: 345501896323681489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_7
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8249ff604fca86810800000000000000
+      internalID: 1758845818577589288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51bd4aeb90d17d20800000000000000
+      internalID: 3274627772144529757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b9efc7b3413bea0800000000000000
+      internalID: -5858316444546196722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4852f19b5887ac0800000000000000
+      internalID: -3857186050704833303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbeec79b5b429880800000000000000
+      internalID: -8605733081190569032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_12
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0158886143d350800000000000000
+      internalID: 6040243442453384729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_13
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d22e2064337bea0800000000000000
+      internalID: -5857156414582936239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_14
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de326245262475aa0800000000000000
+      internalID: -6172391774201961491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_15
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74be185e6ce4950800000000000000
+      internalID: 6435299606588508088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f44397b445999f70800000000000000
+      internalID: 9194544236623774962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14977e99014496020800000000000000
+      internalID: 2335472719860562241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdaabd6ae956e9b0800000000000000
+      internalID: -5051251068651262544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3a1fc51d6b96050800000000000000
+      internalID: 5794363405912613851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccc4f291b072ae30800000000000000
+      internalID: 4513293684555697344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4581eecf001ad43b0800000000000000
+      internalID: -5526584142098196396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3eb5b5486890b0800000000000000
+      internalID: -5721708677963039409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_23
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc873130e5711490800000000000000
+      internalID: -7777305475733287732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c7e53e1e6423f50800000000000000
+      internalID: 6859623118434892835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168c93d600d922680800000000000000
+      internalID: -8781283698260981663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37110f37277657210800000000000000
+      internalID: 1330083006226895219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1185676e4600fbf70800000000000000
+      internalID: 9205076596731828241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_28
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2350599ea13a0c0800000000000000
+      internalID: -4565776006693702975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_29
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59731e81ca9f11d0800000000000000
+      internalID: -3377811039401576102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_30
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc1b4a2c4d5f3e0800000000000000
+      internalID: -2020474925353940130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_31
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f88162045f2ba0800000000000000
+      internalID: -6111573800115441065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd95d5b13915eba90800000000000000
+      internalID: -7296304654032479779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e974349ec45c37e0800000000000000
+      internalID: -1784458106119095837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_34
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357e8dee239506400800000000000000
+      internalID: 315350049206363987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_35
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd500e40975b6910800000000000000
+      internalID: 1831653950751792577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_36
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1509691aaaa8e920800000000000000
+      internalID: 3019851197699392797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_37
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea0238f6c8db4530800000000000000
+      internalID: 3840401456342633184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_38
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093a6c6e5113079e0800000000000000
+      internalID: -1625745495344897136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Idle_Termico_40_Frames_2048x1280_39
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fdfaae41c88d570800000000000000
+      internalID: 8491691118871699252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Taladro_Idle_Termico_40_Frames_2048x1280_0: 4941346584513789482
+      Taladro_Idle_Termico_40_Frames_2048x1280_1: 7786082600129002705
+      Taladro_Idle_Termico_40_Frames_2048x1280_10: -3857186050704833303
+      Taladro_Idle_Termico_40_Frames_2048x1280_11: -8605733081190569032
+      Taladro_Idle_Termico_40_Frames_2048x1280_12: 6040243442453384729
+      Taladro_Idle_Termico_40_Frames_2048x1280_13: -5857156414582936239
+      Taladro_Idle_Termico_40_Frames_2048x1280_14: -6172391774201961491
+      Taladro_Idle_Termico_40_Frames_2048x1280_15: 6435299606588508088
+      Taladro_Idle_Termico_40_Frames_2048x1280_16: 9194544236623774962
+      Taladro_Idle_Termico_40_Frames_2048x1280_17: 2335472719860562241
+      Taladro_Idle_Termico_40_Frames_2048x1280_18: -5051251068651262544
+      Taladro_Idle_Termico_40_Frames_2048x1280_19: 5794363405912613851
+      Taladro_Idle_Termico_40_Frames_2048x1280_2: -1680686118021593833
+      Taladro_Idle_Termico_40_Frames_2048x1280_20: 4513293684555697344
+      Taladro_Idle_Termico_40_Frames_2048x1280_21: -5526584142098196396
+      Taladro_Idle_Termico_40_Frames_2048x1280_22: -5721708677963039409
+      Taladro_Idle_Termico_40_Frames_2048x1280_23: -7777305475733287732
+      Taladro_Idle_Termico_40_Frames_2048x1280_24: 6859623118434892835
+      Taladro_Idle_Termico_40_Frames_2048x1280_25: -8781283698260981663
+      Taladro_Idle_Termico_40_Frames_2048x1280_26: 1330083006226895219
+      Taladro_Idle_Termico_40_Frames_2048x1280_27: 9205076596731828241
+      Taladro_Idle_Termico_40_Frames_2048x1280_28: -4565776006693702975
+      Taladro_Idle_Termico_40_Frames_2048x1280_29: -3377811039401576102
+      Taladro_Idle_Termico_40_Frames_2048x1280_3: -277722458013626626
+      Taladro_Idle_Termico_40_Frames_2048x1280_30: -2020474925353940130
+      Taladro_Idle_Termico_40_Frames_2048x1280_31: -6111573800115441065
+      Taladro_Idle_Termico_40_Frames_2048x1280_32: -7296304654032479779
+      Taladro_Idle_Termico_40_Frames_2048x1280_33: -1784458106119095837
+      Taladro_Idle_Termico_40_Frames_2048x1280_34: 315350049206363987
+      Taladro_Idle_Termico_40_Frames_2048x1280_35: 1831653950751792577
+      Taladro_Idle_Termico_40_Frames_2048x1280_36: 3019851197699392797
+      Taladro_Idle_Termico_40_Frames_2048x1280_37: 3840401456342633184
+      Taladro_Idle_Termico_40_Frames_2048x1280_38: -1625745495344897136
+      Taladro_Idle_Termico_40_Frames_2048x1280_39: 8491691118871699252
+      Taladro_Idle_Termico_40_Frames_2048x1280_4: -3069209747728940624
+      Taladro_Idle_Termico_40_Frames_2048x1280_5: -264010219951195948
+      Taladro_Idle_Termico_40_Frames_2048x1280_6: 345501896323681489
+      Taladro_Idle_Termico_40_Frames_2048x1280_7: 1758845818577589288
+      Taladro_Idle_Termico_40_Frames_2048x1280_8: 3274627772144529757
+      Taladro_Idle_Termico_40_Frames_2048x1280_9: -5858316444546196722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

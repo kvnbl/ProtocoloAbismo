@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: ce281bc3277f8a74092c6f80978cdd8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8787758746630585202
+    second: Excavadora_Salto_Muy_Danada_1024x512_0
+  - first:
+      213: -9144932866828697409
+    second: Excavadora_Salto_Muy_Danada_1024x512_1
+  - first:
+      213: 1806465370146391014
+    second: Excavadora_Salto_Muy_Danada_1024x512_2
+  - first:
+      213: -2791497207724720089
+    second: Excavadora_Salto_Muy_Danada_1024x512_3
+  - first:
+      213: -867030795280125156
+    second: Excavadora_Salto_Muy_Danada_1024x512_4
+  - first:
+      213: 5773079335445265509
+    second: Excavadora_Salto_Muy_Danada_1024x512_5
+  - first:
+      213: -4976427312907105966
+    second: Excavadora_Salto_Muy_Danada_1024x512_6
+  - first:
+      213: -7813110610771089530
+    second: Excavadora_Salto_Muy_Danada_1024x512_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 323
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b7fb0450464f970800000000000000
+      internalID: 8787758746630585202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 332
+        width: 216
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb081e1720ca61180800000000000000
+      internalID: -9144932866828697409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 316
+        width: 216
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3ce9edeaad11910800000000000000
+      internalID: 1806465370146391014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 304
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c21e541c9249d0800000000000000
+      internalID: -2791497207724720089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13f00ed510b7f3f0800000000000000
+      internalID: -867030795280125156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 63
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cfc5981191e1050800000000000000
+      internalID: 5773079335445265509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 78
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ce93a9bd20fab0800000000000000
+      internalID: -4976427312907105966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Salto_Muy_Danada_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 67
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687672e8b41429390800000000000000
+      internalID: -7813110610771089530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Salto_Muy_Danada_1024x512_0: 8787758746630585202
+      Excavadora_Salto_Muy_Danada_1024x512_1: -9144932866828697409
+      Excavadora_Salto_Muy_Danada_1024x512_2: 1806465370146391014
+      Excavadora_Salto_Muy_Danada_1024x512_3: -2791497207724720089
+      Excavadora_Salto_Muy_Danada_1024x512_4: -867030795280125156
+      Excavadora_Salto_Muy_Danada_1024x512_5: 5773079335445265509
+      Excavadora_Salto_Muy_Danada_1024x512_6: -4976427312907105966
+      Excavadora_Salto_Muy_Danada_1024x512_7: -7813110610771089530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

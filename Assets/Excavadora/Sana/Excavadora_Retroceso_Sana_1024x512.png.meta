@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 8ea34304e1433e941874d8f3d5c601e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -499770992258266420
+    second: Excavadora_Retroceso_Sana_1024x512_0
+  - first:
+      213: 295364784536615842
+    second: Excavadora_Retroceso_Sana_1024x512_1
+  - first:
+      213: -4606246916077983064
+    second: Excavadora_Retroceso_Sana_1024x512_2
+  - first:
+      213: 8946844424666620682
+    second: Excavadora_Retroceso_Sana_1024x512_3
+  - first:
+      213: 5048137029676826680
+    second: Excavadora_Retroceso_Sana_1024x512_4
+  - first:
+      213: 8086135060739890060
+    second: Excavadora_Retroceso_Sana_1024x512_5
+  - first:
+      213: 4916455615339042075
+    second: Excavadora_Retroceso_Sana_1024x512_6
+  - first:
+      213: 5324595582126732063
+    second: Excavadora_Retroceso_Sana_1024x512_7
+  - first:
+      213: -6792262782563900428
+    second: Excavadora_Retroceso_Sana_1024x512_8
+  - first:
+      213: 6560534974989578691
+    second: Excavadora_Retroceso_Sana_1024x512_9
+  - first:
+      213: -8069539439101247934
+    second: Excavadora_Retroceso_Sana_1024x512_10
+  - first:
+      213: -9015979941856422851
+    second: Excavadora_Retroceso_Sana_1024x512_11
+  - first:
+      213: 359941716677782043
+    second: Excavadora_Retroceso_Sana_1024x512_12
+  - first:
+      213: -5686330461245932244
+    second: Excavadora_Retroceso_Sana_1024x512_13
+  - first:
+      213: 4775453867554528179
+    second: Excavadora_Retroceso_Sana_1024x512_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 254
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccac6613ee47019f0800000000000000
+      internalID: -499770992258266420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf675e4b8591400800000000000000
+      internalID: 295364784536615842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 491
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaee63b5d25310c0800000000000000
+      internalID: -4606246916077983064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 466
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0320f01a93992c70800000000000000
+      internalID: 8946844424666620682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 320
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830026fd1e59e0640800000000000000
+      internalID: 5048137029676826680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 320
+        width: 237
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b9b3ddef8b73070800000000000000
+      internalID: 8086135060739890060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 458
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15124a6552ca3440800000000000000
+      internalID: 4916455615339042075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1337459873c4e940800000000000000
+      internalID: 5324595582126732063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32c287cf80db1a0800000000000000
+      internalID: -6792262782563900428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1b7c0fcc3bb0b50800000000000000
+      internalID: 6560534974989578691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 64
+        width: 249
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e7d5762ac330090800000000000000
+      internalID: -8069539439101247934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 64
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34d997f20ec0e280800000000000000
+      internalID: -9015979941856422851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a6c629515cef400800000000000000
+      internalID: 359941716677782043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 238
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2df3fda2981611b0800000000000000
+      internalID: -5686330461245932244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Sana_1024x512_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb5ad8bdf1d54240800000000000000
+      internalID: 4775453867554528179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Retroceso_Sana_1024x512_0: -499770992258266420
+      Excavadora_Retroceso_Sana_1024x512_1: 295364784536615842
+      Excavadora_Retroceso_Sana_1024x512_10: -8069539439101247934
+      Excavadora_Retroceso_Sana_1024x512_11: -9015979941856422851
+      Excavadora_Retroceso_Sana_1024x512_12: 359941716677782043
+      Excavadora_Retroceso_Sana_1024x512_13: -5686330461245932244
+      Excavadora_Retroceso_Sana_1024x512_14: 4775453867554528179
+      Excavadora_Retroceso_Sana_1024x512_2: -4606246916077983064
+      Excavadora_Retroceso_Sana_1024x512_3: 8946844424666620682
+      Excavadora_Retroceso_Sana_1024x512_4: 5048137029676826680
+      Excavadora_Retroceso_Sana_1024x512_5: 8086135060739890060
+      Excavadora_Retroceso_Sana_1024x512_6: 4916455615339042075
+      Excavadora_Retroceso_Sana_1024x512_7: 5324595582126732063
+      Excavadora_Retroceso_Sana_1024x512_8: -6792262782563900428
+      Excavadora_Retroceso_Sana_1024x512_9: 6560534974989578691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

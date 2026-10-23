@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - EnemigoAcorazado
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Suelo
+  - Water
+  - UI
+  - Jugador
+  - Bala
+  - Plataforma
+  - Destructibles
+  - Taladro
+  - Enemigo
+  - BarreraCombate
+  - RocasJefe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 2551428923
+    locked: 0
+  - name: Objetos
+    uniqueID: 1302257867
+    locked: 0
+  - name: Gusano
+    uniqueID: 19735157
+    locked: 0
+  - name: Destructibles
+    uniqueID: 1657944725
+    locked: 0
+  - name: Efectos
+    uniqueID: 197804273
+    locked: 0
+  - name: Terreno
+    uniqueID: 31820775
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 922a9aad61ee7734d84431db2a2f3719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7628380125850698235
+    second: Acido_Gusano_512x256_0
+  - first:
+      213: 3365441193451025576
+    second: Acido_Gusano_512x256_1
+  - first:
+      213: 3119944468610703454
+    second: Acido_Gusano_512x256_2
+  - first:
+      213: 7493575462299009636
+    second: Acido_Gusano_512x256_3
+  - first:
+      213: 9118120306576066787
+    second: Acido_Gusano_512x256_4
+  - first:
+      213: 2945186485583682555
+    second: Acido_Gusano_512x256_5
+  - first:
+      213: -128765174108480461
+    second: Acido_Gusano_512x256_6
+  - first:
+      213: -7775206866540443009
+    second: Acido_Gusano_512x256_7
+  - first:
+      213: 1911029135625549354
+    second: Acido_Gusano_512x256_8
+  - first:
+      213: -4027157991671050153
+    second: Acido_Gusano_512x256_9
+  - first:
+      213: -4347353135801061923
+    second: Acido_Gusano_512x256_10
+  - first:
+      213: -4137650897683055723
+    second: Acido_Gusano_512x256_11
+  - first:
+      213: -7275525420545995441
+    second: Acido_Gusano_512x256_12
+  - first:
+      213: -6327469926217646296
+    second: Acido_Gusano_512x256_13
+  - first:
+      213: -669508142504672668
+    second: Acido_Gusano_512x256_14
+  - first:
+      213: 590723857856567366
+    second: Acido_Gusano_512x256_15
+  - first:
+      213: 8460739036742900384
+    second: Acido_Gusano_512x256_16
+  - first:
+      213: -8829622036950617328
+    second: Acido_Gusano_512x256_17
+  - first:
+      213: -5890748823327250504
+    second: Acido_Gusano_512x256_18
+  - first:
+      213: -7552351522544585680
+    second: Acido_Gusano_512x256_19
+  - first:
+      213: -3478377570881951720
+    second: Acido_Gusano_512x256_20
+  - first:
+      213: 331504612881471557
+    second: Acido_Gusano_512x256_21
+  - first:
+      213: 4466845200591177325
+    second: Acido_Gusano_512x256_22
+  - first:
+      213: 8554588845893057974
+    second: Acido_Gusano_512x256_23
+  - first:
+      213: 4956114550659325414
+    second: Acido_Gusano_512x256_24
+  - first:
+      213: -614016520795453877
+    second: Acido_Gusano_512x256_25
+  - first:
+      213: -2538277291418167887
+    second: Acido_Gusano_512x256_26
+  - first:
+      213: -8862153261024866471
+    second: Acido_Gusano_512x256_27
+  - first:
+      213: 4135451971865899328
+    second: Acido_Gusano_512x256_28
+  - first:
+      213: 8075107524161978965
+    second: Acido_Gusano_512x256_29
+  - first:
+      213: 2642138365784846210
+    second: Acido_Gusano_512x256_30
+  - first:
+      213: 2795048650473231538
+    second: Acido_Gusano_512x256_31
+  - first:
+      213: 4858351329137567075
+    second: Acido_Gusano_512x256_32
+  - first:
+      213: 6571536603376583940
+    second: Acido_Gusano_512x256_33
+  - first:
+      213: -4081216101901423260
+    second: Acido_Gusano_512x256_34
+  - first:
+      213: -4474617041881166844
+    second: Acido_Gusano_512x256_35
+  - first:
+      213: -4016672385192081052
+    second: Acido_Gusano_512x256_36
+  - first:
+      213: -2606459024313384519
+    second: Acido_Gusano_512x256_37
+  - first:
+      213: 2443460426513654016
+    second: Acido_Gusano_512x256_38
+  - first:
+      213: 6022656170490159927
+    second: Acido_Gusano_512x256_39
+  - first:
+      213: -6531758836668980757
+    second: Acido_Gusano_512x256_40
+  - first:
+      213: -552757463504665235
+    second: Acido_Gusano_512x256_41
+  - first:
+      213: -395371454118663623
+    second: Acido_Gusano_512x256_42
+  - first:
+      213: 4865239378989176850
+    second: Acido_Gusano_512x256_43
+  - first:
+      213: 5474848977571324114
+    second: Acido_Gusano_512x256_44
+  - first:
+      213: 830828854663944061
+    second: Acido_Gusano_512x256_45
+  - first:
+      213: 1511631409406911086
+    second: Acido_Gusano_512x256_46
+  - first:
+      213: 5756266725122519791
+    second: Acido_Gusano_512x256_47
+  - first:
+      213: -6486894758844693515
+    second: Acido_Gusano_512x256_48
+  - first:
+      213: -7071003429184276240
+    second: Acido_Gusano_512x256_49
+  - first:
+      213: -3665778743832960808
+    second: Acido_Gusano_512x256_50
+  - first:
+      213: 7749017683683726310
+    second: Acido_Gusano_512x256_51
+  - first:
+      213: 2380223856054917931
+    second: Acido_Gusano_512x256_52
+  - first:
+      213: -4825860087245571657
+    second: Acido_Gusano_512x256_53
+  - first:
+      213: 8195124691898033600
+    second: Acido_Gusano_512x256_54
+  - first:
+      213: 7171098692337934438
+    second: Acido_Gusano_512x256_55
+  - first:
+      213: 2131901314612130104
+    second: Acido_Gusano_512x256_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 157
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef40341bc822690800000000000000
+      internalID: -7628380125850698235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a47d104fe274be20800000000000000
+      internalID: 3365441193451025576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 155
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506c7ac6f44c4b20800000000000000
+      internalID: 3119944468610703454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 155
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4628ae72e278ef760800000000000000
+      internalID: 7493575462299009636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 217
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80eb4eb121a8e70800000000000000
+      internalID: 9118120306576066787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 155
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1f7e11876fd820800000000000000
+      internalID: 2945186485583682555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 213
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c92d1a1c8863ef0800000000000000
+      internalID: -128765174108480461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 220
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7acda8bc8ae81490800000000000000
+      internalID: -7775206866540443009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26f160bfd6558a10800000000000000
+      internalID: 1911029135625549354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7505214b429ac18c0800000000000000
+      internalID: -4027157991671050153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 169
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddda5633b591ba3c0800000000000000
+      internalID: -4347353135801061923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b76074e6c1496c0800000000000000
+      internalID: -4137650897683055723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 154
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d080a6d24280b90800000000000000
+      internalID: -7275525420545995441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f74d060af4038a0800000000000000
+      internalID: -6327469926217646296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 20
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46207cf34ed65b6f0800000000000000
+      internalID: -669508142504672668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64893eb083ca23800800000000000000
+      internalID: 590723857856567366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa5756b3559a6570800000000000000
+      internalID: 8460739036742900384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 88
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f89ae981e67580800000000000000
+      internalID: -8829622036950617328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7678cd72bdf3ea0800000000000000
+      internalID: -5890748823327250504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03479d7ed48a03790800000000000000
+      internalID: -7552351522544585680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81825ec47025abfc0800000000000000
+      internalID: -3478377570881951720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_21
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 77
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548143460bdb99400800000000000000
+      internalID: 331504612881471557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 77
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6645e72b0c6dfd30800000000000000
+      internalID: 4466845200591177325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd79fe2b3108b670800000000000000
+      internalID: 8554588845893057974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 74
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed913adce7a7c440800000000000000
+      internalID: 4956114550659325414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4604cf3a339a77f0800000000000000
+      internalID: -614016520795453877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55497704a36ccd0800000000000000
+      internalID: -2538277291418167887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 33
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0b83109e430580800000000000000
+      internalID: -8862153261024866471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 74
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04171c868a3146930800000000000000
+      internalID: 4135451971865899328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 81
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55242cc628b801070800000000000000
+      internalID: 8075107524161978965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f690458d2caa420800000000000000
+      internalID: 2642138365784846210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 75
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4546550f10ac620800000000000000
+      internalID: 2795048650473231538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365aa4f0bc45c6340800000000000000
+      internalID: 4858351329137567075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 62
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050db829b9c23b50800000000000000
+      internalID: 6571536603376583940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 59
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46daf8a149b9c57c0800000000000000
+      internalID: -4081216101901423260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c83c80287f6e1c0800000000000000
+      internalID: -4474617041881166844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 56
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46941853fb9e148c0800000000000000
+      internalID: -4016672385192081052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_37
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 55
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b18036b35ff3dbd0800000000000000
+      internalID: -2606459024313384519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_38
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012219df4ae8e120800000000000000
+      internalID: 2443460426513654016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733616ea0e5c49350800000000000000
+      internalID: 6022656170490159927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a3ddd1f78a55a0800000000000000
+      internalID: -6531758836668980757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65cbdcf3063458f0800000000000000
+      internalID: -552757463504665235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6dead1cb538af0800000000000000
+      internalID: -395371454118663623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 38
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21854e3207dc48340800000000000000
+      internalID: 4865239378989176850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 33
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ac0b53229afb40800000000000000
+      internalID: 5474848977571324114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77936ff072b78b00800000000000000
+      internalID: 830828854663944061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62a50502c46af410800000000000000
+      internalID: 1511631409406911086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 41
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe23457a61e52ef40800000000000000
+      internalID: 5756266725122519791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f308bbf59be9f5a0800000000000000
+      internalID: -6486894758844693515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_49
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8f6ed48dfbedd90800000000000000
+      internalID: -7071003429184276240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0a8a497a9802dc0800000000000000
+      internalID: -3665778743832960808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3503af68a0a8b60800000000000000
+      internalID: 7749017683683726310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b50127cf0480120800000000000000
+      internalID: 2380223856054917931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9fdf3b1d9170db0800000000000000
+      internalID: -4825860087245571657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 22
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56d96dc7eeab170800000000000000
+      internalID: 8195124691898033600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660221e344cd48360800000000000000
+      internalID: 7171098692337934438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acido_Gusano_512x256_56
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 21
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831f4a943f8069d10800000000000000
+      internalID: 2131901314612130104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Acido_Gusano_512x256_0: -7628380125850698235
+      Acido_Gusano_512x256_1: 3365441193451025576
+      Acido_Gusano_512x256_10: -4347353135801061923
+      Acido_Gusano_512x256_11: -4137650897683055723
+      Acido_Gusano_512x256_12: -7275525420545995441
+      Acido_Gusano_512x256_13: -6327469926217646296
+      Acido_Gusano_512x256_14: -669508142504672668
+      Acido_Gusano_512x256_15: 590723857856567366
+      Acido_Gusano_512x256_16: 8460739036742900384
+      Acido_Gusano_512x256_17: -8829622036950617328
+      Acido_Gusano_512x256_18: -5890748823327250504
+      Acido_Gusano_512x256_19: -7552351522544585680
+      Acido_Gusano_512x256_2: 3119944468610703454
+      Acido_Gusano_512x256_20: -3478377570881951720
+      Acido_Gusano_512x256_21: 331504612881471557
+      Acido_Gusano_512x256_22: 4466845200591177325
+      Acido_Gusano_512x256_23: 8554588845893057974
+      Acido_Gusano_512x256_24: 4956114550659325414
+      Acido_Gusano_512x256_25: -614016520795453877
+      Acido_Gusano_512x256_26: -2538277291418167887
+      Acido_Gusano_512x256_27: -8862153261024866471
+      Acido_Gusano_512x256_28: 4135451971865899328
+      Acido_Gusano_512x256_29: 8075107524161978965
+      Acido_Gusano_512x256_3: 7493575462299009636
+      Acido_Gusano_512x256_30: 2642138365784846210
+      Acido_Gusano_512x256_31: 2795048650473231538
+      Acido_Gusano_512x256_32: 4858351329137567075
+      Acido_Gusano_512x256_33: 6571536603376583940
+      Acido_Gusano_512x256_34: -4081216101901423260
+      Acido_Gusano_512x256_35: -4474617041881166844
+      Acido_Gusano_512x256_36: -4016672385192081052
+      Acido_Gusano_512x256_37: -2606459024313384519
+      Acido_Gusano_512x256_38: 2443460426513654016
+      Acido_Gusano_512x256_39: 6022656170490159927
+      Acido_Gusano_512x256_4: 9118120306576066787
+      Acido_Gusano_512x256_40: -6531758836668980757
+      Acido_Gusano_512x256_41: -552757463504665235
+      Acido_Gusano_512x256_42: -395371454118663623
+      Acido_Gusano_512x256_43: 4865239378989176850
+      Acido_Gusano_512x256_44: 5474848977571324114
+      Acido_Gusano_512x256_45: 830828854663944061
+      Acido_Gusano_512x256_46: 1511631409406911086
+      Acido_Gusano_512x256_47: 5756266725122519791
+      Acido_Gusano_512x256_48: -6486894758844693515
+      Acido_Gusano_512x256_49: -7071003429184276240
+      Acido_Gusano_512x256_5: 2945186485583682555
+      Acido_Gusano_512x256_50: -3665778743832960808
+      Acido_Gusano_512x256_51: 7749017683683726310
+      Acido_Gusano_512x256_52: 2380223856054917931
+      Acido_Gusano_512x256_53: -4825860087245571657
+      Acido_Gusano_512x256_54: 8195124691898033600
+      Acido_Gusano_512x256_55: 7171098692337934438
+      Acido_Gusano_512x256_56: 2131901314612130104
+      Acido_Gusano_512x256_6: -128765174108480461
+      Acido_Gusano_512x256_7: -7775206866540443009
+      Acido_Gusano_512x256_8: 1911029135625549354
+      Acido_Gusano_512x256_9: -4027157991671050153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

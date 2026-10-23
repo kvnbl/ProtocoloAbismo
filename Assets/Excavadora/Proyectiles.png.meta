@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: c5e3bf761b3d6684ea9d66bc2102c080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3107970018058495257
+    second: Proyectiles_0
+  - first:
+      213: -8310414017085087011
+    second: Proyectiles_1
+  - first:
+      213: 5861717230511843150
+    second: Proyectiles_2
+  - first:
+      213: 4640363980238590205
+    second: Proyectiles_3
+  - first:
+      213: -715478584196545797
+    second: Proyectiles_4
+  - first:
+      213: 4300508472640918883
+    second: Proyectiles_5
+  - first:
+      213: 2386687998809430707
+    second: Proyectiles_6
+  - first:
+      213: -646558242051252191
+    second: Proyectiles_7
+  - first:
+      213: 1260576791051601078
+    second: Proyectiles_8
+  - first:
+      213: 7366948869179160853
+    second: Proyectiles_9
+  - first:
+      213: -4572533579516180705
+    second: Proyectiles_10
+  - first:
+      213: 9078249916238098258
+    second: Proyectiles_11
+  - first:
+      213: 1675834957806185238
+    second: Proyectiles_12
+  - first:
+      213: 7160223235572828191
+    second: Proyectiles_13
+  - first:
+      213: -6417328622460135547
+    second: Proyectiles_14
+  - first:
+      213: 4571881616919402472
+    second: Proyectiles_15
+  - first:
+      213: -6965382907327141835
+    second: Proyectiles_16
+  - first:
+      213: -8107220051862170041
+    second: Proyectiles_17
+  - first:
+      213: -7652319628846346186
+    second: Proyectiles_18
+  - first:
+      213: -8596673143921653254
+    second: Proyectiles_19
+  - first:
+      213: -9164092715617298527
+    second: Proyectiles_20
+  - first:
+      213: -1567092095695561156
+    second: Proyectiles_21
+  - first:
+      213: 4935461535875914286
+    second: Proyectiles_22
+  - first:
+      213: 1789812392115359716
+    second: Proyectiles_23
+  - first:
+      213: -2560566747856624645
+    second: Proyectiles_24
+  - first:
+      213: 5279201191212377551
+    second: Proyectiles_25
+  - first:
+      213: -5171091330847186394
+    second: Proyectiles_26
+  - first:
+      213: -6466857672649179026
+    second: Proyectiles_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Proyectiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 591
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915e0f2c34ab12b20800000000000000
+      internalID: 3107970018058495257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectiles_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 444
+        width: 591
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2673f5b7a7bac80800000000000000
+      internalID: -8310414017085087011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectiles_2
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 444
+        width: 591
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e172b3c0095150800000000000000
+      internalID: 5861717230511843150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectiles_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 591
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df093ae4472e56040800000000000000
+      internalID: 4640363980238590205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectiles_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1
+        width: 591
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2c098b40c1216f0800000000000000
+      internalID: -715478584196545797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectiles_5
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1
+        width: 591
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d159bba97eab30800000000000000
+      internalID: 4300508472640918883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e27ca63556a44c04f960282f87092752
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":591.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Proyectiles_0: 3107970018058495257
+      Proyectiles_1: -8310414017085087011
+      Proyectiles_2: 5861717230511843150
+      Proyectiles_3: 4640363980238590205
+      Proyectiles_4: -715478584196545797
+      Proyectiles_5: 4300508472640918883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: e7ace226526c50f46843c69f7ce746ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4594892432238300709
+    second: "Proyectil de artiller\xEDa al rojo_0"
+  - first:
+      213: 7114151449333900510
+    second: "Proyectil de artiller\xEDa al rojo_1"
+  - first:
+      213: 3824147393084345174
+    second: "Proyectil de artiller\xEDa al rojo_2"
+  - first:
+      213: 1649588444698618212
+    second: "Proyectil de artiller\xEDa al rojo_3"
+  - first:
+      213: 4189830012669622041
+    second: "Proyectil de artiller\xEDa al rojo_4"
+  - first:
+      213: -754508872468082387
+    second: "Proyectil de artiller\xEDa al rojo_5"
+  - first:
+      213: 4368819477002311825
+    second: "Proyectil de artiller\xEDa al rojo_6"
+  - first:
+      213: 6899465295453760763
+    second: "Proyectil de artiller\xEDa al rojo_7"
+  - first:
+      213: 1771960122336500919
+    second: "Proyectil de artiller\xEDa al rojo_8"
+  - first:
+      213: -5952729422025632440
+    second: "Proyectil de artiller\xEDa al rojo_9"
+  - first:
+      213: -8139340466655424340
+    second: "Proyectil de artiller\xEDa al rojo_10"
+  - first:
+      213: 2456845848348881224
+    second: "Proyectil de artiller\xEDa al rojo_11"
+  - first:
+      213: 7544967257004464129
+    second: "Proyectil de artiller\xEDa al rojo_12"
+  - first:
+      213: 1709708042646004208
+    second: "Proyectil de artiller\xEDa al rojo_13"
+  - first:
+      213: -72948776942628569
+    second: "Proyectil de artiller\xEDa al rojo_14"
+  - first:
+      213: -3848427675647305705
+    second: "Proyectil de artiller\xEDa al rojo_15"
+  - first:
+      213: -3703062894599319878
+    second: "Proyectil de artiller\xEDa al rojo_16"
+  - first:
+      213: -5736501184084948161
+    second: "Proyectil de artiller\xEDa al rojo_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_0"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 1211
+        height: 1155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ec1b4825654cf30800000000000000
+      internalID: 4594892432238300709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_1"
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 915
+        width: 20
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4a0effc0b8ab260800000000000000
+      internalID: 7114151449333900510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_2"
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 667
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b4785fac9121530800000000000000
+      internalID: 3824147393084345174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_3"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 641
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a9d753f384e610800000000000000
+      internalID: 1649588444698618212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_4"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 564
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9177176a234452a30800000000000000
+      internalID: 4189830012669622041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_5"
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 570
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d8a49d227785f0800000000000000
+      internalID: -754508872468082387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_6"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 554
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198d786da2a21ac30800000000000000
+      internalID: 4368819477002311825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_7"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 491
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc28ab9123dfbf50800000000000000
+      internalID: 6899465295453760763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_8"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 473
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc5600d754479810800000000000000
+      internalID: 1771960122336500919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_9"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 339
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845552c2128a36da0800000000000000
+      internalID: -5952729422025632440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_10"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 386
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca09a0b38f04b0f80800000000000000
+      internalID: -8139340466655424340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_11"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 345
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8417aba3848781220800000000000000
+      internalID: 2456845848348881224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_12"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 375
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10854bbcebb15b860800000000000000
+      internalID: 7544967257004464129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_13"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 369
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f12b87086a1ab710800000000000000
+      internalID: 1709708042646004208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_14"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721198f4975dcfef0800000000000000
+      internalID: -72948776942628569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_15"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 326
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71892493b63a79ac0800000000000000
+      internalID: -3848427675647305705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_16"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 321
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4a72cae31c9cc0800000000000000
+      internalID: -3703062894599319878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Proyectil de artiller\xEDa al rojo_17"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 306
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b420df09ad360b0800000000000000
+      internalID: -5736501184084948161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Proyectil de artiller\xEDa al rojo_0": 4594892432238300709
+      "Proyectil de artiller\xEDa al rojo_1": 7114151449333900510
+      "Proyectil de artiller\xEDa al rojo_10": -8139340466655424340
+      "Proyectil de artiller\xEDa al rojo_11": 2456845848348881224
+      "Proyectil de artiller\xEDa al rojo_12": 7544967257004464129
+      "Proyectil de artiller\xEDa al rojo_13": 1709708042646004208
+      "Proyectil de artiller\xEDa al rojo_14": -72948776942628569
+      "Proyectil de artiller\xEDa al rojo_15": -3848427675647305705
+      "Proyectil de artiller\xEDa al rojo_16": -3703062894599319878
+      "Proyectil de artiller\xEDa al rojo_17": -5736501184084948161
+      "Proyectil de artiller\xEDa al rojo_2": 3824147393084345174
+      "Proyectil de artiller\xEDa al rojo_3": 1649588444698618212
+      "Proyectil de artiller\xEDa al rojo_4": 4189830012669622041
+      "Proyectil de artiller\xEDa al rojo_5": -754508872468082387
+      "Proyectil de artiller\xEDa al rojo_6": 4368819477002311825
+      "Proyectil de artiller\xEDa al rojo_7": 6899465295453760763
+      "Proyectil de artiller\xEDa al rojo_8": 1771960122336500919
+      "Proyectil de artiller\xEDa al rojo_9": -5952729422025632440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

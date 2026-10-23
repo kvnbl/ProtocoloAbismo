@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b1f8608524fa177408d883f91e847328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4117740616345494201
+    second: Excavadora_Avance_Sana_1024x512_0
+  - first:
+      213: 5495480237592016595
+    second: Excavadora_Avance_Sana_1024x512_1
+  - first:
+      213: -9119736701469601110
+    second: Excavadora_Avance_Sana_1024x512_2
+  - first:
+      213: 444129932173236383
+    second: Excavadora_Avance_Sana_1024x512_3
+  - first:
+      213: 1285006278575807801
+    second: Excavadora_Avance_Sana_1024x512_4
+  - first:
+      213: -4839036444115766373
+    second: Excavadora_Avance_Sana_1024x512_5
+  - first:
+      213: 2668113710112844537
+    second: Excavadora_Avance_Sana_1024x512_6
+  - first:
+      213: 8859000737758368531
+    second: Excavadora_Avance_Sana_1024x512_7
+  - first:
+      213: -6106775698270484117
+    second: Excavadora_Avance_Sana_1024x512_8
+  - first:
+      213: 1240459158560461393
+    second: Excavadora_Avance_Sana_1024x512_9
+  - first:
+      213: 5533375412425840125
+    second: Excavadora_Avance_Sana_1024x512_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a87a1647252930800000000000000
+      internalID: 4117740616345494201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 497
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6f9d7e82ed34c40800000000000000
+      internalID: 5495480237592016595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 502
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2dfc7d9cf207180800000000000000
+      internalID: -9119736701469601110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 320
+        width: 234
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dd49f1ddd92600800000000000000
+      internalID: 444129932173236383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 232
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d58a0f66245d110800000000000000
+      internalID: 1285006278575807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 320
+        width: 243
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937f4d0ef948dcb0800000000000000
+      internalID: -4839036444115766373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa20a7784b070520800000000000000
+      internalID: 2668113710112844537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 228
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d207eb3e71fa70800000000000000
+      internalID: 8859000737758368531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6989958bdf504ba0800000000000000
+      internalID: -6106775698270484117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 64
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1525060580ff63110800000000000000
+      internalID: 1240459158560461393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Sana_1024x512_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 64
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d58ade9f7acc40800000000000000
+      internalID: 5533375412425840125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Avance_Sana_1024x512_0: 4117740616345494201
+      Excavadora_Avance_Sana_1024x512_1: 5495480237592016595
+      Excavadora_Avance_Sana_1024x512_10: 5533375412425840125
+      Excavadora_Avance_Sana_1024x512_2: -9119736701469601110
+      Excavadora_Avance_Sana_1024x512_3: 444129932173236383
+      Excavadora_Avance_Sana_1024x512_4: 1285006278575807801
+      Excavadora_Avance_Sana_1024x512_5: -4839036444115766373
+      Excavadora_Avance_Sana_1024x512_6: 2668113710112844537
+      Excavadora_Avance_Sana_1024x512_7: 8859000737758368531
+      Excavadora_Avance_Sana_1024x512_8: -6106775698270484117
+      Excavadora_Avance_Sana_1024x512_9: 1240459158560461393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1006 @@
+fileFormatVersion: 2
+guid: 4e09400d91350c6458af6d992bbf1c93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7279892726216012129
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_0
+  - first:
+      213: -4974328463337685359
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_1
+  - first:
+      213: -5490283897937180475
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_2
+  - first:
+      213: 7724495221240293553
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_3
+  - first:
+      213: -6536572727730276982
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_4
+  - first:
+      213: 6583687944173484085
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_5
+  - first:
+      213: -672359979527934581
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_6
+  - first:
+      213: -6960199116856996489
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_7
+  - first:
+      213: 564426709445591931
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_8
+  - first:
+      213: 2980599118224876600
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_9
+  - first:
+      213: 6532916783536328581
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_10
+  - first:
+      213: -3281391208189114812
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_11
+  - first:
+      213: 5053279385142528635
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_12
+  - first:
+      213: -2534940991681413177
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_13
+  - first:
+      213: -7589058901038525305
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_14
+  - first:
+      213: 7299742427362679279
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_15
+  - first:
+      213: 2330464916659193527
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_16
+  - first:
+      213: 7138247281463464268
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_17
+  - first:
+      213: -7166818152549782869
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_18
+  - first:
+      213: 2954302190116926142
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_19
+  - first:
+      213: -1549223411172468143
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_20
+  - first:
+      213: -1799274563251307431
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_21
+  - first:
+      213: 225624808124999211
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_22
+  - first:
+      213: -4694337393878715931
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_23
+  - first:
+      213: 8159596231367382789
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_24
+  - first:
+      213: 8695821355010413517
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_25
+  - first:
+      213: -2785622334596108082
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_26
+  - first:
+      213: -1001275315965055534
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_27
+  - first:
+      213: -7151162610117383339
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_28
+  - first:
+      213: -2469759052694103689
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_29
+  - first:
+      213: -5165809971957305052
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_30
+  - first:
+      213: 4573956475219678582
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_31
+  - first:
+      213: -4985331601346324017
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_32
+  - first:
+      213: -3041873455552691762
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_33
+  - first:
+      213: 3865154289114400727
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_34
+  - first:
+      213: -79720913466842685
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_35
+  - first:
+      213: -8974364894459442979
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_36
+  - first:
+      213: -7655427610255458472
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_37
+  - first:
+      213: 2890982872481935008
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_38
+  - first:
+      213: -7397095577612073179
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_39
+  - first:
+      213: -4828838978046037642
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_40
+  - first:
+      213: -1406585921840212693
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_41
+  - first:
+      213: -4776863919118604299
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_42
+  - first:
+      213: 2680383244359995861
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_43
+  - first:
+      213: -5372900107778315546
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_44
+  - first:
+      213: -7528557253755001132
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_45
+  - first:
+      213: 3819426728253294800
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_46
+  - first:
+      213: -8262629244875944497
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_47
+  - first:
+      213: 4030764769741361467
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_48
+  - first:
+      213: 8340594394582227697
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_49
+  - first:
+      213: -484965046767531861
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_50
+  - first:
+      213: 41412788719750747
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_51
+  - first:
+      213: -280639006714358294
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_52
+  - first:
+      213: -7210850055420148698
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_53
+  - first:
+      213: -5839701835698775605
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_54
+  - first:
+      213: -19167458634851962
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_55
+  - first:
+      213: -2187733314598575731
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_56
+  - first:
+      213: -5690924502327914763
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_57
+  - first:
+      213: -7263078018998798939
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_58
+  - first:
+      213: -7881650559057580116
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_59
+  - first:
+      213: 7051802186823603481
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_60
+  - first:
+      213: -549825470105299431
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_61
+  - first:
+      213: 6046445800061351028
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_62
+  - first:
+      213: -8990705997014148011
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_63
+  - first:
+      213: -3060846836152841401
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_64
+  - first:
+      213: -5139106901613015877
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_65
+  - first:
+      213: 8729486338708086485
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_66
+  - first:
+      213: -3926062447135182650
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_67
+  - first:
+      213: -996985156021933587
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_68
+  - first:
+      213: -7077175951044465089
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_69
+  - first:
+      213: 2751196806226953881
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_70
+  - first:
+      213: 4175753020751508727
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_71
+  - first:
+      213: -4369655903048754373
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_72
+  - first:
+      213: -5459180935035675945
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_73
+  - first:
+      213: -2134476641847091654
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_74
+  - first:
+      213: 2986826297164266411
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_75
+  - first:
+      213: 2471938893059876859
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_76
+  - first:
+      213: 76258126263461
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_77
+  - first:
+      213: -9007668090668743881
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_78
+  - first:
+      213: 8095317580198875741
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_79
+  - first:
+      213: -7385865701760897222
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_80
+  - first:
+      213: 3498224212853536759
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_81
+  - first:
+      213: -4914802082744319047
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_82
+  - first:
+      213: 6572144178113577921
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_83
+  - first:
+      213: -1735196112632345496
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_84
+  - first:
+      213: 6192739301680958450
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_85
+  - first:
+      213: -4670002604523793306
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_86
+  - first:
+      213: 33817988254151247
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_87
+  - first:
+      213: 4494757204385622840
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_88
+  - first:
+      213: 8159065860779420400
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_89
+  - first:
+      213: 4282592377588866928
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_90
+  - first:
+      213: 5736571420083463547
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_91
+  - first:
+      213: -1938645237850640514
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_92
+  - first:
+      213: 7228388667404592538
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_93
+  - first:
+      213: 5611134984131945567
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_94
+  - first:
+      213: 2852291514663647669
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_95
+  - first:
+      213: 3066311829639064340
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_96
+  - first:
+      213: 8721049991656642657
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_97
+  - first:
+      213: 1876310205068245868
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_98
+  - first:
+      213: 5031828381359256730
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_99
+  - first:
+      213: -3222416193372690096
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_100
+  - first:
+      213: -7661220084351917369
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_101
+  - first:
+      213: 6087528675758188073
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_102
+  - first:
+      213: -3474947903743482462
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_103
+  - first:
+      213: 2939105600235537690
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_104
+  - first:
+      213: 2077065691013166042
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_105
+  - first:
+      213: 8435538815098895992
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_106
+  - first:
+      213: -395385288849347114
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_107
+  - first:
+      213: 8380375796787824228
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_108
+  - first:
+      213: -4785303674678795089
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_109
+  - first:
+      213: -1545113430929483207
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_110
+  - first:
+      213: -2353860058214588212
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_111
+  - first:
+      213: 8443237069559543217
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_112
+  - first:
+      213: -4382059309856243651
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_113
+  - first:
+      213: 5419512087435861064
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_114
+  - first:
+      213: -8695824158228096852
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_115
+  - first:
+      213: 5508978138649142506
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_116
+  - first:
+      213: -4058018590357464877
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_117
+  - first:
+      213: -402817960285140986
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_118
+  - first:
+      213: -7704721317631117780
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_119
+  - first:
+      213: 8917256461859707768
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_120
+  - first:
+      213: 6620144648764738199
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_121
+  - first:
+      213: 4258908826746890378
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_122
+  - first:
+      213: -1008230524717258395
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_123
+  - first:
+      213: 1602538641448171301
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_124
+  - first:
+      213: -2624412222454872855
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_125
+  - first:
+      213: 53343861844212644
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_126
+  - first:
+      213: 1642782294655912365
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_127
+  - first:
+      213: 2002489444767809816
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_128
+  - first:
+      213: 6327428722665388632
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_129
+  - first:
+      213: 505544382723726461
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_130
+  - first:
+      213: 3237144301873516578
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_131
+  - first:
+      213: -3887009757085144381
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_132
+  - first:
+      213: -7759205939343277683
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_133
+  - first:
+      213: 7626864569521040405
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_134
+  - first:
+      213: -3793056384945905953
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_135
+  - first:
+      213: 3088760376582241707
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_136
+  - first:
+      213: -3882777542613162886
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_137
+  - first:
+      213: -258620394851687079
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_138
+  - first:
+      213: -2722628837402170863
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_139
+  - first:
+      213: -4112747849454203644
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_140
+  - first:
+      213: 8748867872702320545
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_141
+  - first:
+      213: 2586012492345938112
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_142
+  - first:
+      213: -1188796960562496878
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_143
+  - first:
+      213: 156759367219188169
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_144
+  - first:
+      213: -360465554414180276
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_145
+  - first:
+      213: 1579384946586158006
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_146
+  - first:
+      213: -1780261477335655540
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_147
+  - first:
+      213: -8954154685037460596
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_148
+  - first:
+      213: -5905915428692017214
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_149
+  - first:
+      213: 3221093154469098103
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_150
+  - first:
+      213: 3806695572082232831
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_151
+  - first:
+      213: -8672280082446754818
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_152
+  - first:
+      213: -2571943640374542788
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_153
+  - first:
+      213: 3089828316792543152
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_154
+  - first:
+      213: -1126228481855565467
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_155
+  - first:
+      213: -7080904885905998907
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_156
+  - first:
+      213: 5808549437437544996
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_157
+  - first:
+      213: 7088767841281758136
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_158
+  - first:
+      213: -2517815164511763610
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_159
+  - first:
+      213: -210646632371048740
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_160
+  - first:
+      213: 8369884490561162225
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_161
+  - first:
+      213: 3836898463924526378
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_162
+  - first:
+      213: 2110706868051688354
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_163
+  - first:
+      213: -7945532800817791405
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_164
+  - first:
+      213: 3146750885766305717
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_165
+  - first:
+      213: 5005450760726311859
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_166
+  - first:
+      213: -1231253136140763056
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_167
+  - first:
+      213: 7088827218403638862
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_168
+  - first:
+      213: 3147350239788221469
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_169
+  - first:
+      213: -4305557122397341236
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_170
+  - first:
+      213: -8144910209371119802
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_171
+  - first:
+      213: 1960660104812088623
+    second: Explosion_Canon_16_Frames_4x4_1024x1024_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec1f2d220a8fa90800000000000000
+      internalID: -7279892726216012129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e74a22e92a7fab0800000000000000
+      internalID: -4974328463337685359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8486332e79ec3b0800000000000000
+      internalID: -5490283897937180475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ea334a7be23b60800000000000000
+      internalID: 7724495221240293553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8571238cbd6945a0800000000000000
+      internalID: -6536572727730276982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5387b78ad45fd5b50800000000000000
+      internalID: 6583687944173484085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d6c03392c4ba6f0800000000000000
+      internalID: -672359979527934581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d40c9a7c7686f90800000000000000
+      internalID: -6960199116856996489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734f3e0a1f35d700800000000000000
+      internalID: 564426709445591931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e2ab2b173d5920800000000000000
+      internalID: 2980599118224876600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fced5a33599aa50800000000000000
+      internalID: 6532916783536328581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464ccae4182672d0800000000000000
+      internalID: -3281391208189114812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a893ec3dad02640800000000000000
+      internalID: 5053279385142528635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb048499412dcd0800000000000000
+      internalID: -2534940991681413177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7841518532f3ea690800000000000000
+      internalID: -7589058901038525305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_16_Frames_4x4_1024x1024_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9dccedf05ed4560800000000000000
+      internalID: 7299742427362679279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c700632725e3b84a9d671adcad1679c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Explosion_Canon_16_Frames_4x4_1024x1024_0: -7279892726216012129
+      Explosion_Canon_16_Frames_4x4_1024x1024_1: -4974328463337685359
+      Explosion_Canon_16_Frames_4x4_1024x1024_10: 6532916783536328581
+      Explosion_Canon_16_Frames_4x4_1024x1024_11: -3281391208189114812
+      Explosion_Canon_16_Frames_4x4_1024x1024_12: 5053279385142528635
+      Explosion_Canon_16_Frames_4x4_1024x1024_13: -2534940991681413177
+      Explosion_Canon_16_Frames_4x4_1024x1024_14: -7589058901038525305
+      Explosion_Canon_16_Frames_4x4_1024x1024_15: 7299742427362679279
+      Explosion_Canon_16_Frames_4x4_1024x1024_2: -5490283897937180475
+      Explosion_Canon_16_Frames_4x4_1024x1024_3: 7724495221240293553
+      Explosion_Canon_16_Frames_4x4_1024x1024_4: -6536572727730276982
+      Explosion_Canon_16_Frames_4x4_1024x1024_5: 6583687944173484085
+      Explosion_Canon_16_Frames_4x4_1024x1024_6: -672359979527934581
+      Explosion_Canon_16_Frames_4x4_1024x1024_7: -6960199116856996489
+      Explosion_Canon_16_Frames_4x4_1024x1024_8: 564426709445591931
+      Explosion_Canon_16_Frames_4x4_1024x1024_9: 2980599118224876600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

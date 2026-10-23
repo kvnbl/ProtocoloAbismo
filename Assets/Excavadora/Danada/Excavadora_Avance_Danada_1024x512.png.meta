@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 1773b768e72ba1d4bb4f3707bb1f38d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4900808343566690764
+    second: Excavadora_Avance_Danada_1024x512_0
+  - first:
+      213: 7096676447900165172
+    second: Excavadora_Avance_Danada_1024x512_1
+  - first:
+      213: -4523913693536598643
+    second: Excavadora_Avance_Danada_1024x512_2
+  - first:
+      213: -1101445843950210086
+    second: Excavadora_Avance_Danada_1024x512_3
+  - first:
+      213: 8589439428112834629
+    second: Excavadora_Avance_Danada_1024x512_4
+  - first:
+      213: -3699052183372156833
+    second: Excavadora_Avance_Danada_1024x512_5
+  - first:
+      213: -9211281631899635356
+    second: Excavadora_Avance_Danada_1024x512_6
+  - first:
+      213: -2601896589409319530
+    second: Excavadora_Avance_Danada_1024x512_7
+  - first:
+      213: 2925671628514788405
+    second: Excavadora_Avance_Danada_1024x512_8
+  - first:
+      213: -7709438908831715615
+    second: Excavadora_Avance_Danada_1024x512_9
+  - first:
+      213: -4042401477315886340
+    second: Excavadora_Avance_Danada_1024x512_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9209e093b230440800000000000000
+      internalID: 4900808343566690764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 497
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43468fa21a57c7260800000000000000
+      internalID: 7096676447900165172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 502
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c936e674d731c0800000000000000
+      internalID: -4523913693536598643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 320
+        width: 234
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3740437d0e6b0f0800000000000000
+      internalID: -1101445843950210086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 232
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540666ca6a1d33770800000000000000
+      internalID: 8589439428112834629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 320
+        width: 243
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50387c33a35aacc0800000000000000
+      internalID: -3699052183372156833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461ba84c824fa2080800000000000000
+      internalID: -9211281631899635356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 228
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69505fd56d434ebd0800000000000000
+      internalID: -2601896589409319530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534001368d21a9820800000000000000
+      internalID: 2925671628514788405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 64
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea285a822920590800000000000000
+      internalID: -7709438908831715615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Avance_Danada_1024x512_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 64
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28211264186e7c0800000000000000
+      internalID: -4042401477315886340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Avance_Danada_1024x512_0: 4900808343566690764
+      Excavadora_Avance_Danada_1024x512_1: 7096676447900165172
+      Excavadora_Avance_Danada_1024x512_10: -4042401477315886340
+      Excavadora_Avance_Danada_1024x512_2: -4523913693536598643
+      Excavadora_Avance_Danada_1024x512_3: -1101445843950210086
+      Excavadora_Avance_Danada_1024x512_4: 8589439428112834629
+      Excavadora_Avance_Danada_1024x512_5: -3699052183372156833
+      Excavadora_Avance_Danada_1024x512_6: -9211281631899635356
+      Excavadora_Avance_Danada_1024x512_7: -2601896589409319530
+      Excavadora_Avance_Danada_1024x512_8: 2925671628514788405
+      Excavadora_Avance_Danada_1024x512_9: -7709438908831715615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

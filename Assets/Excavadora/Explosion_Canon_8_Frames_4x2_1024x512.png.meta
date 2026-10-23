@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 08b464f0e6396254d9aa53f12d2ee13f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2966417840365211854
+    second: Explosion_Canon_8_Frames_4x2_1024x512_0
+  - first:
+      213: 6446172216296703302
+    second: Explosion_Canon_8_Frames_4x2_1024x512_1
+  - first:
+      213: -3457664387547216829
+    second: Explosion_Canon_8_Frames_4x2_1024x512_2
+  - first:
+      213: -1021053476491663046
+    second: Explosion_Canon_8_Frames_4x2_1024x512_3
+  - first:
+      213: -206768036585128406
+    second: Explosion_Canon_8_Frames_4x2_1024x512_4
+  - first:
+      213: 1392829694008949756
+    second: Explosion_Canon_8_Frames_4x2_1024x512_5
+  - first:
+      213: 5771414428245557767
+    second: Explosion_Canon_8_Frames_4x2_1024x512_6
+  - first:
+      213: -6991261899073451741
+    second: Explosion_Canon_8_Frames_4x2_1024x512_7
+  - first:
+      213: 2753981781533998585
+    second: Explosion_Canon_8_Frames_4x2_1024x512_8
+  - first:
+      213: -6493941396900983597
+    second: Explosion_Canon_8_Frames_4x2_1024x512_9
+  - first:
+      213: -1532182389090189252
+    second: Explosion_Canon_8_Frames_4x2_1024x512_10
+  - first:
+      213: 8299114997414091623
+    second: Explosion_Canon_8_Frames_4x2_1024x512_11
+  - first:
+      213: -9047821498086675290
+    second: Explosion_Canon_8_Frames_4x2_1024x512_12
+  - first:
+      213: 7403623734482036262
+    second: Explosion_Canon_8_Frames_4x2_1024x512_13
+  - first:
+      213: -3231104129547243711
+    second: Explosion_Canon_8_Frames_4x2_1024x512_14
+  - first:
+      213: 854652510118961977
+    second: Explosion_Canon_8_Frames_4x2_1024x512_15
+  - first:
+      213: 5001089710457911665
+    second: Explosion_Canon_8_Frames_4x2_1024x512_16
+  - first:
+      213: -5144805667526999015
+    second: Explosion_Canon_8_Frames_4x2_1024x512_17
+  - first:
+      213: -2786281882385128314
+    second: Explosion_Canon_8_Frames_4x2_1024x512_18
+  - first:
+      213: 5551648977637415252
+    second: Explosion_Canon_8_Frames_4x2_1024x512_19
+  - first:
+      213: 8975261535115348147
+    second: Explosion_Canon_8_Frames_4x2_1024x512_20
+  - first:
+      213: 2930230218261690532
+    second: Explosion_Canon_8_Frames_4x2_1024x512_21
+  - first:
+      213: -9032788637044467112
+    second: Explosion_Canon_8_Frames_4x2_1024x512_22
+  - first:
+      213: 2627665862735772319
+    second: Explosion_Canon_8_Frames_4x2_1024x512_23
+  - first:
+      213: -5069128166751026266
+    second: Explosion_Canon_8_Frames_4x2_1024x512_24
+  - first:
+      213: -8959988780880465376
+    second: Explosion_Canon_8_Frames_4x2_1024x512_25
+  - first:
+      213: 1873001692861426917
+    second: Explosion_Canon_8_Frames_4x2_1024x512_26
+  - first:
+      213: -1951793179140202230
+    second: Explosion_Canon_8_Frames_4x2_1024x512_27
+  - first:
+      213: -2671338270996360914
+    second: Explosion_Canon_8_Frames_4x2_1024x512_28
+  - first:
+      213: -4451789505702454863
+    second: Explosion_Canon_8_Frames_4x2_1024x512_29
+  - first:
+      213: -5047257108750414413
+    second: Explosion_Canon_8_Frames_4x2_1024x512_30
+  - first:
+      213: -2919660346286486679
+    second: Explosion_Canon_8_Frames_4x2_1024x512_31
+  - first:
+      213: 4731059447024809244
+    second: Explosion_Canon_8_Frames_4x2_1024x512_32
+  - first:
+      213: 2380684877557580020
+    second: Explosion_Canon_8_Frames_4x2_1024x512_33
+  - first:
+      213: 3627093990665302554
+    second: Explosion_Canon_8_Frames_4x2_1024x512_34
+  - first:
+      213: 2510839242300877658
+    second: Explosion_Canon_8_Frames_4x2_1024x512_35
+  - first:
+      213: 7311548757556772992
+    second: Explosion_Canon_8_Frames_4x2_1024x512_36
+  - first:
+      213: -1906962978258596799
+    second: Explosion_Canon_8_Frames_4x2_1024x512_37
+  - first:
+      213: 7579705927136447128
+    second: Explosion_Canon_8_Frames_4x2_1024x512_38
+  - first:
+      213: 3176929171248121839
+    second: Explosion_Canon_8_Frames_4x2_1024x512_39
+  - first:
+      213: 7139103583365868954
+    second: Explosion_Canon_8_Frames_4x2_1024x512_40
+  - first:
+      213: -2505841696734966035
+    second: Explosion_Canon_8_Frames_4x2_1024x512_41
+  - first:
+      213: 3346129605718300440
+    second: Explosion_Canon_8_Frames_4x2_1024x512_42
+  - first:
+      213: -8796163481894792813
+    second: Explosion_Canon_8_Frames_4x2_1024x512_43
+  - first:
+      213: -5281963026141049906
+    second: Explosion_Canon_8_Frames_4x2_1024x512_44
+  - first:
+      213: -5009946964394014408
+    second: Explosion_Canon_8_Frames_4x2_1024x512_45
+  - first:
+      213: -3288517842166928145
+    second: Explosion_Canon_8_Frames_4x2_1024x512_46
+  - first:
+      213: -1286860266349230023
+    second: Explosion_Canon_8_Frames_4x2_1024x512_47
+  - first:
+      213: 683645333634015663
+    second: Explosion_Canon_8_Frames_4x2_1024x512_48
+  - first:
+      213: 9084890477476090598
+    second: Explosion_Canon_8_Frames_4x2_1024x512_49
+  - first:
+      213: -7105785604712740425
+    second: Explosion_Canon_8_Frames_4x2_1024x512_50
+  - first:
+      213: 5401192750941452441
+    second: Explosion_Canon_8_Frames_4x2_1024x512_51
+  - first:
+      213: -7682015725027180795
+    second: Explosion_Canon_8_Frames_4x2_1024x512_52
+  - first:
+      213: -8340592224497505803
+    second: Explosion_Canon_8_Frames_4x2_1024x512_53
+  - first:
+      213: -4672649102937430199
+    second: Explosion_Canon_8_Frames_4x2_1024x512_54
+  - first:
+      213: 6484568574267473496
+    second: Explosion_Canon_8_Frames_4x2_1024x512_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0995e1f45da2920800000000000000
+      internalID: 2966417840365211854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458b593a77657950800000000000000
+      internalID: 6446172216296703302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344cabb1f88e300d0800000000000000
+      internalID: -3457664387547216829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39690dd54d74d1f0800000000000000
+      internalID: -1021053476491663046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e3074f099612df0800000000000000
+      internalID: -206768036585128406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf4082a33545310800000000000000
+      internalID: 1392829694008949756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702042f18de281050800000000000000
+      internalID: 5771414428245557767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Canon_8_Frames_4x2_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3290106185c0afe90800000000000000
+      internalID: -6991261899073451741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50abf86252fb9dc41a512c0be56fe94a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Explosion_Canon_8_Frames_4x2_1024x512_0: 2966417840365211854
+      Explosion_Canon_8_Frames_4x2_1024x512_1: 6446172216296703302
+      Explosion_Canon_8_Frames_4x2_1024x512_2: -3457664387547216829
+      Explosion_Canon_8_Frames_4x2_1024x512_3: -1021053476491663046
+      Explosion_Canon_8_Frames_4x2_1024x512_4: -206768036585128406
+      Explosion_Canon_8_Frames_4x2_1024x512_5: 1392829694008949756
+      Explosion_Canon_8_Frames_4x2_1024x512_6: 5771414428245557767
+      Explosion_Canon_8_Frames_4x2_1024x512_7: -6991261899073451741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

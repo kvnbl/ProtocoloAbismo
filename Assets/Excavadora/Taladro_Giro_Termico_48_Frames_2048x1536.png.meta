@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 5e08b4aaa561bc44ab705ba36ad799dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4170750706411155099
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_0
+  - first:
+      213: -7811155696921421838
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_1
+  - first:
+      213: 3607326889793096163
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_2
+  - first:
+      213: -9029684612049585098
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_3
+  - first:
+      213: -3756517639746389562
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_4
+  - first:
+      213: 3631210169704527530
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_5
+  - first:
+      213: -3835631239062891310
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_6
+  - first:
+      213: 1156884473271313749
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_7
+  - first:
+      213: 7222351777481932203
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_8
+  - first:
+      213: 1073761005734667737
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_9
+  - first:
+      213: -538954923600168358
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_10
+  - first:
+      213: -8343349544689594256
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_11
+  - first:
+      213: -960678197150326750
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_12
+  - first:
+      213: -5320422045568463499
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_13
+  - first:
+      213: -4565629681363122171
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_14
+  - first:
+      213: 8258316319736263379
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_15
+  - first:
+      213: 2118626981731733967
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_16
+  - first:
+      213: 7550768199893076807
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_17
+  - first:
+      213: 1901030150251167636
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_18
+  - first:
+      213: -4990147248060915729
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_19
+  - first:
+      213: 3187006421614913136
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_20
+  - first:
+      213: 7411641020742957497
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_21
+  - first:
+      213: -7355545003879649176
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_22
+  - first:
+      213: 7451195412312211797
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_23
+  - first:
+      213: 7244461729498857738
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_24
+  - first:
+      213: -5717420240732275219
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_25
+  - first:
+      213: -3827668032189355627
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_26
+  - first:
+      213: 331870760050458383
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_27
+  - first:
+      213: -8656704560588074099
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_28
+  - first:
+      213: 7629916265059749479
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_29
+  - first:
+      213: 461703523998037285
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_30
+  - first:
+      213: 3788433186220197705
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_31
+  - first:
+      213: 2085724625232714066
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_32
+  - first:
+      213: 8001807663464689033
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_33
+  - first:
+      213: -7070496414845716960
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_34
+  - first:
+      213: 6511593835809173792
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_35
+  - first:
+      213: 5154165180075561716
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_36
+  - first:
+      213: 438346991568775856
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_37
+  - first:
+      213: -3838803017513590721
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_38
+  - first:
+      213: 7406158170510475483
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_39
+  - first:
+      213: -6281891296388035756
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_40
+  - first:
+      213: -3051678252450947672
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_41
+  - first:
+      213: 1733394504021879345
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_42
+  - first:
+      213: 8760725264553289254
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_43
+  - first:
+      213: 68671522137854526
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_44
+  - first:
+      213: -6990686030312625119
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_45
+  - first:
+      213: -3202148154963849535
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_46
+  - first:
+      213: 6272014241196125730
+    second: Taladro_Giro_Termico_48_Frames_2048x1536_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea85e7bab71e930800000000000000
+      internalID: 4170750706411155099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7dab76743399390800000000000000
+      internalID: -7811155696921421838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e905de91bccf0230800000000000000
+      internalID: 3607326889793096163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c39f8cfad10b280800000000000000
+      internalID: -9029684612049585098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c97d6a0c1b2edbc0800000000000000
+      internalID: -3756517639746389562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6360e0966a46230800000000000000
+      internalID: 3631210169704527530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_6
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d34ac5b915cac0800000000000000
+      internalID: -3835631239062891310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_7
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1352
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555608b8c441e0010800000000000000
+      internalID: 1156884473271313749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badb8bb0da2fa3460800000000000000
+      internalID: 7222351777481932203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52b7812f3c6ee00800000000000000
+      internalID: 1073761005734667737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a3ddc3a5f3588f0800000000000000
+      internalID: -538954923600168358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0701cd74bc7763c80800000000000000
+      internalID: -8343349544689594256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_12
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2206463054cfaa2f0800000000000000
+      internalID: -960678197150326750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_13
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0cbe96501a26b0800000000000000
+      internalID: -5320422045568463499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_14
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080f5a9eff93a0c0800000000000000
+      internalID: -4565629681363122171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_15
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1096
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2f0b830fe6b9270800000000000000
+      internalID: 8258316319736263379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc19da1d300e66d10800000000000000
+      internalID: 2118626981731733967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b41ff0ca7b9c860800000000000000
+      internalID: 7550768199893076807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f370d79d0d16a10800000000000000
+      internalID: 1901030150251167636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef9f6e448f6fbab0800000000000000
+      internalID: -4990147248060915729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076ee3974758a3c20800000000000000
+      internalID: 3187006421614913136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f8146d307bd660800000000000000
+      internalID: 7411641020742957497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860ba525acadbe990800000000000000
+      internalID: -7355545003879649176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_23
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 840
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551c3e6dfb6f76760800000000000000
+      internalID: 7451195412312211797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0101b76f8f798460800000000000000
+      internalID: 7244461729498857738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded368f4594a7a0b0800000000000000
+      internalID: -5717420240732275219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992c3f543461eac0800000000000000
+      internalID: -3827668032189355627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f752ca2ba0b9400800000000000000
+      internalID: 331870760050458383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_28
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d4ac31153dd780800000000000000
+      internalID: -8656704560588074099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_29
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8cd40b68e2e960800000000000000
+      internalID: 7629916265059749479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_30
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f27ba8ec486600800000000000000
+      internalID: 461703523998037285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_31
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 584
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c4ff29e7339430800000000000000
+      internalID: 3788433186220197705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259d74afe7bf1fc10800000000000000
+      internalID: 2085724625232714066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dafcdaca12c0f60800000000000000
+      internalID: 8001807663464689033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_34
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b277c8fc80ed90800000000000000
+      internalID: -7070496414845716960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_35
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02177010814dd5a50800000000000000
+      internalID: 6511593835809173792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_36
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f257106ce5478740800000000000000
+      internalID: 5154165180075561716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_37
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba61d03442551600800000000000000
+      internalID: 438346991568775856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_38
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30a7629ef4d9bac0800000000000000
+      internalID: -3838803017513590721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_39
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 328
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd042a7dd95f7c660800000000000000
+      internalID: 7406158170510475483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4c29162d32d8a0800000000000000
+      internalID: -6281891296388035756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad50e14cc246a5d0800000000000000
+      internalID: -3051678252450947672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_42
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aa6d31e114e0810800000000000000
+      internalID: 1733394504021879345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_43
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6262d783639549970800000000000000
+      internalID: 8760725264553289254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_44
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e325633b268f3f000800000000000000
+      internalID: 68671522137854526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_45
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2eeaf7181cfe90800000000000000
+      internalID: -6990686030312625119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_46
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0531083faf83d0800000000000000
+      internalID: -3202148154963849535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro_Giro_Termico_48_Frames_2048x1536_47
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 72
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eafa8c8bbaa0750800000000000000
+      internalID: 6272014241196125730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Taladro_Giro_Termico_48_Frames_2048x1536_0: 4170750706411155099
+      Taladro_Giro_Termico_48_Frames_2048x1536_1: -7811155696921421838
+      Taladro_Giro_Termico_48_Frames_2048x1536_10: -538954923600168358
+      Taladro_Giro_Termico_48_Frames_2048x1536_11: -8343349544689594256
+      Taladro_Giro_Termico_48_Frames_2048x1536_12: -960678197150326750
+      Taladro_Giro_Termico_48_Frames_2048x1536_13: -5320422045568463499
+      Taladro_Giro_Termico_48_Frames_2048x1536_14: -4565629681363122171
+      Taladro_Giro_Termico_48_Frames_2048x1536_15: 8258316319736263379
+      Taladro_Giro_Termico_48_Frames_2048x1536_16: 2118626981731733967
+      Taladro_Giro_Termico_48_Frames_2048x1536_17: 7550768199893076807
+      Taladro_Giro_Termico_48_Frames_2048x1536_18: 1901030150251167636
+      Taladro_Giro_Termico_48_Frames_2048x1536_19: -4990147248060915729
+      Taladro_Giro_Termico_48_Frames_2048x1536_2: 3607326889793096163
+      Taladro_Giro_Termico_48_Frames_2048x1536_20: 3187006421614913136
+      Taladro_Giro_Termico_48_Frames_2048x1536_21: 7411641020742957497
+      Taladro_Giro_Termico_48_Frames_2048x1536_22: -7355545003879649176
+      Taladro_Giro_Termico_48_Frames_2048x1536_23: 7451195412312211797
+      Taladro_Giro_Termico_48_Frames_2048x1536_24: 7244461729498857738
+      Taladro_Giro_Termico_48_Frames_2048x1536_25: -5717420240732275219
+      Taladro_Giro_Termico_48_Frames_2048x1536_26: -3827668032189355627
+      Taladro_Giro_Termico_48_Frames_2048x1536_27: 331870760050458383
+      Taladro_Giro_Termico_48_Frames_2048x1536_28: -8656704560588074099
+      Taladro_Giro_Termico_48_Frames_2048x1536_29: 7629916265059749479
+      Taladro_Giro_Termico_48_Frames_2048x1536_3: -9029684612049585098
+      Taladro_Giro_Termico_48_Frames_2048x1536_30: 461703523998037285
+      Taladro_Giro_Termico_48_Frames_2048x1536_31: 3788433186220197705
+      Taladro_Giro_Termico_48_Frames_2048x1536_32: 2085724625232714066
+      Taladro_Giro_Termico_48_Frames_2048x1536_33: 8001807663464689033
+      Taladro_Giro_Termico_48_Frames_2048x1536_34: -7070496414845716960
+      Taladro_Giro_Termico_48_Frames_2048x1536_35: 6511593835809173792
+      Taladro_Giro_Termico_48_Frames_2048x1536_36: 5154165180075561716
+      Taladro_Giro_Termico_48_Frames_2048x1536_37: 438346991568775856
+      Taladro_Giro_Termico_48_Frames_2048x1536_38: -3838803017513590721
+      Taladro_Giro_Termico_48_Frames_2048x1536_39: 7406158170510475483
+      Taladro_Giro_Termico_48_Frames_2048x1536_4: -3756517639746389562
+      Taladro_Giro_Termico_48_Frames_2048x1536_40: -6281891296388035756
+      Taladro_Giro_Termico_48_Frames_2048x1536_41: -3051678252450947672
+      Taladro_Giro_Termico_48_Frames_2048x1536_42: 1733394504021879345
+      Taladro_Giro_Termico_48_Frames_2048x1536_43: 8760725264553289254
+      Taladro_Giro_Termico_48_Frames_2048x1536_44: 68671522137854526
+      Taladro_Giro_Termico_48_Frames_2048x1536_45: -6990686030312625119
+      Taladro_Giro_Termico_48_Frames_2048x1536_46: -3202148154963849535
+      Taladro_Giro_Termico_48_Frames_2048x1536_47: 6272014241196125730
+      Taladro_Giro_Termico_48_Frames_2048x1536_5: 3631210169704527530
+      Taladro_Giro_Termico_48_Frames_2048x1536_6: -3835631239062891310
+      Taladro_Giro_Termico_48_Frames_2048x1536_7: 1156884473271313749
+      Taladro_Giro_Termico_48_Frames_2048x1536_8: 7222351777481932203
+      Taladro_Giro_Termico_48_Frames_2048x1536_9: 1073761005734667737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

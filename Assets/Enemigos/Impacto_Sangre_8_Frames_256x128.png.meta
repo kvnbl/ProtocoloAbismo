@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 6b9235708f5582343bd28df007cbbdaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1046925954259209449
+    second: Impacto_Sangre_8_Frames_256x128_0
+  - first:
+      213: -2283781945092848619
+    second: Impacto_Sangre_8_Frames_256x128_1
+  - first:
+      213: -4027423381586946054
+    second: Impacto_Sangre_8_Frames_256x128_2
+  - first:
+      213: 7585186571585237775
+    second: Impacto_Sangre_8_Frames_256x128_3
+  - first:
+      213: -704127518232719764
+    second: Impacto_Sangre_8_Frames_256x128_4
+  - first:
+      213: 6901551409565070180
+    second: Impacto_Sangre_8_Frames_256x128_5
+  - first:
+      213: 75220835910040148
+    second: Impacto_Sangre_8_Frames_256x128_6
+  - first:
+      213: 5735405573852111235
+    second: Impacto_Sangre_8_Frames_256x128_7
+  - first:
+      213: -5178848631652519678
+    second: Impacto_Sangre_8_Frames_256x128_8
+  - first:
+      213: -7266382163302910249
+    second: Impacto_Sangre_8_Frames_256x128_9
+  - first:
+      213: 9151188152318751666
+    second: Impacto_Sangre_8_Frames_256x128_10
+  - first:
+      213: 1145721172912822024
+    second: Impacto_Sangre_8_Frames_256x128_11
+  - first:
+      213: 9128600832707748174
+    second: Impacto_Sangre_8_Frames_256x128_12
+  - first:
+      213: -3049851097197398828
+    second: Impacto_Sangre_8_Frames_256x128_13
+  - first:
+      213: 8223120202738228682
+    second: Impacto_Sangre_8_Frames_256x128_14
+  - first:
+      213: 3374995505957586413
+    second: Impacto_Sangre_8_Frames_256x128_15
+  - first:
+      213: -7165362187451627708
+    second: Impacto_Sangre_8_Frames_256x128_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133e3634629871f0800000000000000
+      internalID: -1046925954259209449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5144a42cb606e40e0800000000000000
+      internalID: -2283781945092848619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7586cc5c7bb18c0800000000000000
+      internalID: -4027423381586946054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b662bffef34960800000000000000
+      internalID: 7585186571585237775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4927b0cf6a36f0800000000000000
+      internalID: -704127518232719764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463f836e07c37cf50800000000000000
+      internalID: 6901551409565070180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a3024a3fc3b0100800000000000000
+      internalID: 75220835910040148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Sangre_8_Frames_256x128_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38120406bf0489f40800000000000000
+      internalID: 5735405573852111235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 494f3c22374b4f242a85f505542ad660
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Impacto_Sangre_8_Frames_256x128_0: -1046925954259209449
+      Impacto_Sangre_8_Frames_256x128_1: -2283781945092848619
+      Impacto_Sangre_8_Frames_256x128_2: -4027423381586946054
+      Impacto_Sangre_8_Frames_256x128_3: 7585186571585237775
+      Impacto_Sangre_8_Frames_256x128_4: -704127518232719764
+      Impacto_Sangre_8_Frames_256x128_5: 6901551409565070180
+      Impacto_Sangre_8_Frames_256x128_6: 75220835910040148
+      Impacto_Sangre_8_Frames_256x128_7: 5735405573852111235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
