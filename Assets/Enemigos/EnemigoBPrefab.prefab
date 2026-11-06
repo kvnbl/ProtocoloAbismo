@@ -12,9 +12,11 @@ GameObject:
   - component: {fileID: 8947435601152698786}
   - component: {fileID: 716624417450342432}
   - component: {fileID: 5516913127168833571}
-  - component: {fileID: 6187470131609007814}
-  - component: {fileID: 3075124419275693795}
-  m_Layer: 0
+  - component: {fileID: 3161413151820737230}
+  - component: {fileID: 7741339651893520741}
+  - component: {fileID: 7748979893978262456}
+  - component: {fileID: 954442803968680613}
+  m_Layer: 11
   m_Name: EnemigoBPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31,7 +33,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 55.5, y: 0.35, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -83,9 +85,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -3647075144724661989, guid: 3364b410392f3ef4eb5a650f5517bdb2, type: 3}
+  m_Sprite: {fileID: -1128639344912889911, guid: 3d6c0c78b82044542a8aae5980c099a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
   m_FlipY: 0
@@ -129,7 +131,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 2
@@ -142,28 +144,10 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &6187470131609007814
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5736251085565519511}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6726883fa8de4c348ab39b7a84dbe3f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemigoBasico
-  vidaMaxima: 6
-  jugador: {fileID: 0}
-  velocidad: 1.5
-  distanciaDeteccion: 8
-  distanciaDetencion: 1.5
-  imagen: {fileID: 8947435601152698786}
---- !u!61 &3075124419275693795
-BoxCollider2D:
+--- !u!70 &3161413151820737230
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -196,15 +180,90 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0069594383, y: 0.27380687}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.12, y: 5.12}
-    newSize: {x: 5.12, y: 5.12}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 4.636367, y: 2.813785}
-  m_EdgeRadius: 0
+  m_Offset: {x: 0.28519586, y: -0.003088628}
+  m_Size: {x: 3.3116713, y: 3.2280285}
+  m_Direction: 1
+--- !u!114 &7741339651893520741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5736251085565519511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97c2f2a8620ae1f4a8432a73d490c472, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EventosEnemigo
+--- !u!114 &7748979893978262456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5736251085565519511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5d54c25af03e645ad84e305e9c747f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EfectosEnemigo
+  imagen: {fileID: 8947435601152698786}
+  animador: {fileID: 716624417450342432}
+  muerteNormal: {fileID: 2800000, guid: a510f02c0a3c01e418f8093867861b0f, type: 3}
+  muerteAplastamiento: {fileID: 2800000, guid: 53ba71ce809bc2f4e805e60e2547ca34, type: 3}
+  muerteCanon: {fileID: 2800000, guid: e9b4a96ba26e15548bf081935a374ab6, type: 3}
+  impactoSangre: {fileID: 2800000, guid: 6b9235708f5582343bd28df007cbbdaa, type: 3}
+  cuadrosPorSegundo: 16
+  cuadrosSangrePorSegundo: 16
+  shaderDestello: {fileID: 4800000, guid: 4cf6908fab97d1141b9d6f99f55eab62, type: 3}
+  intensidadDestello: 0.35
+  duracionDestello: 0.08
+  segundosCuerpoVisible: 3
+  segundosParpadeo: 4
+  intervaloLento: 0.4
+  intervaloRapido: 0.045
+  gravedadRestos: 1
+--- !u!114 &954442803968680613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5736251085565519511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca88b0de3b3a1d4fba47df7275109e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemigoBasico
+  vidaMaxima: 5
+  jugador: {fileID: 0}
+  velocidad: 4.5
+  distanciaDeteccion: 35
+  separacionAtaque: 4
+  separacionMinima: 4
+  margenVertical: 0.25
+  cuerpoEnemigo: {fileID: 0}
+  cuerpoJugador: {fileID: 0}
+  velocidadPasoAtras: 8
+  duracionPasoAtras: 20
+  velocidadEmbestida: 15
+  fuerzaSalto: 5
+  duracionMaximaEmbestida: 1
+  danio: 1
+  velocidadRetroceso: 7
+  distanciaRetirada: 5
+  duracionMaximaRetirada: 5
+  pausaAterrizaje: 0.5
+  esperaEntreAtaques: 1.2
+  variacionEspera: 0.6
+  variacionSeparacion: 0.12
+  tiempoMaximoPreparacion: 2
+  prefabMunicion: {fileID: 4168377933204098024, guid: 1a0f195b02ce5a14881928e44f84cdcc, type: 3}
+  probabilidadMunicion: 25
+  alturaMunicion: 0.25
+  capasSuelo:
+    serializedVersion: 2
+    m_Bits: 264
+  anim: {fileID: 716624417450342432}
+  imagen: {fileID: 0}
+  efectos: {fileID: 7748979893978262456}

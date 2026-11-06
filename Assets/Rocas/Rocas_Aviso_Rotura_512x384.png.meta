@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 474df7a0aa2bb844980f585fda33ef6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2370492140009737935
+    second: Rocas_Aviso_Rotura_512x384_0
+  - first:
+      213: 3995887905861604653
+    second: Rocas_Aviso_Rotura_512x384_1
+  - first:
+      213: 4047704892371180357
+    second: Rocas_Aviso_Rotura_512x384_2
+  - first:
+      213: 4975014789828714285
+    second: Rocas_Aviso_Rotura_512x384_3
+  - first:
+      213: 2929475049290435048
+    second: Rocas_Aviso_Rotura_512x384_4
+  - first:
+      213: 6803759199447046320
+    second: Rocas_Aviso_Rotura_512x384_5
+  - first:
+      213: -1448753772580961659
+    second: Rocas_Aviso_Rotura_512x384_6
+  - first:
+      213: 3829557191526927200
+    second: Rocas_Aviso_Rotura_512x384_7
+  - first:
+      213: -4873081025779040281
+    second: Rocas_Aviso_Rotura_512x384_8
+  - first:
+      213: 1101099400147157980
+    second: Rocas_Aviso_Rotura_512x384_9
+  - first:
+      213: 2582837204123286869
+    second: Rocas_Aviso_Rotura_512x384_10
+  - first:
+      213: -8240044541805389425
+    second: Rocas_Aviso_Rotura_512x384_11
+  - first:
+      213: -7711223581227727585
+    second: Rocas_Aviso_Rotura_512x384_12
+  - first:
+      213: -3504817693990997587
+    second: Rocas_Aviso_Rotura_512x384_13
+  - first:
+      213: -4840103236677074188
+    second: Rocas_Aviso_Rotura_512x384_14
+  - first:
+      213: -6191108198825886434
+    second: Rocas_Aviso_Rotura_512x384_15
+  - first:
+      213: 818469673050228268
+    second: Rocas_Aviso_Rotura_512x384_16
+  - first:
+      213: -2507554476692029069
+    second: Rocas_Aviso_Rotura_512x384_17
+  - first:
+      213: 5555820859261938935
+    second: Rocas_Aviso_Rotura_512x384_18
+  - first:
+      213: -6918624743699636578
+    second: Rocas_Aviso_Rotura_512x384_19
+  - first:
+      213: -4340831924009824817
+    second: Rocas_Aviso_Rotura_512x384_20
+  - first:
+      213: 1048562194320256652
+    second: Rocas_Aviso_Rotura_512x384_21
+  - first:
+      213: 7363776638245808032
+    second: Rocas_Aviso_Rotura_512x384_22
+  - first:
+      213: -6560387249015650287
+    second: Rocas_Aviso_Rotura_512x384_23
+  - first:
+      213: 6376344395071554953
+    second: Rocas_Aviso_Rotura_512x384_24
+  - first:
+      213: -4158620710276394753
+    second: Rocas_Aviso_Rotura_512x384_25
+  - first:
+      213: -839640579634712667
+    second: Rocas_Aviso_Rotura_512x384_26
+  - first:
+      213: -4176198074522747811
+    second: Rocas_Aviso_Rotura_512x384_27
+  - first:
+      213: 408398446820760892
+    second: Rocas_Aviso_Rotura_512x384_28
+  - first:
+      213: 6256048557002880400
+    second: Rocas_Aviso_Rotura_512x384_29
+  - first:
+      213: 3134408757964992975
+    second: Rocas_Aviso_Rotura_512x384_30
+  - first:
+      213: 4646657525345877824
+    second: Rocas_Aviso_Rotura_512x384_31
+  - first:
+      213: 7916320942082280401
+    second: Rocas_Aviso_Rotura_512x384_32
+  - first:
+      213: 8217613006272525790
+    second: Rocas_Aviso_Rotura_512x384_33
+  - first:
+      213: 5184128977104055597
+    second: Rocas_Aviso_Rotura_512x384_34
+  - first:
+      213: 5411699487013234912
+    second: Rocas_Aviso_Rotura_512x384_35
+  - first:
+      213: -8709982953071380303
+    second: Rocas_Aviso_Rotura_512x384_36
+  - first:
+      213: -4108193552271760486
+    second: Rocas_Aviso_Rotura_512x384_37
+  - first:
+      213: 30412404386611587
+    second: Rocas_Aviso_Rotura_512x384_38
+  - first:
+      213: 7669881418706904159
+    second: Rocas_Aviso_Rotura_512x384_39
+  - first:
+      213: -289915314663274022
+    second: Rocas_Aviso_Rotura_512x384_40
+  - first:
+      213: 1231810173837803468
+    second: Rocas_Aviso_Rotura_512x384_41
+  - first:
+      213: 6748319826586322244
+    second: Rocas_Aviso_Rotura_512x384_42
+  - first:
+      213: 2965986831051723178
+    second: Rocas_Aviso_Rotura_512x384_43
+  - first:
+      213: -4741451697860477528
+    second: Rocas_Aviso_Rotura_512x384_44
+  - first:
+      213: -3390764146257284390
+    second: Rocas_Aviso_Rotura_512x384_45
+  - first:
+      213: -5054471823323815321
+    second: Rocas_Aviso_Rotura_512x384_46
+  - first:
+      213: -3496623265852608172
+    second: Rocas_Aviso_Rotura_512x384_47
+  - first:
+      213: -5633504363288325032
+    second: Rocas_Aviso_Rotura_512x384_48
+  - first:
+      213: -1409349360234735844
+    second: Rocas_Aviso_Rotura_512x384_49
+  - first:
+      213: -1708791826149740207
+    second: Rocas_Aviso_Rotura_512x384_50
+  - first:
+      213: 8581632959817642742
+    second: Rocas_Aviso_Rotura_512x384_51
+  - first:
+      213: 931355806269969431
+    second: Rocas_Aviso_Rotura_512x384_52
+  - first:
+      213: 2269265596181320005
+    second: Rocas_Aviso_Rotura_512x384_53
+  - first:
+      213: 6765326510070666575
+    second: Rocas_Aviso_Rotura_512x384_54
+  - first:
+      213: 8069438896175331970
+    second: Rocas_Aviso_Rotura_512x384_55
+  - first:
+      213: 2207650136639295127
+    second: Rocas_Aviso_Rotura_512x384_56
+  - first:
+      213: 3822788728275191648
+    second: Rocas_Aviso_Rotura_512x384_57
+  - first:
+      213: -4401600190465380051
+    second: Rocas_Aviso_Rotura_512x384_58
+  - first:
+      213: -6693702889256534061
+    second: Rocas_Aviso_Rotura_512x384_59
+  - first:
+      213: -5739462504398533535
+    second: Rocas_Aviso_Rotura_512x384_60
+  - first:
+      213: 2378790011703179465
+    second: Rocas_Aviso_Rotura_512x384_61
+  - first:
+      213: 5732538720480469072
+    second: Rocas_Aviso_Rotura_512x384_62
+  - first:
+      213: -4847801500322043193
+    second: Rocas_Aviso_Rotura_512x384_63
+  - first:
+      213: -6950981855994849423
+    second: Rocas_Aviso_Rotura_512x384_64
+  - first:
+      213: -1865825081529453084
+    second: Rocas_Aviso_Rotura_512x384_65
+  - first:
+      213: -9132006863904002273
+    second: Rocas_Aviso_Rotura_512x384_66
+  - first:
+      213: 8344583544115624872
+    second: Rocas_Aviso_Rotura_512x384_67
+  - first:
+      213: 6311122528536326953
+    second: Rocas_Aviso_Rotura_512x384_68
+  - first:
+      213: -2407265749192090279
+    second: Rocas_Aviso_Rotura_512x384_69
+  - first:
+      213: -9132712366522988024
+    second: Rocas_Aviso_Rotura_512x384_70
+  - first:
+      213: 5899732216270995877
+    second: Rocas_Aviso_Rotura_512x384_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313dd345f15a1fd0800000000000000
+      internalID: -2370492140009737935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25192711ee347730800000000000000
+      internalID: 3995887905861604653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b156967265c2830800000000000000
+      internalID: 4047704892371180357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 271
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f1e04b79dca0540800000000000000
+      internalID: 4975014789828714285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 208
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9835b490697a820800000000000000
+      internalID: 2929475049290435048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 202
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8565ca1fecb6e50800000000000000
+      internalID: 6803759199447046320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5820e42ae1ef4ebe0800000000000000
+      internalID: -1448753772580961659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 203
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b4100d9f1552530800000000000000
+      internalID: 3829557191526927200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7eb030a65f5cb0800000000000000
+      internalID: -4873081025779040281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3ca201214e74f00800000000000000
+      internalID: 1101099400147157980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 205
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7e60b0c418d320800000000000000
+      internalID: 2582837204123286869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891b48952b75ad80800000000000000
+      internalID: -8240044541805389425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 214
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f154e49320b3cf490800000000000000
+      internalID: -7711223581227727585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b92b60e26c5fc0800000000000000
+      internalID: -3504817693990997587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f205ad00cf74dcb0800000000000000
+      internalID: -4840103236677074188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 182
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d79f225e3c41aa0800000000000000
+      internalID: -6191108198825886434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c699c4d9cb5b00800000000000000
+      internalID: 818469673050228268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c4d13d70633dd0800000000000000
+      internalID: -2507554476692029069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 177
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6300b2ad3a1d40800000000000000
+      internalID: 5555820859261938935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1e89b37b1cff90800000000000000
+      internalID: -6918624743699636578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 180
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd08b32d5442c3c0800000000000000
+      internalID: -4340831924009824817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 189
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eec5d92cd3d8e00800000000000000
+      internalID: 1048562194320256652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 168
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a726f766d3613660800000000000000
+      internalID: 7363776638245808032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 163
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1188b613e82d4f4a0800000000000000
+      internalID: -6560387249015650287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 158
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9850bc9a1735d7850800000000000000
+      internalID: 6376344395071554953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff094605f7c9946c0800000000000000
+      internalID: -4158620710276394753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 170
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afaed7675ff854f0800000000000000
+      internalID: -839640579634712667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 151
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb6684af92b06c0800000000000000
+      internalID: -4176198074522747811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 148
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d929d393ceaa500800000000000000
+      internalID: 408398446820760892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09570c14403f1d650800000000000000
+      internalID: 6256048557002880400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc170679828af7b20800000000000000
+      internalID: 3134408757964992975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff227766e3c7040800000000000000
+      internalID: 4646657525345877824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbccc054fb6cdd60800000000000000
+      internalID: 7916320942082280401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f08c8d73da0270800000000000000
+      internalID: 8217613006272525790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 73
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da81686d9b1f740800000000000000
+      internalID: 5184128977104055597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 79
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e86692d2083a1b40800000000000000
+      internalID: 5411699487013234912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8f872d6acef1780800000000000000
+      internalID: -8709982953071380303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93aa48fab3ccf6c0800000000000000
+      internalID: -4108193552271760486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 78
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381ca30bbeb0c6000800000000000000
+      internalID: 30412404386611587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54e4677384e07a60800000000000000
+      internalID: 7669881418706904159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_40
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 82
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9cc8eae830afbf0800000000000000
+      internalID: -289915314663274022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7052a3d4481110800000000000000
+      internalID: 1231810173837803468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445476ec029d6ad50800000000000000
+      internalID: 6748319826586322244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 47
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa11351fe4d492920800000000000000
+      internalID: 2965986831051723178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7a555dcaf23eb0800000000000000
+      internalID: -4741451697860477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2343959f591f0d0800000000000000
+      internalID: -3390764146257284390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 77
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762209b08a8ead9b0800000000000000
+      internalID: -5054471823323815321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513d756aaf797fc0800000000000000
+      internalID: -3496623265852608172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854169111a5c1d1b0800000000000000
+      internalID: -5633504363288325032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17d8c2593cf07ce0800000000000000
+      internalID: -1409349360234735844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151f04f33e62948e0800000000000000
+      internalID: -1708791826149740207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_51
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 62
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f6b2a5b5181770800000000000000
+      internalID: 8581632959817642742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 62
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7141838db27dcec00800000000000000
+      internalID: 931355806269969431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_53
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5411761690d0e7f10800000000000000
+      internalID: 2269265596181320005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_54
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459b4edd9443ed50800000000000000
+      internalID: 6765326510070666575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a304f1ce76cff60800000000000000
+      internalID: 8069438896175331970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4ab64a1623ae10800000000000000
+      internalID: 2207650136639295127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c53828164d0530800000000000000
+      internalID: 3822788728275191648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 42
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f40c82ff5ae2c0800000000000000
+      internalID: -4401600190465380051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfbbdddfa03b13a0800000000000000
+      internalID: -6693702889256534061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cc6afd2455950b0800000000000000
+      internalID: -5739462504398533535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_61
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8b0da89e8230120800000000000000
+      internalID: 2378790011703179465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 20
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050296f08911e8f40800000000000000
+      internalID: 5732538720480469072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cae2bf583629bcb0800000000000000
+      internalID: -4847801500322043193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 25
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177dd3174d6298f90800000000000000
+      internalID: -6950981855994849423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53c6259f14b16e0800000000000000
+      internalID: -1865825081529453084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_66
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa2960428944180800000000000000
+      internalID: -9132006863904002273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf499958aedc370800000000000000
+      internalID: 8344583544115624872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 28
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237f5f708c959750800000000000000
+      internalID: 6311122528536326953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_69
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd07b2e8ca79ed0800000000000000
+      internalID: -2407265749192090279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a84956d76124180800000000000000
+      internalID: -9132712366522988024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas_Aviso_Rotura_512x384_71
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 28
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1c2cc413f00e150800000000000000
+      internalID: 5899732216270995877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rocas_Aviso_Rotura_512x384_0: -2370492140009737935
+      Rocas_Aviso_Rotura_512x384_1: 3995887905861604653
+      Rocas_Aviso_Rotura_512x384_10: 2582837204123286869
+      Rocas_Aviso_Rotura_512x384_11: -8240044541805389425
+      Rocas_Aviso_Rotura_512x384_12: -7711223581227727585
+      Rocas_Aviso_Rotura_512x384_13: -3504817693990997587
+      Rocas_Aviso_Rotura_512x384_14: -4840103236677074188
+      Rocas_Aviso_Rotura_512x384_15: -6191108198825886434
+      Rocas_Aviso_Rotura_512x384_16: 818469673050228268
+      Rocas_Aviso_Rotura_512x384_17: -2507554476692029069
+      Rocas_Aviso_Rotura_512x384_18: 5555820859261938935
+      Rocas_Aviso_Rotura_512x384_19: -6918624743699636578
+      Rocas_Aviso_Rotura_512x384_2: 4047704892371180357
+      Rocas_Aviso_Rotura_512x384_20: -4340831924009824817
+      Rocas_Aviso_Rotura_512x384_21: 1048562194320256652
+      Rocas_Aviso_Rotura_512x384_22: 7363776638245808032
+      Rocas_Aviso_Rotura_512x384_23: -6560387249015650287
+      Rocas_Aviso_Rotura_512x384_24: 6376344395071554953
+      Rocas_Aviso_Rotura_512x384_25: -4158620710276394753
+      Rocas_Aviso_Rotura_512x384_26: -839640579634712667
+      Rocas_Aviso_Rotura_512x384_27: -4176198074522747811
+      Rocas_Aviso_Rotura_512x384_28: 408398446820760892
+      Rocas_Aviso_Rotura_512x384_29: 6256048557002880400
+      Rocas_Aviso_Rotura_512x384_3: 4975014789828714285
+      Rocas_Aviso_Rotura_512x384_30: 3134408757964992975
+      Rocas_Aviso_Rotura_512x384_31: 4646657525345877824
+      Rocas_Aviso_Rotura_512x384_32: 7916320942082280401
+      Rocas_Aviso_Rotura_512x384_33: 8217613006272525790
+      Rocas_Aviso_Rotura_512x384_34: 5184128977104055597
+      Rocas_Aviso_Rotura_512x384_35: 5411699487013234912
+      Rocas_Aviso_Rotura_512x384_36: -8709982953071380303
+      Rocas_Aviso_Rotura_512x384_37: -4108193552271760486
+      Rocas_Aviso_Rotura_512x384_38: 30412404386611587
+      Rocas_Aviso_Rotura_512x384_39: 7669881418706904159
+      Rocas_Aviso_Rotura_512x384_4: 2929475049290435048
+      Rocas_Aviso_Rotura_512x384_40: -289915314663274022
+      Rocas_Aviso_Rotura_512x384_41: 1231810173837803468
+      Rocas_Aviso_Rotura_512x384_42: 6748319826586322244
+      Rocas_Aviso_Rotura_512x384_43: 2965986831051723178
+      Rocas_Aviso_Rotura_512x384_44: -4741451697860477528
+      Rocas_Aviso_Rotura_512x384_45: -3390764146257284390
+      Rocas_Aviso_Rotura_512x384_46: -5054471823323815321
+      Rocas_Aviso_Rotura_512x384_47: -3496623265852608172
+      Rocas_Aviso_Rotura_512x384_48: -5633504363288325032
+      Rocas_Aviso_Rotura_512x384_49: -1409349360234735844
+      Rocas_Aviso_Rotura_512x384_5: 6803759199447046320
+      Rocas_Aviso_Rotura_512x384_50: -1708791826149740207
+      Rocas_Aviso_Rotura_512x384_51: 8581632959817642742
+      Rocas_Aviso_Rotura_512x384_52: 931355806269969431
+      Rocas_Aviso_Rotura_512x384_53: 2269265596181320005
+      Rocas_Aviso_Rotura_512x384_54: 6765326510070666575
+      Rocas_Aviso_Rotura_512x384_55: 8069438896175331970
+      Rocas_Aviso_Rotura_512x384_56: 2207650136639295127
+      Rocas_Aviso_Rotura_512x384_57: 3822788728275191648
+      Rocas_Aviso_Rotura_512x384_58: -4401600190465380051
+      Rocas_Aviso_Rotura_512x384_59: -6693702889256534061
+      Rocas_Aviso_Rotura_512x384_6: -1448753772580961659
+      Rocas_Aviso_Rotura_512x384_60: -5739462504398533535
+      Rocas_Aviso_Rotura_512x384_61: 2378790011703179465
+      Rocas_Aviso_Rotura_512x384_62: 5732538720480469072
+      Rocas_Aviso_Rotura_512x384_63: -4847801500322043193
+      Rocas_Aviso_Rotura_512x384_64: -6950981855994849423
+      Rocas_Aviso_Rotura_512x384_65: -1865825081529453084
+      Rocas_Aviso_Rotura_512x384_66: -9132006863904002273
+      Rocas_Aviso_Rotura_512x384_67: 8344583544115624872
+      Rocas_Aviso_Rotura_512x384_68: 6311122528536326953
+      Rocas_Aviso_Rotura_512x384_69: -2407265749192090279
+      Rocas_Aviso_Rotura_512x384_7: 3829557191526927200
+      Rocas_Aviso_Rotura_512x384_70: -9132712366522988024
+      Rocas_Aviso_Rotura_512x384_71: 5899732216270995877
+      Rocas_Aviso_Rotura_512x384_8: -4873081025779040281
+      Rocas_Aviso_Rotura_512x384_9: 1101099400147157980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

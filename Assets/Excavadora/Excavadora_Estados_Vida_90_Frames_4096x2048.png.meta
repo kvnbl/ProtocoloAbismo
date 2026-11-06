@@ -1,0 +1,4875 @@
+fileFormatVersion: 2
+guid: 37171ebc9ea13c84d9433fa0a73a454a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8206747901460438891
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_0
+  - first:
+      213: -7068287588316949917
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_1
+  - first:
+      213: 4634253832211955303
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_2
+  - first:
+      213: -1771003735560703346
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_3
+  - first:
+      213: -9206713081206621919
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_4
+  - first:
+      213: -1763828768061071061
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_5
+  - first:
+      213: -6557006265174919505
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_6
+  - first:
+      213: 5932164872187993589
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_7
+  - first:
+      213: -7642749619697663699
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_8
+  - first:
+      213: 1425322475124733637
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_9
+  - first:
+      213: 711454306052293730
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_10
+  - first:
+      213: 5656303530944070410
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_11
+  - first:
+      213: -3390195174740180804
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_12
+  - first:
+      213: -3601609376656165886
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_13
+  - first:
+      213: 2873650009927130714
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_14
+  - first:
+      213: 5753220935921142698
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_15
+  - first:
+      213: 955892333232074188
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_16
+  - first:
+      213: -5504043749729871882
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_17
+  - first:
+      213: 6803348765839642951
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_18
+  - first:
+      213: -6273103018327805577
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_19
+  - first:
+      213: 2021308026071137864
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_20
+  - first:
+      213: -7784874746790340138
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_21
+  - first:
+      213: -3056717825892503188
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_22
+  - first:
+      213: 8885703256214443998
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_23
+  - first:
+      213: -895844100468852488
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_24
+  - first:
+      213: -8490008950958841640
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_25
+  - first:
+      213: 4729477118482573973
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_26
+  - first:
+      213: 2427772026248372653
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_27
+  - first:
+      213: -4988354745088015365
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_28
+  - first:
+      213: 2798272339399105723
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_29
+  - first:
+      213: -1102070938938581323
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_30
+  - first:
+      213: 4646509674930261243
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_31
+  - first:
+      213: -7088295012111149683
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_32
+  - first:
+      213: -3563235730562169426
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_33
+  - first:
+      213: -8019851632348611699
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_34
+  - first:
+      213: 8602127949677670691
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_35
+  - first:
+      213: -8584052804185572458
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_36
+  - first:
+      213: 841134280059027430
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_37
+  - first:
+      213: 3782571280700032886
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_38
+  - first:
+      213: 7675714913645338871
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_39
+  - first:
+      213: 6490626212223708221
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_40
+  - first:
+      213: -6447413254557875164
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_41
+  - first:
+      213: 4936753234104359676
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_42
+  - first:
+      213: 7520863089350989025
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_43
+  - first:
+      213: 91126952312727361
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_44
+  - first:
+      213: 2679510795600655800
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_45
+  - first:
+      213: -9101700574968318782
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_46
+  - first:
+      213: -3681537585350422740
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_47
+  - first:
+      213: 8670649314385128632
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_48
+  - first:
+      213: -691577178367684275
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_49
+  - first:
+      213: 2703985281408722275
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_50
+  - first:
+      213: 6738805803207460012
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_51
+  - first:
+      213: 1132697107547475576
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_52
+  - first:
+      213: 3604176068577878324
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_53
+  - first:
+      213: -5788423824313745834
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_54
+  - first:
+      213: 4552739992773047659
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_55
+  - first:
+      213: -541392783819553637
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_56
+  - first:
+      213: -5594645136466431331
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_57
+  - first:
+      213: 8475055820325142633
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_58
+  - first:
+      213: -5747441432673556082
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_59
+  - first:
+      213: 3887816149885347646
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_60
+  - first:
+      213: 3863306187646040204
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_61
+  - first:
+      213: 2016352934934762319
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_62
+  - first:
+      213: -5392571972215358151
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_63
+  - first:
+      213: -9092350499817670341
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_64
+  - first:
+      213: -8582232838122929308
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_65
+  - first:
+      213: -8482197669405594121
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_66
+  - first:
+      213: -1128486534557113968
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_67
+  - first:
+      213: 7291052733655810307
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_68
+  - first:
+      213: -2747604866176368862
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_69
+  - first:
+      213: 4177074192630379230
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_70
+  - first:
+      213: 725454434380542616
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_71
+  - first:
+      213: 5739257696530654114
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_72
+  - first:
+      213: -7020113116465213387
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_73
+  - first:
+      213: -5254036947191696596
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_74
+  - first:
+      213: 6974993552759707532
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_75
+  - first:
+      213: 3160696652396425350
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_76
+  - first:
+      213: -413753394159423613
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_77
+  - first:
+      213: 951974571432817230
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_78
+  - first:
+      213: -52076505730793824
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_79
+  - first:
+      213: 2673873688045611688
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_80
+  - first:
+      213: 5972254606249120
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_81
+  - first:
+      213: -1401732530666377706
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_82
+  - first:
+      213: -7643314509637277797
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_83
+  - first:
+      213: -5087314331337926082
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_84
+  - first:
+      213: 1088650485874867378
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_85
+  - first:
+      213: 3049160316761214237
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_86
+  - first:
+      213: -6273016791871915679
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_87
+  - first:
+      213: -1803530492510556302
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_88
+  - first:
+      213: 7974921054477717052
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_89
+  - first:
+      213: 7633617251459562338
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_90
+  - first:
+      213: 302763431541138105
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_91
+  - first:
+      213: -1427329651289094186
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_92
+  - first:
+      213: 3090800136123522876
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_93
+  - first:
+      213: 5303045564966536210
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_94
+  - first:
+      213: -6810191449739153125
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_95
+  - first:
+      213: 2384613585872968799
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_96
+  - first:
+      213: 535434195232527942
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_97
+  - first:
+      213: 5127735344448579345
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_98
+  - first:
+      213: -2209756884767839968
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_99
+  - first:
+      213: -6291308074547802387
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_100
+  - first:
+      213: -5542242451707553052
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_101
+  - first:
+      213: 8537517224219370450
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_102
+  - first:
+      213: -3800729214078383499
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_103
+  - first:
+      213: 7128523420470158999
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_104
+  - first:
+      213: 8750229229159960389
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_105
+  - first:
+      213: 448888912386662567
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_106
+  - first:
+      213: 9146947054410674183
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_107
+  - first:
+      213: -8094754456335442679
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_108
+  - first:
+      213: -2379723441265221762
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_109
+  - first:
+      213: 4737333735951039054
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_110
+  - first:
+      213: 6707775427899558561
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_111
+  - first:
+      213: 5523770250206482052
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_112
+  - first:
+      213: 7554829486826205881
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_113
+  - first:
+      213: 1984836887638110089
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_114
+  - first:
+      213: 7004370083212444424
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_115
+  - first:
+      213: -1176385686922536285
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_116
+  - first:
+      213: 3467836238715802230
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_117
+  - first:
+      213: -6169560506381069966
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_118
+  - first:
+      213: 6224195041543534695
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_119
+  - first:
+      213: -1246268712955236786
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_120
+  - first:
+      213: -1808452758482259827
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_121
+  - first:
+      213: -7169065276562681909
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_122
+  - first:
+      213: 8450270346111617573
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_123
+  - first:
+      213: 5291735506183115965
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_124
+  - first:
+      213: 4501034721804099762
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_125
+  - first:
+      213: 5524334975303048541
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_126
+  - first:
+      213: -2932021247890295622
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_127
+  - first:
+      213: -3847086001912126014
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_128
+  - first:
+      213: 8273900074167076076
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_129
+  - first:
+      213: 1223692797441907556
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_130
+  - first:
+      213: -7509951651721631043
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_131
+  - first:
+      213: 3401380584692995513
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_132
+  - first:
+      213: 1794697555519839686
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_133
+  - first:
+      213: 5625935237061765629
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_134
+  - first:
+      213: 7822528646447519763
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_135
+  - first:
+      213: 6916328652263984461
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_136
+  - first:
+      213: 3134682739879082548
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_137
+  - first:
+      213: 2691401387361902049
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_138
+  - first:
+      213: 3963634913383755760
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_139
+  - first:
+      213: -6652397318069477152
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_140
+  - first:
+      213: -4706606045062494135
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_141
+  - first:
+      213: -1996924950465148240
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_142
+  - first:
+      213: 1574853767955633976
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_143
+  - first:
+      213: -5946805457179858311
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_144
+  - first:
+      213: -4911210313106241498
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_145
+  - first:
+      213: -1200933830768544736
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_146
+  - first:
+      213: 3221677149917955980
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_147
+  - first:
+      213: -4961766824359118283
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_148
+  - first:
+      213: -4857283070692137707
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_149
+  - first:
+      213: 7700281606685627161
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_150
+  - first:
+      213: -3876438026953606784
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_151
+  - first:
+      213: -2485126626661493674
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_152
+  - first:
+      213: -3740910071278484328
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_153
+  - first:
+      213: -4181401423276744087
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_154
+  - first:
+      213: -6822628447237000217
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_155
+  - first:
+      213: -37707796334340370
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_156
+  - first:
+      213: 3053100458096276078
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_157
+  - first:
+      213: -2668377247324516831
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_158
+  - first:
+      213: 6239739403793355418
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_159
+  - first:
+      213: 4935055449704319530
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_160
+  - first:
+      213: 1314415799714996312
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_161
+  - first:
+      213: -5877761947386894719
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_162
+  - first:
+      213: 1746071042047481827
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_163
+  - first:
+      213: -7905953405692499763
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_164
+  - first:
+      213: -3821386148040580058
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_165
+  - first:
+      213: -2113239583526743445
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_166
+  - first:
+      213: -2608619843907360721
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_167
+  - first:
+      213: -7877275180189904704
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_168
+  - first:
+      213: -7708928774708438228
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_169
+  - first:
+      213: -6937789479370551439
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_170
+  - first:
+      213: 3862331510070756073
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_171
+  - first:
+      213: 6459410192051733418
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_172
+  - first:
+      213: 2945045911822911678
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_173
+  - first:
+      213: 2454328055657535944
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_174
+  - first:
+      213: 7950743324442051382
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_175
+  - first:
+      213: 3232664425876626990
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_176
+  - first:
+      213: -1496183018955854818
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_177
+  - first:
+      213: 3595428227391266287
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_178
+  - first:
+      213: 4903666213976512607
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_179
+  - first:
+      213: 707839045686258557
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_180
+  - first:
+      213: -7596303209418181223
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_181
+  - first:
+      213: 8311883385647159772
+    second: Excavadora_Estados_Vida_90_Frames_4096x2048_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_0
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1856
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590a44cc346cb1e80800000000000000
+      internalID: -8206747901460438891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_1
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2033
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d01843e568ed90800000000000000
+      internalID: -7068287588316949917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_2
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2038
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e7cfb9e4d205040800000000000000
+      internalID: 4634253832211955303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_3
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1856
+        width: 234
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82b3065c712c67e0800000000000000
+      internalID: -1771003735560703346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_4
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1856
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129bcbd5b3f2b3080800000000000000
+      internalID: -9206713081206621919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_5
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1856
+        width: 228
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ea13a41f9587e0800000000000000
+      internalID: -1763828768061071061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_6
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 2038
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6fc36da85d005a0800000000000000
+      internalID: -6557006265174919505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_7
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1856
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd0d37588435250800000000000000
+      internalID: 5932164872187993589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_8
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1856
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214ba2c6bf7fe590800000000000000
+      internalID: -7642749619697663699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 252
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6b03c4d33c7c310800000000000000
+      internalID: 1425322475124733637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2003
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644b220ce79fd900800000000000000
+      internalID: 711454306052293730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2005
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0385bfc71a3f7e40800000000000000
+      internalID: 5656303530944070410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2005
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb04e5a537b93f0d0800000000000000
+      internalID: -3390195174740180804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2000
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20471b4aa53840ec0800000000000000
+      internalID: -3601609376656165886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1994
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e1182757141e720800000000000000
+      internalID: 2873650009927130714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_15
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1990
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab8be795fb87df40800000000000000
+      internalID: 5753220935921142698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1999
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd21d53303044d00800000000000000
+      internalID: 955892333232074188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_17
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2008
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7542d0f55bd93b0800000000000000
+      internalID: -5504043749729871882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_18
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1996
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741d6f628a95a6e50800000000000000
+      internalID: 6803348765839642951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_19
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1856
+        width: 232
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f3298a0671f8a0800000000000000
+      internalID: -6273103018327805577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1976
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ebd9bb0f02d0c10800000000000000
+      internalID: 2021308026071137864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1994
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d917a0f9a196f390800000000000000
+      internalID: -7784874746790340138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1855
+        width: 253
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b211255b5495d0800000000000000
+      internalID: -3056717825892503188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1998
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79136780c505b70800000000000000
+      internalID: 8885703256214443998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1979
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8bc6979825193f0800000000000000
+      internalID: -895844100468852488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1987
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0263257dd6d2a80800000000000000
+      internalID: -8490008950958841640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_26
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1855
+        width: 253
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aed74a16a72a140800000000000000
+      internalID: 4729477118482573973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_27
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1856
+        width: 243
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12a248bcd21b120800000000000000
+      internalID: 2427772026248372653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1855
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3056de9cdc5cab0800000000000000
+      internalID: -4988354745088015365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1855
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc5fa6edd575d620800000000000000
+      internalID: 2798272339399105723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1855
+        width: 253
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed84fe158a4b0f0800000000000000
+      internalID: -1102070938938581323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_31
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1973
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc42ab5ee7bb7040800000000000000
+      internalID: 4646509674930261243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1877
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8511fbed3151ad90800000000000000
+      internalID: -7088295012111149683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1878
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ccdc5bf7dc8ec0800000000000000
+      internalID: -3563235730562169426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_34
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b368e6e63c3b090800000000000000
+      internalID: -8019851632348611699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_35
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3213ff05bc5e06770800000000000000
+      internalID: 8602127949677670691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_36
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb25174715fd880800000000000000
+      internalID: -8584052804185572458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_37
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1877
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7253db2f4cab00800000000000000
+      internalID: 841134280059027430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1600
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67748b3f9846e7430800000000000000
+      internalID: 3782571280700032886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_39
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1600
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0aff8db0e958a60800000000000000
+      internalID: 7675714913645338871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_40
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1783
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cee65b626531a50800000000000000
+      internalID: 6490626212223708221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_41
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1600
+        width: 249
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424cee90ecf2686a0800000000000000
+      internalID: -6447413254557875164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_42
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1600
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa1d8e09eed28440800000000000000
+      internalID: 4936753234104359676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1600
+        width: 254
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4dc1de1297f5860800000000000000
+      internalID: 7520863089350989025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1771
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476016fa7fb34100800000000000000
+      internalID: 91126952312727361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_45
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1600
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f9973fd88f2520800000000000000
+      internalID: 2679510795600655800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_46
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1774
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c47b09cc8340b180800000000000000
+      internalID: -9101700574968318782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1746
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f40fd521d88ecc0800000000000000
+      internalID: -3681537585350422740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_48
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1600
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce8e3cc95545870800000000000000
+      internalID: 8670649314385128632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_49
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1600
+        width: 237
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4190ac68360766f0800000000000000
+      internalID: -691577178367684275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_50
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656040894c768520800000000000000
+      internalID: 2703985281408722275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1735
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4858e9c2c058d50800000000000000
+      internalID: 6738805803207460012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1735
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eca7d940628bf00800000000000000
+      internalID: 1132697107547475576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_53
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 1584
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4316c83e90b940230800000000000000
+      internalID: 3604176068577878324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_54
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 1584
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65efe5e33336bafa0800000000000000
+      internalID: -5788423824313745834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_55
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1603
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65b3f7e6e49e2f30800000000000000
+      internalID: 4552739992773047659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_56
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1612
+        width: 216
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94c97ca1269c78f0800000000000000
+      internalID: -541392783819553637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_57
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1596
+        width: 216
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923d8cd3e3db52b0800000000000000
+      internalID: -5594645136466431331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_58
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1599
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604616ad527d9570800000000000000
+      internalID: 8475055820325142633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_59
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1614
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89612ed77cfc30b0800000000000000
+      internalID: -5747441432673556082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_60
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 1603
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3761f5903c44f530800000000000000
+      internalID: 3887816149885347646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_61
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1344
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88f53d42883d9530800000000000000
+      internalID: 3863306187646040204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_62
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1521
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435a9caf468bfb10800000000000000
+      internalID: 2016352934934762319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_63
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1526
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d3062cc5cb925b0800000000000000
+      internalID: -5392571972215358151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_64
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1344
+        width: 234
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39b50dc46b71d180800000000000000
+      internalID: -9092350499817670341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_65
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1344
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4638dff44b8c5e880800000000000000
+      internalID: -8582232838122929308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_66
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1344
+        width: 228
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdee68092e294a80800000000000000
+      internalID: -8482197669405594121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_67
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1526
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09169edc97fc650f0800000000000000
+      internalID: -1128486534557113968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_68
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1344
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010234e4d50f2560800000000000000
+      internalID: 7291052733655810307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_69
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1344
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f3c608eeb8ed9d0800000000000000
+      internalID: -2747604866176368862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 252
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed27f2cd8d2f7f930800000000000000
+      internalID: 4177074192630379230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_71
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892fbf5e6f4511a00800000000000000
+      internalID: 725454434380542616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_72
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e2249770f5af40800000000000000
+      internalID: 5739257696530654114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_73
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1493
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530d702905c839e90800000000000000
+      internalID: -7020113116465213387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1488
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237cddcb39e517b0800000000000000
+      internalID: -5254036947191696596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_75
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1482
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d1ee5ea72cc060800000000000000
+      internalID: 6974993552759707532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_76
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1478
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680fad8fbdc0ddb20800000000000000
+      internalID: 3160696652396425350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_77
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1487
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe38cea7d024af0800000000000000
+      internalID: -413753394159423613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_78
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42357534d7163d00800000000000000
+      internalID: 951974571432817230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_79
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1484
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb5c6a1bcf64ff0800000000000000
+      internalID: -52076505730793824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_80
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1344
+        width: 232
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae836d3f18b1520800000000000000
+      internalID: 2673873688045611688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1464
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4052ebb7351000800000000000000
+      internalID: 5972254606249120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_82
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1482
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e6587a0bb0c8ce0800000000000000
+      internalID: -1401732530666377706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_83
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1343
+        width: 253
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972b7213fd7de590800000000000000
+      internalID: -7643314509637277797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_84
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a59d3c19a3669b0800000000000000
+      internalID: -5087314331337926082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_85
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1467
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcb02759d9ab1f00800000000000000
+      internalID: 1088650485874867378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_86
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1475
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d05c7272bc05a20800000000000000
+      internalID: 3049160316761214237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_87
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1343
+        width: 253
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169f962b674c1f8a0800000000000000
+      internalID: -6273016791871915679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_88
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1344
+        width: 243
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa254929298f6e0800000000000000
+      internalID: -1803530492510556302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1343
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8de3327c9cae60800000000000000
+      internalID: 7974921054477717052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_90
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1343
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7a80127e00f960800000000000000
+      internalID: 7633617251459562338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_91
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1343
+        width: 253
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2ecf3acb1a33400800000000000000
+      internalID: 302763431541138105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_92
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1461
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d708859e3b113ce0800000000000000
+      internalID: -1427329651289094186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_93
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1f59195ab4ea20800000000000000
+      internalID: 3090800136123522876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_94
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2148a8738d3389940800000000000000
+      internalID: 5303045564966536210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_95
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1135e955f65d71a0800000000000000
+      internalID: -6810191449739153125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_96
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c57801c69d71120800000000000000
+      internalID: 2384613585872968799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_97
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469e6f409e3e6700800000000000000
+      internalID: 535434195232527942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_98
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117a21cb020692740800000000000000
+      internalID: 5127735344448579345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_99
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1088
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029607332dd5551e0800000000000000
+      internalID: -2209756884767839968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_100
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1088
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee080493a8c0b8a0800000000000000
+      internalID: -6291308074547802387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_101
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1271
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea91eeaadff513b0800000000000000
+      internalID: -5542242451707553052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_102
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1088
+        width: 249
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3ef558eaa5b7670800000000000000
+      internalID: 8537517224219370450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_103
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1088
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a886bbae8114bc0800000000000000
+      internalID: -3800729214078383499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1088
+        width: 254
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962d2a484a9de260800000000000000
+      internalID: 7128523420470158999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_105
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1259
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fc15b8f1f0f6970800000000000000
+      internalID: 8750229229159960389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_106
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1088
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02b666616ca3600800000000000000
+      internalID: 448888912386662567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_107
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1262
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700347522eb70fe70800000000000000
+      internalID: 9146947054410674183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1234
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9d16b5b7a9af80800000000000000
+      internalID: -8094754456335442679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_109
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1088
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f57b3732689fed0800000000000000
+      internalID: -2379723441265221762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_110
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1088
+        width: 237
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af5d1fee36eb140800000000000000
+      internalID: 4737333735951039054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_111
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0c0d563ec61d50800000000000000
+      internalID: 6707775427899558561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_112
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1223
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8d60c6cf58ac40800000000000000
+      internalID: 5523770250206482052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_113
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1223
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23cec146528d860800000000000000
+      internalID: 7554829486826205881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_114
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 1072
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fe2c812ae8b8b10800000000000000
+      internalID: 1984836887638110089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_115
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 1072
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803404dda75843160800000000000000
+      internalID: 7004370083212444424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_116
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1091
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aad0245373acafe0800000000000000
+      internalID: -1176385686922536285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_117
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1100
+        width: 216
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d1eb8faa302030800000000000000
+      internalID: 3467836238715802230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_118
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1084
+        width: 216
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27190ec3861516aa0800000000000000
+      internalID: -6169560506381069966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_119
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1087
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76833ffb968c06650800000000000000
+      internalID: 6224195041543534695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_120
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1102
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eae95653d54bee0800000000000000
+      internalID: -1246268712955236786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_121
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 1091
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80f6993cc517e6e0800000000000000
+      internalID: -1808452758482259827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_122
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 832
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfc4e24d1d528c90800000000000000
+      internalID: -7169065276562681909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_123
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1009
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a000cbb14654570800000000000000
+      internalID: 8450270346111617573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_124
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1014
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4dd53f765007940800000000000000
+      internalID: 5291735506183115965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_125
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 832
+        width: 234
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b025d26b33e67e30800000000000000
+      internalID: 4501034721804099762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_126
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 832
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d543f04616aac40800000000000000
+      internalID: 5524334975303048541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_127
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 832
+        width: 228
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4f995a53e5f47d0800000000000000
+      internalID: -2932021247890295622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_128
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1014
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c566abf9a76c9ac0800000000000000
+      internalID: -3847086001912126014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_129
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 832
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48ecbc74cc2d270800000000000000
+      internalID: 8273900074167076076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_130
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 832
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9ab9ad1e6bf010800000000000000
+      internalID: 1223692797441907556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 252
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba26ce13ca47c790800000000000000
+      internalID: -7509951651721631043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_132
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 979
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55988de91243f20800000000000000
+      internalID: 3401380584692995513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_133
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 981
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd95040beb08e810800000000000000
+      internalID: 1794697555519839686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_134
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 981
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df96b666a46531e40800000000000000
+      internalID: 5625935237061765629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_135
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 976
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31852d0cb543f8c60800000000000000
+      internalID: 7822528646447519763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_136
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 970
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d0d04d34cbbff50800000000000000
+      internalID: 6916328652263984461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_137
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 966
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a7a0af751a08b20800000000000000
+      internalID: 3134682739879082548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_138
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 975
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed13b95d47c95520800000000000000
+      internalID: 2691401387361902049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_139
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 984
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff239714f8a10730800000000000000
+      internalID: 3963634913383755760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_140
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 972
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e025b792efeda3a0800000000000000
+      internalID: -6652397318069477152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_141
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 832
+        width: 232
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948085a1db6ceaeb0800000000000000
+      internalID: -4706606045062494135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_142
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 952
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba0964765f7944e0800000000000000
+      internalID: -1996924950465148240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_143
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 970
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375e2478210bd510800000000000000
+      internalID: 1574853767955633976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_144
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 831
+        width: 253
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa078b1f3b87da0800000000000000
+      internalID: -5946805457179858311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_145
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 974
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628411ead30e7dbb0800000000000000
+      internalID: -4911210313106241498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_146
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 955
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024ba423b0d655fe0800000000000000
+      internalID: -1200933830768544736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_147
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 963
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c874ad57c42b5bc20800000000000000
+      internalID: 3221677149917955980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_148
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 831
+        width: 253
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab1cf9c53442bb0800000000000000
+      internalID: -4961766824359118283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_149
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 832
+        width: 243
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51560ed38c6779cb0800000000000000
+      internalID: -4857283070692137707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 831
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91398fcc255ecda60800000000000000
+      internalID: 7700281606685627161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_151
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 831
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0893d991720243ac0800000000000000
+      internalID: -3876438026953606784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_152
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 831
+        width: 253
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541af3ff7e038dd0800000000000000
+      internalID: -2485126626661493674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_153
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 949
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c3c04c1e951cc0800000000000000
+      internalID: -3740910071278484328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_154
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962e64e3f8da8f5c0800000000000000
+      internalID: -4181401423276744087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_155
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 854
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3b6f733972151a0800000000000000
+      internalID: -6822628447237000217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_156
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 852
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69a3285f80a7ff0800000000000000
+      internalID: -37707796334340370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_157
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 855
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62396cc0bace5a20800000000000000
+      internalID: 3053100458096276078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_158
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 852
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecc7ef70508fad0800000000000000
+      internalID: -2668377247324516831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_159
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925c1e9de1089650800000000000000
+      internalID: 6239739403793355418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_160
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 576
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a4b72d8c6dc7440800000000000000
+      internalID: 4935055449704319530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_161
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 576
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506c2da43ebd3210800000000000000
+      internalID: 1314415799714996312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_162
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 759
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18622bb86aefd6ea0800000000000000
+      internalID: -5877761947386894719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_163
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 576
+        width: 249
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e716d59c5a4b3810800000000000000
+      internalID: 1746071042047481827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_164
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 576
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8a8ead349684290800000000000000
+      internalID: -7905953405692499763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_165
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 576
+        width: 254
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62461708b85b7fac0800000000000000
+      internalID: -3821386148040580058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_166
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 747
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6218929bc34ca2e0800000000000000
+      internalID: -2113239583526743445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_167
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 576
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28edd1b2125ccbd0800000000000000
+      internalID: -2608619843907360721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_168
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 750
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c097ce85fb4ea290800000000000000
+      internalID: -7877275180189904704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_169
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 722
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b57b08f12640590800000000000000
+      internalID: -7708928774708438228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_170
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 576
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f0dabf93508bf90800000000000000
+      internalID: -6937789479370551439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_171
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 576
+        width: 237
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2c09e7b02c99530800000000000000
+      internalID: 3862331510070756073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_172
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 714
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa308c3a85f64a950800000000000000
+      internalID: 6459410192051733418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_173
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 711
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8cb6d37a7eed820800000000000000
+      internalID: 2945045911822911678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_174
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 711
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91ebfec568f0220800000000000000
+      internalID: 2454328055657535944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_175
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 560
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334da1cde6b65e60800000000000000
+      internalID: 7950743324442051382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_176
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 560
+        width: 216
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1b6efa2bbcdc20800000000000000
+      internalID: 3232664425876626990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_177
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 579
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2a2ca87d7c3be0800000000000000
+      internalID: -1496183018955854818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_178
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 588
+        width: 216
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed91156ce685e130800000000000000
+      internalID: 3595428227391266287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_179
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 572
+        width: 216
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58972dd0725d0440800000000000000
+      internalID: 4903666213976512607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_180
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 575
+        width: 216
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7be74c9cdfb2d900800000000000000
+      internalID: 707839045686258557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_181
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 590
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995387c5a72849690800000000000000
+      internalID: -7596303209418181223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Estados_Vida_90_Frames_4096x2048_182
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 579
+        width: 216
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd958f7a6edb95370800000000000000
+      internalID: 8311883385647159772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Estados_Vida_90_Frames_4096x2048_0: -8206747901460438891
+      Excavadora_Estados_Vida_90_Frames_4096x2048_1: -7068287588316949917
+      Excavadora_Estados_Vida_90_Frames_4096x2048_10: 711454306052293730
+      Excavadora_Estados_Vida_90_Frames_4096x2048_100: -6291308074547802387
+      Excavadora_Estados_Vida_90_Frames_4096x2048_101: -5542242451707553052
+      Excavadora_Estados_Vida_90_Frames_4096x2048_102: 8537517224219370450
+      Excavadora_Estados_Vida_90_Frames_4096x2048_103: -3800729214078383499
+      Excavadora_Estados_Vida_90_Frames_4096x2048_104: 7128523420470158999
+      Excavadora_Estados_Vida_90_Frames_4096x2048_105: 8750229229159960389
+      Excavadora_Estados_Vida_90_Frames_4096x2048_106: 448888912386662567
+      Excavadora_Estados_Vida_90_Frames_4096x2048_107: 9146947054410674183
+      Excavadora_Estados_Vida_90_Frames_4096x2048_108: -8094754456335442679
+      Excavadora_Estados_Vida_90_Frames_4096x2048_109: -2379723441265221762
+      Excavadora_Estados_Vida_90_Frames_4096x2048_11: 5656303530944070410
+      Excavadora_Estados_Vida_90_Frames_4096x2048_110: 4737333735951039054
+      Excavadora_Estados_Vida_90_Frames_4096x2048_111: 6707775427899558561
+      Excavadora_Estados_Vida_90_Frames_4096x2048_112: 5523770250206482052
+      Excavadora_Estados_Vida_90_Frames_4096x2048_113: 7554829486826205881
+      Excavadora_Estados_Vida_90_Frames_4096x2048_114: 1984836887638110089
+      Excavadora_Estados_Vida_90_Frames_4096x2048_115: 7004370083212444424
+      Excavadora_Estados_Vida_90_Frames_4096x2048_116: -1176385686922536285
+      Excavadora_Estados_Vida_90_Frames_4096x2048_117: 3467836238715802230
+      Excavadora_Estados_Vida_90_Frames_4096x2048_118: -6169560506381069966
+      Excavadora_Estados_Vida_90_Frames_4096x2048_119: 6224195041543534695
+      Excavadora_Estados_Vida_90_Frames_4096x2048_12: -3390195174740180804
+      Excavadora_Estados_Vida_90_Frames_4096x2048_120: -1246268712955236786
+      Excavadora_Estados_Vida_90_Frames_4096x2048_121: -1808452758482259827
+      Excavadora_Estados_Vida_90_Frames_4096x2048_122: -7169065276562681909
+      Excavadora_Estados_Vida_90_Frames_4096x2048_123: 8450270346111617573
+      Excavadora_Estados_Vida_90_Frames_4096x2048_124: 5291735506183115965
+      Excavadora_Estados_Vida_90_Frames_4096x2048_125: 4501034721804099762
+      Excavadora_Estados_Vida_90_Frames_4096x2048_126: 5524334975303048541
+      Excavadora_Estados_Vida_90_Frames_4096x2048_127: -2932021247890295622
+      Excavadora_Estados_Vida_90_Frames_4096x2048_128: -3847086001912126014
+      Excavadora_Estados_Vida_90_Frames_4096x2048_129: 8273900074167076076
+      Excavadora_Estados_Vida_90_Frames_4096x2048_13: -3601609376656165886
+      Excavadora_Estados_Vida_90_Frames_4096x2048_130: 1223692797441907556
+      Excavadora_Estados_Vida_90_Frames_4096x2048_131: -7509951651721631043
+      Excavadora_Estados_Vida_90_Frames_4096x2048_132: 3401380584692995513
+      Excavadora_Estados_Vida_90_Frames_4096x2048_133: 1794697555519839686
+      Excavadora_Estados_Vida_90_Frames_4096x2048_134: 5625935237061765629
+      Excavadora_Estados_Vida_90_Frames_4096x2048_135: 7822528646447519763
+      Excavadora_Estados_Vida_90_Frames_4096x2048_136: 6916328652263984461
+      Excavadora_Estados_Vida_90_Frames_4096x2048_137: 3134682739879082548
+      Excavadora_Estados_Vida_90_Frames_4096x2048_138: 2691401387361902049
+      Excavadora_Estados_Vida_90_Frames_4096x2048_139: 3963634913383755760
+      Excavadora_Estados_Vida_90_Frames_4096x2048_14: 2873650009927130714
+      Excavadora_Estados_Vida_90_Frames_4096x2048_140: -6652397318069477152
+      Excavadora_Estados_Vida_90_Frames_4096x2048_141: -4706606045062494135
+      Excavadora_Estados_Vida_90_Frames_4096x2048_142: -1996924950465148240
+      Excavadora_Estados_Vida_90_Frames_4096x2048_143: 1574853767955633976
+      Excavadora_Estados_Vida_90_Frames_4096x2048_144: -5946805457179858311
+      Excavadora_Estados_Vida_90_Frames_4096x2048_145: -4911210313106241498
+      Excavadora_Estados_Vida_90_Frames_4096x2048_146: -1200933830768544736
+      Excavadora_Estados_Vida_90_Frames_4096x2048_147: 3221677149917955980
+      Excavadora_Estados_Vida_90_Frames_4096x2048_148: -4961766824359118283
+      Excavadora_Estados_Vida_90_Frames_4096x2048_149: -4857283070692137707
+      Excavadora_Estados_Vida_90_Frames_4096x2048_15: 5753220935921142698
+      Excavadora_Estados_Vida_90_Frames_4096x2048_150: 7700281606685627161
+      Excavadora_Estados_Vida_90_Frames_4096x2048_151: -3876438026953606784
+      Excavadora_Estados_Vida_90_Frames_4096x2048_152: -2485126626661493674
+      Excavadora_Estados_Vida_90_Frames_4096x2048_153: -3740910071278484328
+      Excavadora_Estados_Vida_90_Frames_4096x2048_154: -4181401423276744087
+      Excavadora_Estados_Vida_90_Frames_4096x2048_155: -6822628447237000217
+      Excavadora_Estados_Vida_90_Frames_4096x2048_156: -37707796334340370
+      Excavadora_Estados_Vida_90_Frames_4096x2048_157: 3053100458096276078
+      Excavadora_Estados_Vida_90_Frames_4096x2048_158: -2668377247324516831
+      Excavadora_Estados_Vida_90_Frames_4096x2048_159: 6239739403793355418
+      Excavadora_Estados_Vida_90_Frames_4096x2048_16: 955892333232074188
+      Excavadora_Estados_Vida_90_Frames_4096x2048_160: 4935055449704319530
+      Excavadora_Estados_Vida_90_Frames_4096x2048_161: 1314415799714996312
+      Excavadora_Estados_Vida_90_Frames_4096x2048_162: -5877761947386894719
+      Excavadora_Estados_Vida_90_Frames_4096x2048_163: 1746071042047481827
+      Excavadora_Estados_Vida_90_Frames_4096x2048_164: -7905953405692499763
+      Excavadora_Estados_Vida_90_Frames_4096x2048_165: -3821386148040580058
+      Excavadora_Estados_Vida_90_Frames_4096x2048_166: -2113239583526743445
+      Excavadora_Estados_Vida_90_Frames_4096x2048_167: -2608619843907360721
+      Excavadora_Estados_Vida_90_Frames_4096x2048_168: -7877275180189904704
+      Excavadora_Estados_Vida_90_Frames_4096x2048_169: -7708928774708438228
+      Excavadora_Estados_Vida_90_Frames_4096x2048_17: -5504043749729871882
+      Excavadora_Estados_Vida_90_Frames_4096x2048_170: -6937789479370551439
+      Excavadora_Estados_Vida_90_Frames_4096x2048_171: 3862331510070756073
+      Excavadora_Estados_Vida_90_Frames_4096x2048_172: 6459410192051733418
+      Excavadora_Estados_Vida_90_Frames_4096x2048_173: 2945045911822911678
+      Excavadora_Estados_Vida_90_Frames_4096x2048_174: 2454328055657535944
+      Excavadora_Estados_Vida_90_Frames_4096x2048_175: 7950743324442051382
+      Excavadora_Estados_Vida_90_Frames_4096x2048_176: 3232664425876626990
+      Excavadora_Estados_Vida_90_Frames_4096x2048_177: -1496183018955854818
+      Excavadora_Estados_Vida_90_Frames_4096x2048_178: 3595428227391266287
+      Excavadora_Estados_Vida_90_Frames_4096x2048_179: 4903666213976512607
+      Excavadora_Estados_Vida_90_Frames_4096x2048_18: 6803348765839642951
+      Excavadora_Estados_Vida_90_Frames_4096x2048_180: 707839045686258557
+      Excavadora_Estados_Vida_90_Frames_4096x2048_181: -7596303209418181223
+      Excavadora_Estados_Vida_90_Frames_4096x2048_182: 8311883385647159772
+      Excavadora_Estados_Vida_90_Frames_4096x2048_19: -6273103018327805577
+      Excavadora_Estados_Vida_90_Frames_4096x2048_2: 4634253832211955303
+      Excavadora_Estados_Vida_90_Frames_4096x2048_20: 2021308026071137864
+      Excavadora_Estados_Vida_90_Frames_4096x2048_21: -7784874746790340138
+      Excavadora_Estados_Vida_90_Frames_4096x2048_22: -3056717825892503188
+      Excavadora_Estados_Vida_90_Frames_4096x2048_23: 8885703256214443998
+      Excavadora_Estados_Vida_90_Frames_4096x2048_24: -895844100468852488
+      Excavadora_Estados_Vida_90_Frames_4096x2048_25: -8490008950958841640
+      Excavadora_Estados_Vida_90_Frames_4096x2048_26: 4729477118482573973
+      Excavadora_Estados_Vida_90_Frames_4096x2048_27: 2427772026248372653
+      Excavadora_Estados_Vida_90_Frames_4096x2048_28: -4988354745088015365
+      Excavadora_Estados_Vida_90_Frames_4096x2048_29: 2798272339399105723
+      Excavadora_Estados_Vida_90_Frames_4096x2048_3: -1771003735560703346
+      Excavadora_Estados_Vida_90_Frames_4096x2048_30: -1102070938938581323
+      Excavadora_Estados_Vida_90_Frames_4096x2048_31: 4646509674930261243
+      Excavadora_Estados_Vida_90_Frames_4096x2048_32: -7088295012111149683
+      Excavadora_Estados_Vida_90_Frames_4096x2048_33: -3563235730562169426
+      Excavadora_Estados_Vida_90_Frames_4096x2048_34: -8019851632348611699
+      Excavadora_Estados_Vida_90_Frames_4096x2048_35: 8602127949677670691
+      Excavadora_Estados_Vida_90_Frames_4096x2048_36: -8584052804185572458
+      Excavadora_Estados_Vida_90_Frames_4096x2048_37: 841134280059027430
+      Excavadora_Estados_Vida_90_Frames_4096x2048_38: 3782571280700032886
+      Excavadora_Estados_Vida_90_Frames_4096x2048_39: 7675714913645338871
+      Excavadora_Estados_Vida_90_Frames_4096x2048_4: -9206713081206621919
+      Excavadora_Estados_Vida_90_Frames_4096x2048_40: 6490626212223708221
+      Excavadora_Estados_Vida_90_Frames_4096x2048_41: -6447413254557875164
+      Excavadora_Estados_Vida_90_Frames_4096x2048_42: 4936753234104359676
+      Excavadora_Estados_Vida_90_Frames_4096x2048_43: 7520863089350989025
+      Excavadora_Estados_Vida_90_Frames_4096x2048_44: 91126952312727361
+      Excavadora_Estados_Vida_90_Frames_4096x2048_45: 2679510795600655800
+      Excavadora_Estados_Vida_90_Frames_4096x2048_46: -9101700574968318782
+      Excavadora_Estados_Vida_90_Frames_4096x2048_47: -3681537585350422740
+      Excavadora_Estados_Vida_90_Frames_4096x2048_48: 8670649314385128632
+      Excavadora_Estados_Vida_90_Frames_4096x2048_49: -691577178367684275
+      Excavadora_Estados_Vida_90_Frames_4096x2048_5: -1763828768061071061
+      Excavadora_Estados_Vida_90_Frames_4096x2048_50: 2703985281408722275
+      Excavadora_Estados_Vida_90_Frames_4096x2048_51: 6738805803207460012
+      Excavadora_Estados_Vida_90_Frames_4096x2048_52: 1132697107547475576
+      Excavadora_Estados_Vida_90_Frames_4096x2048_53: 3604176068577878324
+      Excavadora_Estados_Vida_90_Frames_4096x2048_54: -5788423824313745834
+      Excavadora_Estados_Vida_90_Frames_4096x2048_55: 4552739992773047659
+      Excavadora_Estados_Vida_90_Frames_4096x2048_56: -541392783819553637
+      Excavadora_Estados_Vida_90_Frames_4096x2048_57: -5594645136466431331
+      Excavadora_Estados_Vida_90_Frames_4096x2048_58: 8475055820325142633
+      Excavadora_Estados_Vida_90_Frames_4096x2048_59: -5747441432673556082
+      Excavadora_Estados_Vida_90_Frames_4096x2048_6: -6557006265174919505
+      Excavadora_Estados_Vida_90_Frames_4096x2048_60: 3887816149885347646
+      Excavadora_Estados_Vida_90_Frames_4096x2048_61: 3863306187646040204
+      Excavadora_Estados_Vida_90_Frames_4096x2048_62: 2016352934934762319
+      Excavadora_Estados_Vida_90_Frames_4096x2048_63: -5392571972215358151
+      Excavadora_Estados_Vida_90_Frames_4096x2048_64: -9092350499817670341
+      Excavadora_Estados_Vida_90_Frames_4096x2048_65: -8582232838122929308
+      Excavadora_Estados_Vida_90_Frames_4096x2048_66: -8482197669405594121
+      Excavadora_Estados_Vida_90_Frames_4096x2048_67: -1128486534557113968
+      Excavadora_Estados_Vida_90_Frames_4096x2048_68: 7291052733655810307
+      Excavadora_Estados_Vida_90_Frames_4096x2048_69: -2747604866176368862
+      Excavadora_Estados_Vida_90_Frames_4096x2048_7: 5932164872187993589
+      Excavadora_Estados_Vida_90_Frames_4096x2048_70: 4177074192630379230
+      Excavadora_Estados_Vida_90_Frames_4096x2048_71: 725454434380542616
+      Excavadora_Estados_Vida_90_Frames_4096x2048_72: 5739257696530654114
+      Excavadora_Estados_Vida_90_Frames_4096x2048_73: -7020113116465213387
+      Excavadora_Estados_Vida_90_Frames_4096x2048_74: -5254036947191696596
+      Excavadora_Estados_Vida_90_Frames_4096x2048_75: 6974993552759707532
+      Excavadora_Estados_Vida_90_Frames_4096x2048_76: 3160696652396425350
+      Excavadora_Estados_Vida_90_Frames_4096x2048_77: -413753394159423613
+      Excavadora_Estados_Vida_90_Frames_4096x2048_78: 951974571432817230
+      Excavadora_Estados_Vida_90_Frames_4096x2048_79: -52076505730793824
+      Excavadora_Estados_Vida_90_Frames_4096x2048_8: -7642749619697663699
+      Excavadora_Estados_Vida_90_Frames_4096x2048_80: 2673873688045611688
+      Excavadora_Estados_Vida_90_Frames_4096x2048_81: 5972254606249120
+      Excavadora_Estados_Vida_90_Frames_4096x2048_82: -1401732530666377706
+      Excavadora_Estados_Vida_90_Frames_4096x2048_83: -7643314509637277797
+      Excavadora_Estados_Vida_90_Frames_4096x2048_84: -5087314331337926082
+      Excavadora_Estados_Vida_90_Frames_4096x2048_85: 1088650485874867378
+      Excavadora_Estados_Vida_90_Frames_4096x2048_86: 3049160316761214237
+      Excavadora_Estados_Vida_90_Frames_4096x2048_87: -6273016791871915679
+      Excavadora_Estados_Vida_90_Frames_4096x2048_88: -1803530492510556302
+      Excavadora_Estados_Vida_90_Frames_4096x2048_89: 7974921054477717052
+      Excavadora_Estados_Vida_90_Frames_4096x2048_9: 1425322475124733637
+      Excavadora_Estados_Vida_90_Frames_4096x2048_90: 7633617251459562338
+      Excavadora_Estados_Vida_90_Frames_4096x2048_91: 302763431541138105
+      Excavadora_Estados_Vida_90_Frames_4096x2048_92: -1427329651289094186
+      Excavadora_Estados_Vida_90_Frames_4096x2048_93: 3090800136123522876
+      Excavadora_Estados_Vida_90_Frames_4096x2048_94: 5303045564966536210
+      Excavadora_Estados_Vida_90_Frames_4096x2048_95: -6810191449739153125
+      Excavadora_Estados_Vida_90_Frames_4096x2048_96: 2384613585872968799
+      Excavadora_Estados_Vida_90_Frames_4096x2048_97: 535434195232527942
+      Excavadora_Estados_Vida_90_Frames_4096x2048_98: 5127735344448579345
+      Excavadora_Estados_Vida_90_Frames_4096x2048_99: -2209756884767839968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

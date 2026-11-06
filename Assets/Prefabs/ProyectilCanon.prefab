@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 6592133406404746346}
   - component: {fileID: 1393272907140663271}
   - component: {fileID: 4974191775404358422}
-  - component: {fileID: 431911321963310824}
   - component: {fileID: 7734959448939610819}
+  - component: {fileID: -2507723770459565856}
   m_Layer: 7
   m_Name: ProyectilCanon
   m_TagString: Untagged
@@ -159,22 +159,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0.010071993, y: -0.006715359}
   m_Size: {x: 1.2451795, y: 0.47966582}
   m_Direction: 1
---- !u!114 &431911321963310824
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6618453305094431873}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d24887cb0ad01e4fa20441970d8fcec, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ProyectilCanon
-  capasSuelo:
-    serializedVersion: 2
-    m_Bits: 264
-  tiempoVida: 8
 --- !u!61 &7734959448939610819
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -205,19 +189,46 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.04322815, y: 5.001087}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5675, y: 1.5675}
+    oldSize: {x: 1.7914286, y: 1.7914286}
     newSize: {x: 1.5675, y: 1.5675}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.0001, y: 0.0001}
+  m_Size: {x: 3.8940735, y: 11.276743}
   m_EdgeRadius: 0
+--- !u!114 &-2507723770459565856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6618453305094431873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 418fd94cb81b11149a1d7a445f655afb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProyectilCanon
+  capasSuelo:
+    serializedVersion: 2
+    m_Bits: 776
+  capasEnemigos:
+    serializedVersion: 2
+    m_Bits: 2048
+  danioExplosion: 5
+  anchoExplosion: 6
+  altoExplosion: 8
+  desplazamientoExplosion: {x: 0, y: 0}
+  expandirDesdeElPiso: 1
+  mostrarZonaAlExplotar: 1
+  efectoExplosion: {fileID: 7472607572155592828, guid: eafb472e6fc1dbb4e8b39229820cf08a, type: 3}
+  duracionEfecto: 0.5
+  tiempoVida: 8

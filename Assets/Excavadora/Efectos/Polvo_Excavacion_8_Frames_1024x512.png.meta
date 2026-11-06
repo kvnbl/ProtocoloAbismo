@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 759f41665c7b3464aba15b048512ae09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7737058888629402489
+    second: Polvo_Excavacion_8_Frames_1024x512_0
+  - first:
+      213: -4279486317288320824
+    second: Polvo_Excavacion_8_Frames_1024x512_1
+  - first:
+      213: -6041097984890354679
+    second: Polvo_Excavacion_8_Frames_1024x512_2
+  - first:
+      213: 2858617125041764200
+    second: Polvo_Excavacion_8_Frames_1024x512_3
+  - first:
+      213: -8168555570023482606
+    second: Polvo_Excavacion_8_Frames_1024x512_4
+  - first:
+      213: 3356507363430515254
+    second: Polvo_Excavacion_8_Frames_1024x512_5
+  - first:
+      213: 4638836286408960185
+    second: Polvo_Excavacion_8_Frames_1024x512_6
+  - first:
+      213: 4172627121745863787
+    second: Polvo_Excavacion_8_Frames_1024x512_7
+  - first:
+      213: 8409689809495605280
+    second: Polvo_Excavacion_8_Frames_1024x512_8
+  - first:
+      213: 4399220853013816309
+    second: Polvo_Excavacion_8_Frames_1024x512_9
+  - first:
+      213: 446511783586208809
+    second: Polvo_Excavacion_8_Frames_1024x512_10
+  - first:
+      213: 8530383116712771560
+    second: Polvo_Excavacion_8_Frames_1024x512_11
+  - first:
+      213: 3405663447413653846
+    second: Polvo_Excavacion_8_Frames_1024x512_12
+  - first:
+      213: 5935058373801108175
+    second: Polvo_Excavacion_8_Frames_1024x512_13
+  - first:
+      213: -8385514708420625908
+    second: Polvo_Excavacion_8_Frames_1024x512_14
+  - first:
+      213: 2445432694462225196
+    second: Polvo_Excavacion_8_Frames_1024x512_15
+  - first:
+      213: -2167252535364545860
+    second: Polvo_Excavacion_8_Frames_1024x512_16
+  - first:
+      213: -4958816185619172584
+    second: Polvo_Excavacion_8_Frames_1024x512_17
+  - first:
+      213: -2080451033327427334
+    second: Polvo_Excavacion_8_Frames_1024x512_18
+  - first:
+      213: -1289811798979242857
+    second: Polvo_Excavacion_8_Frames_1024x512_19
+  - first:
+      213: -7721158101180890799
+    second: Polvo_Excavacion_8_Frames_1024x512_20
+  - first:
+      213: 5583017344795127051
+    second: Polvo_Excavacion_8_Frames_1024x512_21
+  - first:
+      213: 4713346611153486548
+    second: Polvo_Excavacion_8_Frames_1024x512_22
+  - first:
+      213: -8008534342003854843
+    second: Polvo_Excavacion_8_Frames_1024x512_23
+  - first:
+      213: 808585465862641243
+    second: Polvo_Excavacion_8_Frames_1024x512_24
+  - first:
+      213: 6123339449198428813
+    second: Polvo_Excavacion_8_Frames_1024x512_25
+  - first:
+      213: -35046878235031132
+    second: Polvo_Excavacion_8_Frames_1024x512_26
+  - first:
+      213: 4432194931787602525
+    second: Polvo_Excavacion_8_Frames_1024x512_27
+  - first:
+      213: 9152799386305638975
+    second: Polvo_Excavacion_8_Frames_1024x512_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb807011e8f5b60800000000000000
+      internalID: 7737058888629402489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c092ec3ed53c94c0800000000000000
+      internalID: -4279486317288320824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904484dc365b92ca0800000000000000
+      internalID: -6041097984890354679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86776fe2129dba720800000000000000
+      internalID: 2858617125041764200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b36b8ecf573ae80800000000000000
+      internalID: -8168555570023482606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632424bd9a5b49e20800000000000000
+      internalID: 3356507363430515254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8299e5605706040800000000000000
+      internalID: 4638836286408960185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo_Excavacion_8_Frames_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a2db724628e930800000000000000
+      internalID: 4172627121745863787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3de506499afce0a49811816655cfe70b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Polvo_Excavacion_8_Frames_1024x512_0: 7737058888629402489
+      Polvo_Excavacion_8_Frames_1024x512_1: -4279486317288320824
+      Polvo_Excavacion_8_Frames_1024x512_2: -6041097984890354679
+      Polvo_Excavacion_8_Frames_1024x512_3: 2858617125041764200
+      Polvo_Excavacion_8_Frames_1024x512_4: -8168555570023482606
+      Polvo_Excavacion_8_Frames_1024x512_5: 3356507363430515254
+      Polvo_Excavacion_8_Frames_1024x512_6: 4638836286408960185
+      Polvo_Excavacion_8_Frames_1024x512_7: 4172627121745863787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

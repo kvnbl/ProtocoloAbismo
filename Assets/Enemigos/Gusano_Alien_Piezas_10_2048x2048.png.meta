@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 531948f2749569440b145e11745002a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7330735841087374118
+    second: Gusano_Alien_Piezas_10_2048x2048_0
+  - first:
+      213: -5612590759371456022
+    second: Gusano_Alien_Piezas_10_2048x2048_1
+  - first:
+      213: -947652323636777109
+    second: Gusano_Alien_Piezas_10_2048x2048_2
+  - first:
+      213: 2290465764708796242
+    second: Gusano_Alien_Piezas_10_2048x2048_3
+  - first:
+      213: -3710962417015868731
+    second: Gusano_Alien_Piezas_10_2048x2048_4
+  - first:
+      213: -3820802202407401008
+    second: Gusano_Alien_Piezas_10_2048x2048_5
+  - first:
+      213: 8463095959746265953
+    second: Gusano_Alien_Piezas_10_2048x2048_6
+  - first:
+      213: 8885549709193554514
+    second: Gusano_Alien_Piezas_10_2048x2048_7
+  - first:
+      213: 3189102122509452249
+    second: Gusano_Alien_Piezas_10_2048x2048_8
+  - first:
+      213: 9017826666120099160
+    second: Gusano_Alien_Piezas_10_2048x2048_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1713
+        width: 294
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc33c9a79ef34a90800000000000000
+      internalID: -7330735841087374118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1680
+        width: 322
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1460ee0721c12b0800000000000000
+      internalID: -5612590759371456022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_2
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1718
+        width: 292
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6e078b3349d2f0800000000000000
+      internalID: -947652323636777109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_3
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1689
+        width: 216
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25749a34a7e59cf10800000000000000
+      internalID: 2290465764708796242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1221
+        width: 231
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2b1fed753008cc0800000000000000
+      internalID: -3710962417015868731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1173
+        width: 182
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d90a70f3a8c9fac0800000000000000
+      internalID: -3820802202407401008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_6
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1173
+        width: 210
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16348bc9fe4f27570800000000000000
+      internalID: 8463095959746265953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_7
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1173
+        width: 210
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aae820260df4b70800000000000000
+      internalID: 8885549709193554514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 661
+        width: 210
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ce9cdb77f14c20800000000000000
+      internalID: 3189102122509452249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusano_Alien_Piezas_10_2048x2048_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 662
+        width: 322
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85532280391c52d70800000000000000
+      internalID: 9017826666120099160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gusano_Alien_Piezas_10_2048x2048_0: -7330735841087374118
+      Gusano_Alien_Piezas_10_2048x2048_1: -5612590759371456022
+      Gusano_Alien_Piezas_10_2048x2048_2: -947652323636777109
+      Gusano_Alien_Piezas_10_2048x2048_3: 2290465764708796242
+      Gusano_Alien_Piezas_10_2048x2048_4: -3710962417015868731
+      Gusano_Alien_Piezas_10_2048x2048_5: -3820802202407401008
+      Gusano_Alien_Piezas_10_2048x2048_6: 8463095959746265953
+      Gusano_Alien_Piezas_10_2048x2048_7: 8885549709193554514
+      Gusano_Alien_Piezas_10_2048x2048_8: 3189102122509452249
+      Gusano_Alien_Piezas_10_2048x2048_9: 9017826666120099160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

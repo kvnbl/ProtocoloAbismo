@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 53ba71ce809bc2f4e805e60e2547ca34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1894987813042570498
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_0
+  - first:
+      213: -8371254691581887430
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_1
+  - first:
+      213: 3304163651276395161
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_2
+  - first:
+      213: 532919438392412998
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_3
+  - first:
+      213: -3441533661492634427
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_4
+  - first:
+      213: -6814792869173644907
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_5
+  - first:
+      213: -2184987744896477797
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_6
+  - first:
+      213: 5667275871714466011
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_7
+  - first:
+      213: 5439707418318512751
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_8
+  - first:
+      213: -4570417102906718062
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_9
+  - first:
+      213: -6260205617880513207
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_10
+  - first:
+      213: 2115036839261254435
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_11
+  - first:
+      213: -75511950855203307
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_12
+  - first:
+      213: -2314729059186599340
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_13
+  - first:
+      213: -1204806691200080017
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_14
+  - first:
+      213: 8979895571219606443
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_15
+  - first:
+      213: 8330300648351334203
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_16
+  - first:
+      213: -1582226967485956445
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_17
+  - first:
+      213: 6648684757559360061
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_18
+  - first:
+      213: -937943232104924477
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_19
+  - first:
+      213: -879675283170434722
+    second: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa37e5cf96a3b5e0800000000000000
+      internalID: -1894987813042570498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c70f7f53453db80800000000000000
+      internalID: -8371254691581887430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992561aa55fbadd20800000000000000
+      internalID: 3304163651276395161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bc74bd76f456700800000000000000
+      internalID: 532919438392412998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc9e207e573d30d0800000000000000
+      internalID: -3441533661492634427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5913a07edfdfc61a0800000000000000
+      internalID: -6814792869173644907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b951ddaf83d5da1e0800000000000000
+      internalID: -2184987744896477797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8dea9f06536ae40800000000000000
+      internalID: 5667275871714466011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d81e4161756d5b428a4fcd8322762dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_0: -1894987813042570498
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_1: -8371254691581887430
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_2: 3304163651276395161
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_3: 532919438392412998
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_4: -3441533661492634427
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_5: -6814792869173644907
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_6: -2184987744896477797
+      Enemigo_Muerte_Aplastamiento_8_Frames_1024x512_7: 5667275871714466011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 719f3aa231b87114aa575b240e956713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3274479597348557583
+    second: Excavadora_Idle_Muy_Danada_512x768_0
+  - first:
+      213: -7034300089905071221
+    second: Excavadora_Idle_Muy_Danada_512x768_1
+  - first:
+      213: 7415071422966981614
+    second: Excavadora_Idle_Muy_Danada_512x768_2
+  - first:
+      213: 5336226263546561289
+    second: Excavadora_Idle_Muy_Danada_512x768_3
+  - first:
+      213: -8093134627641657929
+    second: Excavadora_Idle_Muy_Danada_512x768_4
+  - first:
+      213: -4690287830674828376
+    second: Excavadora_Idle_Muy_Danada_512x768_5
+  - first:
+      213: -6474509992136301640
+    second: Excavadora_Idle_Muy_Danada_512x768_6
+  - first:
+      213: 5290047413987559589
+    second: Excavadora_Idle_Muy_Danada_512x768_7
+  - first:
+      213: 7294795787729556833
+    second: Excavadora_Idle_Muy_Danada_512x768_8
+  - first:
+      213: -7493801975889903261
+    second: Excavadora_Idle_Muy_Danada_512x768_9
+  - first:
+      213: 6582408508737923152
+    second: Excavadora_Idle_Muy_Danada_512x768_10
+  - first:
+      213: -8735126163646039279
+    second: Excavadora_Idle_Muy_Danada_512x768_11
+  - first:
+      213: -7628015231240210018
+    second: Excavadora_Idle_Muy_Danada_512x768_12
+  - first:
+      213: 8197295417159519304
+    second: Excavadora_Idle_Muy_Danada_512x768_13
+  - first:
+      213: 1258308075729587087
+    second: Excavadora_Idle_Muy_Danada_512x768_14
+  - first:
+      213: -8891688636740838301
+    second: Excavadora_Idle_Muy_Danada_512x768_15
+  - first:
+      213: 8624614898231546016
+    second: Excavadora_Idle_Muy_Danada_512x768_16
+  - first:
+      213: -8909229283131389538
+    second: Excavadora_Idle_Muy_Danada_512x768_17
+  - first:
+      213: -2182338953083448951
+    second: Excavadora_Idle_Muy_Danada_512x768_18
+  - first:
+      213: -958692823588356186
+    second: Excavadora_Idle_Muy_Danada_512x768_19
+  - first:
+      213: -2707091968416137227
+    second: Excavadora_Idle_Muy_Danada_512x768_20
+  - first:
+      213: 4002135785404139693
+    second: Excavadora_Idle_Muy_Danada_512x768_21
+  - first:
+      213: 6237261918727643356
+    second: Excavadora_Idle_Muy_Danada_512x768_22
+  - first:
+      213: -6788585272013024489
+    second: Excavadora_Idle_Muy_Danada_512x768_23
+  - first:
+      213: 6200386509973980808
+    second: Excavadora_Idle_Muy_Danada_512x768_24
+  - first:
+      213: -1650009040274272646
+    second: Excavadora_Idle_Muy_Danada_512x768_25
+  - first:
+      213: 2275289005607481877
+    second: Excavadora_Idle_Muy_Danada_512x768_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 252
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03993848d9417d20800000000000000
+      internalID: 3274479597348557583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 723
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bb5b96655216e90800000000000000
+      internalID: -7034300089905071221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3e8162c20a7e660800000000000000
+      internalID: 7415071422966981614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 714
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038dcf93851e0a40800000000000000
+      internalID: 5336226263546561289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 575
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b571087fe86faf80800000000000000
+      internalID: -8093134627641657929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 696
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31a467110c8eeb0800000000000000
+      internalID: -4690287830674828376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3afff277be526a0800000000000000
+      internalID: -6474509992136301640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 598
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8c3bb58160a6940800000000000000
+      internalID: 5290047413987559589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 469
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d2a49e125c3560800000000000000
+      internalID: 7294795787729556833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 462
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36146f98ecaa00890800000000000000
+      internalID: -7493801975889903261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 464
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05825d1e9a9695b50800000000000000
+      internalID: 6582408508737923152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 458
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b38abe80996c680800000000000000
+      internalID: -8735126163646039279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 252
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9978a8ef88d32690800000000000000
+      internalID: -7628015231240210018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c0bb230c4a2c170800000000000000
+      internalID: 8197295417159519304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 443
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b0edf2788667110800000000000000
+      internalID: 1258308075729587087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 340
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c5fa98b406a9480800000000000000
+      internalID: -8891688636740838301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a012a50e89c0b770800000000000000
+      internalID: 8624614898231546016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99027c8b2f0c5480800000000000000
+      internalID: -8909229283131389538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98196f1e846c6b1e0800000000000000
+      internalID: -2182338953083448951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afbc41d4f902b2f0800000000000000
+      internalID: -958692823588356186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 204
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3e30923a7e6ad0800000000000000
+      internalID: -2707091968416137227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 252
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da884e7ea417a8730800000000000000
+      internalID: 4002135785404139693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 181
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd025dc2ba43f8650800000000000000
+      internalID: 6237261918727643356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 195
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713173e99a91ac1a0800000000000000
+      internalID: -6788585272013024489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 253
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8868f150ea23c0650800000000000000
+      internalID: 6200386509973980808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec44e158df919e0800000000000000
+      internalID: -1650009040274272646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Idle_Muy_Danada_512x768_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512f59cab43739f10800000000000000
+      internalID: 2275289005607481877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Idle_Muy_Danada_512x768_0: 3274479597348557583
+      Excavadora_Idle_Muy_Danada_512x768_1: -7034300089905071221
+      Excavadora_Idle_Muy_Danada_512x768_10: 6582408508737923152
+      Excavadora_Idle_Muy_Danada_512x768_11: -8735126163646039279
+      Excavadora_Idle_Muy_Danada_512x768_12: -7628015231240210018
+      Excavadora_Idle_Muy_Danada_512x768_13: 8197295417159519304
+      Excavadora_Idle_Muy_Danada_512x768_14: 1258308075729587087
+      Excavadora_Idle_Muy_Danada_512x768_15: -8891688636740838301
+      Excavadora_Idle_Muy_Danada_512x768_16: 8624614898231546016
+      Excavadora_Idle_Muy_Danada_512x768_17: -8909229283131389538
+      Excavadora_Idle_Muy_Danada_512x768_18: -2182338953083448951
+      Excavadora_Idle_Muy_Danada_512x768_19: -958692823588356186
+      Excavadora_Idle_Muy_Danada_512x768_2: 7415071422966981614
+      Excavadora_Idle_Muy_Danada_512x768_20: -2707091968416137227
+      Excavadora_Idle_Muy_Danada_512x768_21: 4002135785404139693
+      Excavadora_Idle_Muy_Danada_512x768_22: 6237261918727643356
+      Excavadora_Idle_Muy_Danada_512x768_23: -6788585272013024489
+      Excavadora_Idle_Muy_Danada_512x768_24: 6200386509973980808
+      Excavadora_Idle_Muy_Danada_512x768_25: -1650009040274272646
+      Excavadora_Idle_Muy_Danada_512x768_26: 2275289005607481877
+      Excavadora_Idle_Muy_Danada_512x768_3: 5336226263546561289
+      Excavadora_Idle_Muy_Danada_512x768_4: -8093134627641657929
+      Excavadora_Idle_Muy_Danada_512x768_5: -4690287830674828376
+      Excavadora_Idle_Muy_Danada_512x768_6: -6474509992136301640
+      Excavadora_Idle_Muy_Danada_512x768_7: 5290047413987559589
+      Excavadora_Idle_Muy_Danada_512x768_8: 7294795787729556833
+      Excavadora_Idle_Muy_Danada_512x768_9: -7493801975889903261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

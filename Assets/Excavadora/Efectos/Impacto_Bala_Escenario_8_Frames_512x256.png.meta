@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 6506c2b6b08610c49be9fef641343630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2023499024391304571
+    second: Impacto_Bala_Escenario_8_Frames_512x256_0
+  - first:
+      213: -2418428886790925797
+    second: Impacto_Bala_Escenario_8_Frames_512x256_1
+  - first:
+      213: -6012606413255709101
+    second: Impacto_Bala_Escenario_8_Frames_512x256_2
+  - first:
+      213: -8596324173909659136
+    second: Impacto_Bala_Escenario_8_Frames_512x256_3
+  - first:
+      213: 8834729520197365198
+    second: Impacto_Bala_Escenario_8_Frames_512x256_4
+  - first:
+      213: -7004303278157112066
+    second: Impacto_Bala_Escenario_8_Frames_512x256_5
+  - first:
+      213: 6066552802612602469
+    second: Impacto_Bala_Escenario_8_Frames_512x256_6
+  - first:
+      213: 1399853120263634773
+    second: Impacto_Bala_Escenario_8_Frames_512x256_7
+  - first:
+      213: 7454772738089472762
+    second: Impacto_Bala_Escenario_8_Frames_512x256_8
+  - first:
+      213: -5939060041047909134
+    second: Impacto_Bala_Escenario_8_Frames_512x256_9
+  - first:
+      213: 8670966449118292539
+    second: Impacto_Bala_Escenario_8_Frames_512x256_10
+  - first:
+      213: 6503648258417096110
+    second: Impacto_Bala_Escenario_8_Frames_512x256_11
+  - first:
+      213: -5047388129152386933
+    second: Impacto_Bala_Escenario_8_Frames_512x256_12
+  - first:
+      213: 5406701298819429557
+    second: Impacto_Bala_Escenario_8_Frames_512x256_13
+  - first:
+      213: 8819356676785943495
+    second: Impacto_Bala_Escenario_8_Frames_512x256_14
+  - first:
+      213: -8645206207767418564
+    second: Impacto_Bala_Escenario_8_Frames_512x256_15
+  - first:
+      213: -5606950204406264544
+    second: Impacto_Bala_Escenario_8_Frames_512x256_16
+  - first:
+      213: -3669275543310448678
+    second: Impacto_Bala_Escenario_8_Frames_512x256_17
+  - first:
+      213: -6126302067731003242
+    second: Impacto_Bala_Escenario_8_Frames_512x256_18
+  - first:
+      213: 3125117364113761896
+    second: Impacto_Bala_Escenario_8_Frames_512x256_19
+  - first:
+      213: 8531397381141325295
+    second: Impacto_Bala_Escenario_8_Frames_512x256_20
+  - first:
+      213: -4606352897485436263
+    second: Impacto_Bala_Escenario_8_Frames_512x256_21
+  - first:
+      213: -838817818721632312
+    second: Impacto_Bala_Escenario_8_Frames_512x256_22
+  - first:
+      213: -9186615491613331313
+    second: Impacto_Bala_Escenario_8_Frames_512x256_23
+  - first:
+      213: 3224911830852306141
+    second: Impacto_Bala_Escenario_8_Frames_512x256_24
+  - first:
+      213: 8865251798835928820
+    second: Impacto_Bala_Escenario_8_Frames_512x256_25
+  - first:
+      213: -8233945284334989273
+    second: Impacto_Bala_Escenario_8_Frames_512x256_26
+  - first:
+      213: 5345126851366416824
+    second: Impacto_Bala_Escenario_8_Frames_512x256_27
+  - first:
+      213: 2496243018615286702
+    second: Impacto_Bala_Escenario_8_Frames_512x256_28
+  - first:
+      213: -6928040031596680080
+    second: Impacto_Bala_Escenario_8_Frames_512x256_29
+  - first:
+      213: -6120076426530683191
+    second: Impacto_Bala_Escenario_8_Frames_512x256_30
+  - first:
+      213: 266072291766440457
+    second: Impacto_Bala_Escenario_8_Frames_512x256_31
+  - first:
+      213: 3646815548465819960
+    second: Impacto_Bala_Escenario_8_Frames_512x256_32
+  - first:
+      213: -915965163396542095
+    second: Impacto_Bala_Escenario_8_Frames_512x256_33
+  - first:
+      213: 1088897467553836083
+    second: Impacto_Bala_Escenario_8_Frames_512x256_34
+  - first:
+      213: -8250311587977718605
+    second: Impacto_Bala_Escenario_8_Frames_512x256_35
+  - first:
+      213: 1964244078985765217
+    second: Impacto_Bala_Escenario_8_Frames_512x256_36
+  - first:
+      213: -7965764931038405336
+    second: Impacto_Bala_Escenario_8_Frames_512x256_37
+  - first:
+      213: -7629285685925514634
+    second: Impacto_Bala_Escenario_8_Frames_512x256_38
+  - first:
+      213: -7236146336074713282
+    second: Impacto_Bala_Escenario_8_Frames_512x256_39
+  - first:
+      213: 4113577819569714647
+    second: Impacto_Bala_Escenario_8_Frames_512x256_40
+  - first:
+      213: -6728202334275871668
+    second: Impacto_Bala_Escenario_8_Frames_512x256_41
+  - first:
+      213: 1294753989227302801
+    second: Impacto_Bala_Escenario_8_Frames_512x256_42
+  - first:
+      213: -5968552756517043448
+    second: Impacto_Bala_Escenario_8_Frames_512x256_43
+  - first:
+      213: 2998695948432143142
+    second: Impacto_Bala_Escenario_8_Frames_512x256_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 176
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75713844a9e41c10800000000000000
+      internalID: 2023499024391304571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 210
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b129848adb3007ed0800000000000000
+      internalID: -2418428886790925797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 163
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e68a3c25eee8ca0800000000000000
+      internalID: -6012606413255709101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 212
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f20885b8b3b880800000000000000
+      internalID: -8596324173909659136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 202
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6502b0b34b9a70800000000000000
+      internalID: 8834729520197365198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 202
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc57566747bbce90800000000000000
+      internalID: -7004303278157112066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 211
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566efdac1a9b03450800000000000000
+      internalID: 6066552802612602469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f39030ff64d6310800000000000000
+      internalID: 1399853120263634773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 197
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2d617ee4ca47760800000000000000
+      internalID: 7454772738089472762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5f91fb58349da0800000000000000
+      internalID: -5939060041047909134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aa6037b06755870800000000000000
+      internalID: 8670966449118292539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 196
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f90b12a9914a50800000000000000
+      internalID: 6503648258417096110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 176
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88395e1d3314f9b0800000000000000
+      internalID: -5047388129152386933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 181
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b476c27f26780b40800000000000000
+      internalID: 5406701298819429557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 198
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3bb4bab26a46a70800000000000000
+      internalID: 8819356676785943495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 159
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39650022ce060880800000000000000
+      internalID: -8645206207767418564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 177
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8f09fe7c1032b0800000000000000
+      internalID: -5606950204406264544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 179
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c3f1855d141dc0800000000000000
+      internalID: -3669275543310448678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698072a5ab00bfaa0800000000000000
+      internalID: -6126302067731003242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e7616fa5ae5b20800000000000000
+      internalID: 3125117364113761896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 183
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe560a487bc956670800000000000000
+      internalID: 8531397381141325295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 178
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a0a4bf172f210c0800000000000000
+      internalID: -4606352897485436263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf34db53abeb54f0800000000000000
+      internalID: -838817818721632312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 57
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80794612e5928080800000000000000
+      internalID: -9186615491613331313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd408ed493031cc20800000000000000
+      internalID: 3224911830852306141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe120a7a83b70b70800000000000000
+      internalID: 8865251798835928820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720d533a3662bbd80800000000000000
+      internalID: -8233945284334989273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 155
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f8173d84bd2a40800000000000000
+      internalID: 5345126851366416824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 52
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabec9dbccf64a220800000000000000
+      internalID: 2496243018615286702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 61
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6efe2c48aadf90800000000000000
+      internalID: -6928040031596680080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c685666aee111ba0800000000000000
+      internalID: -6120076426530683191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9021053f65741b300800000000000000
+      internalID: 266072291766440457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8313daf6b671c9230800000000000000
+      internalID: 3646815548465819960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 60
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171dd117986d943f0800000000000000
+      internalID: -915965163396542095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 42
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6e5e3a7a8c1f00800000000000000
+      internalID: 1088897467553836083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_35
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 60
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49c40a251018d80800000000000000
+      internalID: -8250311587977718605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1616c143595624b10800000000000000
+      internalID: 1964244078985765217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 45
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d1139effae37190800000000000000
+      internalID: -7965764931038405336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_38
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ff6027155f1690800000000000000
+      internalID: -7629285685925514634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 43
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b58ffe3b049b90800000000000000
+      internalID: -7236146336074713282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f0637b3d561930800000000000000
+      internalID: 4113577819569714647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5880ef9f90a2a0800000000000000
+      internalID: -6728202334275871668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 52
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc96fa4e3e7f110800000000000000
+      internalID: 1294753989227302801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 43
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8038f9404e07b2da0800000000000000
+      internalID: -5968552756517043448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impacto_Bala_Escenario_8_Frames_512x256_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62373bbc3128d9920800000000000000
+      internalID: 2998695948432143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Impacto_Bala_Escenario_8_Frames_512x256_0: 2023499024391304571
+      Impacto_Bala_Escenario_8_Frames_512x256_1: -2418428886790925797
+      Impacto_Bala_Escenario_8_Frames_512x256_10: 8670966449118292539
+      Impacto_Bala_Escenario_8_Frames_512x256_11: 6503648258417096110
+      Impacto_Bala_Escenario_8_Frames_512x256_12: -5047388129152386933
+      Impacto_Bala_Escenario_8_Frames_512x256_13: 5406701298819429557
+      Impacto_Bala_Escenario_8_Frames_512x256_14: 8819356676785943495
+      Impacto_Bala_Escenario_8_Frames_512x256_15: -8645206207767418564
+      Impacto_Bala_Escenario_8_Frames_512x256_16: -5606950204406264544
+      Impacto_Bala_Escenario_8_Frames_512x256_17: -3669275543310448678
+      Impacto_Bala_Escenario_8_Frames_512x256_18: -6126302067731003242
+      Impacto_Bala_Escenario_8_Frames_512x256_19: 3125117364113761896
+      Impacto_Bala_Escenario_8_Frames_512x256_2: -6012606413255709101
+      Impacto_Bala_Escenario_8_Frames_512x256_20: 8531397381141325295
+      Impacto_Bala_Escenario_8_Frames_512x256_21: -4606352897485436263
+      Impacto_Bala_Escenario_8_Frames_512x256_22: -838817818721632312
+      Impacto_Bala_Escenario_8_Frames_512x256_23: -9186615491613331313
+      Impacto_Bala_Escenario_8_Frames_512x256_24: 3224911830852306141
+      Impacto_Bala_Escenario_8_Frames_512x256_25: 8865251798835928820
+      Impacto_Bala_Escenario_8_Frames_512x256_26: -8233945284334989273
+      Impacto_Bala_Escenario_8_Frames_512x256_27: 5345126851366416824
+      Impacto_Bala_Escenario_8_Frames_512x256_28: 2496243018615286702
+      Impacto_Bala_Escenario_8_Frames_512x256_29: -6928040031596680080
+      Impacto_Bala_Escenario_8_Frames_512x256_3: -8596324173909659136
+      Impacto_Bala_Escenario_8_Frames_512x256_30: -6120076426530683191
+      Impacto_Bala_Escenario_8_Frames_512x256_31: 266072291766440457
+      Impacto_Bala_Escenario_8_Frames_512x256_32: 3646815548465819960
+      Impacto_Bala_Escenario_8_Frames_512x256_33: -915965163396542095
+      Impacto_Bala_Escenario_8_Frames_512x256_34: 1088897467553836083
+      Impacto_Bala_Escenario_8_Frames_512x256_35: -8250311587977718605
+      Impacto_Bala_Escenario_8_Frames_512x256_36: 1964244078985765217
+      Impacto_Bala_Escenario_8_Frames_512x256_37: -7965764931038405336
+      Impacto_Bala_Escenario_8_Frames_512x256_38: -7629285685925514634
+      Impacto_Bala_Escenario_8_Frames_512x256_39: -7236146336074713282
+      Impacto_Bala_Escenario_8_Frames_512x256_4: 8834729520197365198
+      Impacto_Bala_Escenario_8_Frames_512x256_40: 4113577819569714647
+      Impacto_Bala_Escenario_8_Frames_512x256_41: -6728202334275871668
+      Impacto_Bala_Escenario_8_Frames_512x256_42: 1294753989227302801
+      Impacto_Bala_Escenario_8_Frames_512x256_43: -5968552756517043448
+      Impacto_Bala_Escenario_8_Frames_512x256_44: 2998695948432143142
+      Impacto_Bala_Escenario_8_Frames_512x256_5: -7004303278157112066
+      Impacto_Bala_Escenario_8_Frames_512x256_6: 6066552802612602469
+      Impacto_Bala_Escenario_8_Frames_512x256_7: 1399853120263634773
+      Impacto_Bala_Escenario_8_Frames_512x256_8: 7454772738089472762
+      Impacto_Bala_Escenario_8_Frames_512x256_9: -5939060041047909134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

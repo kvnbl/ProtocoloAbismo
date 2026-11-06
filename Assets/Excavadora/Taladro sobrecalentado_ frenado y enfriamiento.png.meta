@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 09d9f9482ec057f478e16f1a5e89ac4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 780031379024587527
+    second: Taladro sobrecalentado_ frenado y enfriamiento_0
+  - first:
+      213: -7333458693409245597
+    second: Taladro sobrecalentado_ frenado y enfriamiento_1
+  - first:
+      213: 628104502583590544
+    second: Taladro sobrecalentado_ frenado y enfriamiento_2
+  - first:
+      213: 4433608304346401840
+    second: Taladro sobrecalentado_ frenado y enfriamiento_3
+  - first:
+      213: -8209167214127305175
+    second: Taladro sobrecalentado_ frenado y enfriamiento_4
+  - first:
+      213: 5090272613573919397
+    second: Taladro sobrecalentado_ frenado y enfriamiento_5
+  - first:
+      213: 9163680616042094130
+    second: Taladro sobrecalentado_ frenado y enfriamiento_6
+  - first:
+      213: 9093833928891077921
+    second: Taladro sobrecalentado_ frenado y enfriamiento_7
+  - first:
+      213: -4833654428997392931
+    second: Taladro sobrecalentado_ frenado y enfriamiento_8
+  - first:
+      213: 5787375366569655346
+    second: Taladro sobrecalentado_ frenado y enfriamiento_9
+  - first:
+      213: -49038394644559355
+    second: Taladro sobrecalentado_ frenado y enfriamiento_10
+  - first:
+      213: 3378375754695724668
+    second: Taladro sobrecalentado_ frenado y enfriamiento_11
+  - first:
+      213: 3368125500310451467
+    second: Taladro sobrecalentado_ frenado y enfriamiento_12
+  - first:
+      213: -970584240761372551
+    second: Taladro sobrecalentado_ frenado y enfriamiento_13
+  - first:
+      213: 6812195289958787958
+    second: Taladro sobrecalentado_ frenado y enfriamiento_14
+  - first:
+      213: 7716030893071297464
+    second: Taladro sobrecalentado_ frenado y enfriamiento_15
+  - first:
+      213: 5893973069312874768
+    second: Taladro sobrecalentado_ frenado y enfriamiento_16
+  - first:
+      213: 7258659851328511491
+    second: Taladro sobrecalentado_ frenado y enfriamiento_17
+  - first:
+      213: 4129821135393844876
+    second: Taladro sobrecalentado_ frenado y enfriamiento_18
+  - first:
+      213: -6692637943477640994
+    second: Taladro sobrecalentado_ frenado y enfriamiento_19
+  - first:
+      213: -2480079065135630445
+    second: Taladro sobrecalentado_ frenado y enfriamiento_20
+  - first:
+      213: -2099429446465592764
+    second: Taladro sobrecalentado_ frenado y enfriamiento_21
+  - first:
+      213: -7825626867507409768
+    second: Taladro sobrecalentado_ frenado y enfriamiento_22
+  - first:
+      213: 6324999091082092300
+    second: Taladro sobrecalentado_ frenado y enfriamiento_23
+  - first:
+      213: -7077092970127531410
+    second: Taladro sobrecalentado_ frenado y enfriamiento_24
+  - first:
+      213: -403908115601545658
+    second: Taladro sobrecalentado_ frenado y enfriamiento_25
+  - first:
+      213: 8645324974415810543
+    second: Taladro sobrecalentado_ frenado y enfriamiento_26
+  - first:
+      213: -2450752576756906947
+    second: Taladro sobrecalentado_ frenado y enfriamiento_27
+  - first:
+      213: -2949828871990382847
+    second: Taladro sobrecalentado_ frenado y enfriamiento_28
+  - first:
+      213: -614679922232182054
+    second: Taladro sobrecalentado_ frenado y enfriamiento_29
+  - first:
+      213: 6963140369922294051
+    second: Taladro sobrecalentado_ frenado y enfriamiento_30
+  - first:
+      213: -6668372584723216644
+    second: Taladro sobrecalentado_ frenado y enfriamiento_31
+  - first:
+      213: -1821939269880445578
+    second: Taladro sobrecalentado_ frenado y enfriamiento_32
+  - first:
+      213: 4621820575886562920
+    second: Taladro sobrecalentado_ frenado y enfriamiento_33
+  - first:
+      213: 2900411330146266305
+    second: Taladro sobrecalentado_ frenado y enfriamiento_34
+  - first:
+      213: -3028314698905741973
+    second: Taladro sobrecalentado_ frenado y enfriamiento_35
+  - first:
+      213: 1776099160433403598
+    second: Taladro sobrecalentado_ frenado y enfriamiento_36
+  - first:
+      213: 8673790203711851926
+    second: Taladro sobrecalentado_ frenado y enfriamiento_37
+  - first:
+      213: -3754281910050783065
+    second: Taladro sobrecalentado_ frenado y enfriamiento_38
+  - first:
+      213: -8963110529163975135
+    second: Taladro sobrecalentado_ frenado y enfriamiento_39
+  - first:
+      213: 3418223516650831408
+    second: Taladro sobrecalentado_ frenado y enfriamiento_40
+  - first:
+      213: -822408721966373198
+    second: Taladro sobrecalentado_ frenado y enfriamiento_41
+  - first:
+      213: 6350114637876319519
+    second: Taladro sobrecalentado_ frenado y enfriamiento_42
+  - first:
+      213: -1959369929502682869
+    second: Taladro sobrecalentado_ frenado y enfriamiento_43
+  - first:
+      213: 8898196791411418825
+    second: Taladro sobrecalentado_ frenado y enfriamiento_44
+  - first:
+      213: -4960089483351322387
+    second: Taladro sobrecalentado_ frenado y enfriamiento_45
+  - first:
+      213: 9215923958086604414
+    second: Taladro sobrecalentado_ frenado y enfriamiento_46
+  - first:
+      213: 6572579582421702282
+    second: Taladro sobrecalentado_ frenado y enfriamiento_47
+  - first:
+      213: -468361397540679698
+    second: Taladro sobrecalentado_ frenado y enfriamiento_48
+  - first:
+      213: -2467441381247536871
+    second: Taladro sobrecalentado_ frenado y enfriamiento_49
+  - first:
+      213: -770724111539432236
+    second: Taladro sobrecalentado_ frenado y enfriamiento_50
+  - first:
+      213: 1893148011209412746
+    second: Taladro sobrecalentado_ frenado y enfriamiento_51
+  - first:
+      213: 7357177269455999129
+    second: Taladro sobrecalentado_ frenado y enfriamiento_52
+  - first:
+      213: -1227292867322697505
+    second: Taladro sobrecalentado_ frenado y enfriamiento_53
+  - first:
+      213: 135520728754358755
+    second: Taladro sobrecalentado_ frenado y enfriamiento_54
+  - first:
+      213: 286263619258521299
+    second: Taladro sobrecalentado_ frenado y enfriamiento_55
+  - first:
+      213: 2180012025640274460
+    second: Taladro sobrecalentado_ frenado y enfriamiento_56
+  - first:
+      213: 1774205030141133805
+    second: Taladro sobrecalentado_ frenado y enfriamiento_57
+  - first:
+      213: 4770860191730801734
+    second: Taladro sobrecalentado_ frenado y enfriamiento_58
+  - first:
+      213: -5678660062493987642
+    second: Taladro sobrecalentado_ frenado y enfriamiento_59
+  - first:
+      213: -5110566898905527422
+    second: Taladro sobrecalentado_ frenado y enfriamiento_60
+  - first:
+      213: -6440218700436532842
+    second: Taladro sobrecalentado_ frenado y enfriamiento_61
+  - first:
+      213: -5304280117644303416
+    second: Taladro sobrecalentado_ frenado y enfriamiento_62
+  - first:
+      213: -6098569275651921853
+    second: Taladro sobrecalentado_ frenado y enfriamiento_63
+  - first:
+      213: -209725566160259229
+    second: Taladro sobrecalentado_ frenado y enfriamiento_64
+  - first:
+      213: -3818898712705628484
+    second: Taladro sobrecalentado_ frenado y enfriamiento_65
+  - first:
+      213: 1505517180309021931
+    second: Taladro sobrecalentado_ frenado y enfriamiento_66
+  - first:
+      213: -3886205522817076199
+    second: Taladro sobrecalentado_ frenado y enfriamiento_67
+  - first:
+      213: -5937019121832698401
+    second: Taladro sobrecalentado_ frenado y enfriamiento_68
+  - first:
+      213: -4796742280798626671
+    second: Taladro sobrecalentado_ frenado y enfriamiento_69
+  - first:
+      213: 4583832605599467951
+    second: Taladro sobrecalentado_ frenado y enfriamiento_70
+  - first:
+      213: 2346007290881655747
+    second: Taladro sobrecalentado_ frenado y enfriamiento_71
+  - first:
+      213: -6711499839013660755
+    second: Taladro sobrecalentado_ frenado y enfriamiento_72
+  - first:
+      213: 270802996220065884
+    second: Taladro sobrecalentado_ frenado y enfriamiento_73
+  - first:
+      213: 6275699394791649392
+    second: Taladro sobrecalentado_ frenado y enfriamiento_74
+  - first:
+      213: -509057836019944335
+    second: Taladro sobrecalentado_ frenado y enfriamiento_75
+  - first:
+      213: -390245788449683458
+    second: Taladro sobrecalentado_ frenado y enfriamiento_76
+  - first:
+      213: 1509559505842374514
+    second: Taladro sobrecalentado_ frenado y enfriamiento_77
+  - first:
+      213: -8713038699517070969
+    second: Taladro sobrecalentado_ frenado y enfriamiento_78
+  - first:
+      213: 5903908333373844416
+    second: Taladro sobrecalentado_ frenado y enfriamiento_79
+  - first:
+      213: -6765533549321113618
+    second: Taladro sobrecalentado_ frenado y enfriamiento_80
+  - first:
+      213: -2388018250373039628
+    second: Taladro sobrecalentado_ frenado y enfriamiento_81
+  - first:
+      213: 418053851140965622
+    second: Taladro sobrecalentado_ frenado y enfriamiento_82
+  - first:
+      213: 3559976573305320732
+    second: Taladro sobrecalentado_ frenado y enfriamiento_83
+  - first:
+      213: -6977269014165093966
+    second: Taladro sobrecalentado_ frenado y enfriamiento_84
+  - first:
+      213: 321373682221243436
+    second: Taladro sobrecalentado_ frenado y enfriamiento_85
+  - first:
+      213: 5514923419577216851
+    second: Taladro sobrecalentado_ frenado y enfriamiento_86
+  - first:
+      213: -6728478697891707438
+    second: Taladro sobrecalentado_ frenado y enfriamiento_87
+  - first:
+      213: -6165745023112889992
+    second: Taladro sobrecalentado_ frenado y enfriamiento_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b2b6c086a33da00800000000000000
+      internalID: 780031379024587527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36677543c225a3a90800000000000000
+      internalID: -7333458693409245597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e715e97b977b800800000000000000
+      internalID: 628104502583590544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c0ac53347578d30800000000000000
+      internalID: 4433608304346401840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ea82ca9ed231e80800000000000000
+      internalID: -8209167214127305175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a209fdf8f744a640800000000000000
+      internalID: 5090272613573919397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e525218feeb2f70800000000000000
+      internalID: 9163680616042094130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taladro sobrecalentado_ frenado y enfriamiento_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12592f1f6c9c33e70800000000000000
+      internalID: 9093833928891077921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39d89e4d10dd8b142ba5df61990799b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Taladro sobrecalentado_ frenado y enfriamiento_0: 780031379024587527
+      Taladro sobrecalentado_ frenado y enfriamiento_1: -7333458693409245597
+      Taladro sobrecalentado_ frenado y enfriamiento_2: 628104502583590544
+      Taladro sobrecalentado_ frenado y enfriamiento_3: 4433608304346401840
+      Taladro sobrecalentado_ frenado y enfriamiento_4: -8209167214127305175
+      Taladro sobrecalentado_ frenado y enfriamiento_5: 5090272613573919397
+      Taladro sobrecalentado_ frenado y enfriamiento_6: 9163680616042094130
+      Taladro sobrecalentado_ frenado y enfriamiento_7: 9093833928891077921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

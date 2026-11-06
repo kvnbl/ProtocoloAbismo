@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: f5b893d1e649b494882c4a1231f5acaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1475656371351828899
+    second: Excavadora_Retroceso_Danada_1024x512_0
+  - first:
+      213: -5331810828844591666
+    second: Excavadora_Retroceso_Danada_1024x512_1
+  - first:
+      213: 556604701164335535
+    second: Excavadora_Retroceso_Danada_1024x512_2
+  - first:
+      213: -6408544842487234995
+    second: Excavadora_Retroceso_Danada_1024x512_3
+  - first:
+      213: -2831189221023030222
+    second: Excavadora_Retroceso_Danada_1024x512_4
+  - first:
+      213: -1521510347284568776
+    second: Excavadora_Retroceso_Danada_1024x512_5
+  - first:
+      213: -1911335107321768864
+    second: Excavadora_Retroceso_Danada_1024x512_6
+  - first:
+      213: 2328658158758715963
+    second: Excavadora_Retroceso_Danada_1024x512_7
+  - first:
+      213: 4929074964400521142
+    second: Excavadora_Retroceso_Danada_1024x512_8
+  - first:
+      213: 7581248151449899319
+    second: Excavadora_Retroceso_Danada_1024x512_9
+  - first:
+      213: 2892916378450043677
+    second: Excavadora_Retroceso_Danada_1024x512_10
+  - first:
+      213: 1129238937116475248
+    second: Excavadora_Retroceso_Danada_1024x512_11
+  - first:
+      213: 3281745900012321136
+    second: Excavadora_Retroceso_Danada_1024x512_12
+  - first:
+      213: -4729877487900835966
+    second: Excavadora_Retroceso_Danada_1024x512_13
+  - first:
+      213: -3190883008750350784
+    second: Excavadora_Retroceso_Danada_1024x512_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 254
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56480f395a658be0800000000000000
+      internalID: -1475656371351828899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51321ec4a9106b0800000000000000
+      internalID: -5331810828844591666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 491
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17635d60579b700800000000000000
+      internalID: 556604701164335535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 466
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef2607b664017a0800000000000000
+      internalID: -6408544842487234995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 320
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234e10d576895b8d0800000000000000
+      internalID: -2831189221023030222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 320
+        width: 237
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a504866282eae0800000000000000
+      internalID: -1521510347284568776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 458
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645a59b8d29975e0800000000000000
+      internalID: -1911335107321768864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32e024f14e015020800000000000000
+      internalID: 2328658158758715963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf3d549097976440800000000000000
+      internalID: 4929074964400521142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731124dc601063960800000000000000
+      internalID: 7581248151449899319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 64
+        width: 249
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ac6e6e14b52820800000000000000
+      internalID: 2892916378450043677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 64
+        width: 231
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ffd5194dcdbaf00800000000000000
+      internalID: 1129238937116475248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0793455328a1b8d20800000000000000
+      internalID: 3281745900012321136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 238
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fbd861c791c5eb0800000000000000
+      internalID: -4729877487900835966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excavadora_Retroceso_Danada_1024x512_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e0b9f3fc4b7b3d0800000000000000
+      internalID: -3190883008750350784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Excavadora_Retroceso_Danada_1024x512_0: -1475656371351828899
+      Excavadora_Retroceso_Danada_1024x512_1: -5331810828844591666
+      Excavadora_Retroceso_Danada_1024x512_10: 2892916378450043677
+      Excavadora_Retroceso_Danada_1024x512_11: 1129238937116475248
+      Excavadora_Retroceso_Danada_1024x512_12: 3281745900012321136
+      Excavadora_Retroceso_Danada_1024x512_13: -4729877487900835966
+      Excavadora_Retroceso_Danada_1024x512_14: -3190883008750350784
+      Excavadora_Retroceso_Danada_1024x512_2: 556604701164335535
+      Excavadora_Retroceso_Danada_1024x512_3: -6408544842487234995
+      Excavadora_Retroceso_Danada_1024x512_4: -2831189221023030222
+      Excavadora_Retroceso_Danada_1024x512_5: -1521510347284568776
+      Excavadora_Retroceso_Danada_1024x512_6: -1911335107321768864
+      Excavadora_Retroceso_Danada_1024x512_7: 2328658158758715963
+      Excavadora_Retroceso_Danada_1024x512_8: 4929074964400521142
+      Excavadora_Retroceso_Danada_1024x512_9: 7581248151449899319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

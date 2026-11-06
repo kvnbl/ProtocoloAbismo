@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 1b5d668ff0261e04ba6b4f9e5698591d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6249509252094253107
+    second: Tierra_Taladro_8_Frames_1024x512_0
+  - first:
+      213: -6262123014613561669
+    second: Tierra_Taladro_8_Frames_1024x512_1
+  - first:
+      213: 5290657691062154377
+    second: Tierra_Taladro_8_Frames_1024x512_2
+  - first:
+      213: -8911510336134358497
+    second: Tierra_Taladro_8_Frames_1024x512_3
+  - first:
+      213: -3529255744612310357
+    second: Tierra_Taladro_8_Frames_1024x512_4
+  - first:
+      213: -5546775703165110008
+    second: Tierra_Taladro_8_Frames_1024x512_5
+  - first:
+      213: 1007642688382491464
+    second: Tierra_Taladro_8_Frames_1024x512_6
+  - first:
+      213: 2963292551868180619
+    second: Tierra_Taladro_8_Frames_1024x512_7
+  - first:
+      213: -5163862231114892700
+    second: Tierra_Taladro_8_Frames_1024x512_8
+  - first:
+      213: -5645485869577026991
+    second: Tierra_Taladro_8_Frames_1024x512_9
+  - first:
+      213: 3728894306204700752
+    second: Tierra_Taladro_8_Frames_1024x512_10
+  - first:
+      213: -8647314074454708565
+    second: Tierra_Taladro_8_Frames_1024x512_11
+  - first:
+      213: -3240387527329875037
+    second: Tierra_Taladro_8_Frames_1024x512_12
+  - first:
+      213: -8175457190155368430
+    second: Tierra_Taladro_8_Frames_1024x512_13
+  - first:
+      213: 4989501881484493771
+    second: Tierra_Taladro_8_Frames_1024x512_14
+  - first:
+      213: 5339697387814216920
+    second: Tierra_Taladro_8_Frames_1024x512_15
+  - first:
+      213: 7200789645551576119
+    second: Tierra_Taladro_8_Frames_1024x512_16
+  - first:
+      213: 8617677598546881464
+    second: Tierra_Taladro_8_Frames_1024x512_17
+  - first:
+      213: -5912342486586628977
+    second: Tierra_Taladro_8_Frames_1024x512_18
+  - first:
+      213: -3640477305432842110
+    second: Tierra_Taladro_8_Frames_1024x512_19
+  - first:
+      213: -969188466399389514
+    second: Tierra_Taladro_8_Frames_1024x512_20
+  - first:
+      213: 4146736800061895765
+    second: Tierra_Taladro_8_Frames_1024x512_21
+  - first:
+      213: 6562196415232762538
+    second: Tierra_Taladro_8_Frames_1024x512_22
+  - first:
+      213: 2029158441889036178
+    second: Tierra_Taladro_8_Frames_1024x512_23
+  - first:
+      213: 5918177735149256247
+    second: Tierra_Taladro_8_Frames_1024x512_24
+  - first:
+      213: 5040662837460012928
+    second: Tierra_Taladro_8_Frames_1024x512_25
+  - first:
+      213: 1080652747154582092
+    second: Tierra_Taladro_8_Frames_1024x512_26
+  - first:
+      213: 5414345562411147259
+    second: Tierra_Taladro_8_Frames_1024x512_27
+  - first:
+      213: -3566851355593394557
+    second: Tierra_Taladro_8_Frames_1024x512_28
+  - first:
+      213: 1400533624479591281
+    second: Tierra_Taladro_8_Frames_1024x512_29
+  - first:
+      213: -5543566995215636852
+    second: Tierra_Taladro_8_Frames_1024x512_30
+  - first:
+      213: -7990711639049658429
+    second: Tierra_Taladro_8_Frames_1024x512_31
+  - first:
+      213: 6687034586772857383
+    second: Tierra_Taladro_8_Frames_1024x512_32
+  - first:
+      213: 3355761413584783568
+    second: Tierra_Taladro_8_Frames_1024x512_33
+  - first:
+      213: -1589444059402049197
+    second: Tierra_Taladro_8_Frames_1024x512_34
+  - first:
+      213: 4402602234402704779
+    second: Tierra_Taladro_8_Frames_1024x512_35
+  - first:
+      213: -7141518999337831282
+    second: Tierra_Taladro_8_Frames_1024x512_36
+  - first:
+      213: -540335459606116547
+    second: Tierra_Taladro_8_Frames_1024x512_37
+  - first:
+      213: 1092774547972922867
+    second: Tierra_Taladro_8_Frames_1024x512_38
+  - first:
+      213: 156917264559449619
+    second: Tierra_Taladro_8_Frames_1024x512_39
+  - first:
+      213: 961473479488548174
+    second: Tierra_Taladro_8_Frames_1024x512_40
+  - first:
+      213: 3526455629766944240
+    second: Tierra_Taladro_8_Frames_1024x512_41
+  - first:
+      213: -5231860341870347748
+    second: Tierra_Taladro_8_Frames_1024x512_42
+  - first:
+      213: 7949335909107035789
+    second: Tierra_Taladro_8_Frames_1024x512_43
+  - first:
+      213: -1094760021777558937
+    second: Tierra_Taladro_8_Frames_1024x512_44
+  - first:
+      213: -7962987137766511526
+    second: Tierra_Taladro_8_Frames_1024x512_45
+  - first:
+      213: -3193408000682587571
+    second: Tierra_Taladro_8_Frames_1024x512_46
+  - first:
+      213: -2567842634710359746
+    second: Tierra_Taladro_8_Frames_1024x512_47
+  - first:
+      213: -9137117452726866329
+    second: Tierra_Taladro_8_Frames_1024x512_48
+  - first:
+      213: 8420746103428472779
+    second: Tierra_Taladro_8_Frames_1024x512_49
+  - first:
+      213: -3580867568274673639
+    second: Tierra_Taladro_8_Frames_1024x512_50
+  - first:
+      213: -2102884706871890176
+    second: Tierra_Taladro_8_Frames_1024x512_51
+  - first:
+      213: -7475792310097436018
+    second: Tierra_Taladro_8_Frames_1024x512_52
+  - first:
+      213: -6740497468296212090
+    second: Tierra_Taladro_8_Frames_1024x512_53
+  - first:
+      213: 5644771397956587097
+    second: Tierra_Taladro_8_Frames_1024x512_54
+  - first:
+      213: -481238622201435798
+    second: Tierra_Taladro_8_Frames_1024x512_55
+  - first:
+      213: -2035704694337697181
+    second: Tierra_Taladro_8_Frames_1024x512_56
+  - first:
+      213: -5537478081407804103
+    second: Tierra_Taladro_8_Frames_1024x512_57
+  - first:
+      213: -8546901336779576134
+    second: Tierra_Taladro_8_Frames_1024x512_58
+  - first:
+      213: 7300414309170625433
+    second: Tierra_Taladro_8_Frames_1024x512_59
+  - first:
+      213: -8681294605990264877
+    second: Tierra_Taladro_8_Frames_1024x512_60
+  - first:
+      213: 5947508531372471164
+    second: Tierra_Taladro_8_Frames_1024x512_61
+  - first:
+      213: 5663344557176940775
+    second: Tierra_Taladro_8_Frames_1024x512_62
+  - first:
+      213: -3452738003582064387
+    second: Tierra_Taladro_8_Frames_1024x512_63
+  - first:
+      213: -1138032711417099130
+    second: Tierra_Taladro_8_Frames_1024x512_64
+  - first:
+      213: 2659553338613016632
+    second: Tierra_Taladro_8_Frames_1024x512_65
+  - first:
+      213: -3204652028684953854
+    second: Tierra_Taladro_8_Frames_1024x512_66
+  - first:
+      213: 3362552227497628818
+    second: Tierra_Taladro_8_Frames_1024x512_67
+  - first:
+      213: -4694434344691979439
+    second: Tierra_Taladro_8_Frames_1024x512_68
+  - first:
+      213: -8092247535344959595
+    second: Tierra_Taladro_8_Frames_1024x512_69
+  - first:
+      213: 4155752571090597895
+    second: Tierra_Taladro_8_Frames_1024x512_70
+  - first:
+      213: -713765215526795287
+    second: Tierra_Taladro_8_Frames_1024x512_71
+  - first:
+      213: -6492570559684547356
+    second: Tierra_Taladro_8_Frames_1024x512_72
+  - first:
+      213: -2324413285078701834
+    second: Tierra_Taladro_8_Frames_1024x512_73
+  - first:
+      213: 3095213527673892314
+    second: Tierra_Taladro_8_Frames_1024x512_74
+  - first:
+      213: -6388167744984405669
+    second: Tierra_Taladro_8_Frames_1024x512_75
+  - first:
+      213: -5022397442027364922
+    second: Tierra_Taladro_8_Frames_1024x512_76
+  - first:
+      213: 8656769176558842897
+    second: Tierra_Taladro_8_Frames_1024x512_77
+  - first:
+      213: 2425321511314152150
+    second: Tierra_Taladro_8_Frames_1024x512_78
+  - first:
+      213: -345816185935308176
+    second: Tierra_Taladro_8_Frames_1024x512_79
+  - first:
+      213: -736465345696039020
+    second: Tierra_Taladro_8_Frames_1024x512_80
+  - first:
+      213: 6103569014051201187
+    second: Tierra_Taladro_8_Frames_1024x512_81
+  - first:
+      213: -615182297176369722
+    second: Tierra_Taladro_8_Frames_1024x512_82
+  - first:
+      213: 8693608322790251153
+    second: Tierra_Taladro_8_Frames_1024x512_83
+  - first:
+      213: -7068213710443748076
+    second: Tierra_Taladro_8_Frames_1024x512_84
+  - first:
+      213: -6006777571233587660
+    second: Tierra_Taladro_8_Frames_1024x512_85
+  - first:
+      213: -8344434781365092713
+    second: Tierra_Taladro_8_Frames_1024x512_86
+  - first:
+      213: -7249210772020169798
+    second: Tierra_Taladro_8_Frames_1024x512_87
+  - first:
+      213: 1593347400285280945
+    second: Tierra_Taladro_8_Frames_1024x512_88
+  - first:
+      213: -8082923207052838863
+    second: Tierra_Taladro_8_Frames_1024x512_89
+  - first:
+      213: 6643166554758321169
+    second: Tierra_Taladro_8_Frames_1024x512_90
+  - first:
+      213: 1831319074950664178
+    second: Tierra_Taladro_8_Frames_1024x512_91
+  - first:
+      213: -8168750728463350462
+    second: Tierra_Taladro_8_Frames_1024x512_92
+  - first:
+      213: -6235272292400140599
+    second: Tierra_Taladro_8_Frames_1024x512_93
+  - first:
+      213: 4041439591606914207
+    second: Tierra_Taladro_8_Frames_1024x512_94
+  - first:
+      213: 6533814045525560343
+    second: Tierra_Taladro_8_Frames_1024x512_95
+  - first:
+      213: 7329735591574830766
+    second: Tierra_Taladro_8_Frames_1024x512_96
+  - first:
+      213: 6177207004887288495
+    second: Tierra_Taladro_8_Frames_1024x512_97
+  - first:
+      213: -2110536631968899352
+    second: Tierra_Taladro_8_Frames_1024x512_98
+  - first:
+      213: -4003811063749785150
+    second: Tierra_Taladro_8_Frames_1024x512_99
+  - first:
+      213: 6511590294585305596
+    second: Tierra_Taladro_8_Frames_1024x512_100
+  - first:
+      213: -8574128864376268993
+    second: Tierra_Taladro_8_Frames_1024x512_101
+  - first:
+      213: -5394730732190046841
+    second: Tierra_Taladro_8_Frames_1024x512_102
+  - first:
+      213: -1286776088608195931
+    second: Tierra_Taladro_8_Frames_1024x512_103
+  - first:
+      213: 4571863899609895662
+    second: Tierra_Taladro_8_Frames_1024x512_104
+  - first:
+      213: -6780168730172390426
+    second: Tierra_Taladro_8_Frames_1024x512_105
+  - first:
+      213: -6379704409925586461
+    second: Tierra_Taladro_8_Frames_1024x512_106
+  - first:
+      213: 848435881183424955
+    second: Tierra_Taladro_8_Frames_1024x512_107
+  - first:
+      213: -2192852595292277493
+    second: Tierra_Taladro_8_Frames_1024x512_108
+  - first:
+      213: -7635346999503928695
+    second: Tierra_Taladro_8_Frames_1024x512_109
+  - first:
+      213: 1961721401252012431
+    second: Tierra_Taladro_8_Frames_1024x512_110
+  - first:
+      213: -3704650842555791603
+    second: Tierra_Taladro_8_Frames_1024x512_111
+  - first:
+      213: 4128232892351324375
+    second: Tierra_Taladro_8_Frames_1024x512_112
+  - first:
+      213: 2471537433896506775
+    second: Tierra_Taladro_8_Frames_1024x512_113
+  - first:
+      213: 4001053804858735236
+    second: Tierra_Taladro_8_Frames_1024x512_114
+  - first:
+      213: -3777222774295109103
+    second: Tierra_Taladro_8_Frames_1024x512_115
+  - first:
+      213: 4158452549972661688
+    second: Tierra_Taladro_8_Frames_1024x512_116
+  - first:
+      213: 6908249744975504606
+    second: Tierra_Taladro_8_Frames_1024x512_117
+  - first:
+      213: -815202006654741802
+    second: Tierra_Taladro_8_Frames_1024x512_118
+  - first:
+      213: 8451813805030033192
+    second: Tierra_Taladro_8_Frames_1024x512_119
+  - first:
+      213: -7041965438900772696
+    second: Tierra_Taladro_8_Frames_1024x512_120
+  - first:
+      213: -8821320839058307418
+    second: Tierra_Taladro_8_Frames_1024x512_121
+  - first:
+      213: -6973664410993401895
+    second: Tierra_Taladro_8_Frames_1024x512_122
+  - first:
+      213: -2902969599084879338
+    second: Tierra_Taladro_8_Frames_1024x512_123
+  - first:
+      213: -4553672810537161821
+    second: Tierra_Taladro_8_Frames_1024x512_124
+  - first:
+      213: 4915787170185456426
+    second: Tierra_Taladro_8_Frames_1024x512_125
+  - first:
+      213: 9206709935345061398
+    second: Tierra_Taladro_8_Frames_1024x512_126
+  - first:
+      213: 4943142647105669309
+    second: Tierra_Taladro_8_Frames_1024x512_127
+  - first:
+      213: 8455059548516441564
+    second: Tierra_Taladro_8_Frames_1024x512_128
+  - first:
+      213: -9105200881428684106
+    second: Tierra_Taladro_8_Frames_1024x512_129
+  - first:
+      213: 653195440906805610
+    second: Tierra_Taladro_8_Frames_1024x512_130
+  - first:
+      213: 111450400934898056
+    second: Tierra_Taladro_8_Frames_1024x512_131
+  - first:
+      213: 9139014586893190764
+    second: Tierra_Taladro_8_Frames_1024x512_132
+  - first:
+      213: 7111988408987392145
+    second: Tierra_Taladro_8_Frames_1024x512_133
+  - first:
+      213: 4904269506598651888
+    second: Tierra_Taladro_8_Frames_1024x512_134
+  - first:
+      213: 4892300651432365301
+    second: Tierra_Taladro_8_Frames_1024x512_135
+  - first:
+      213: -3540268363468159965
+    second: Tierra_Taladro_8_Frames_1024x512_136
+  - first:
+      213: -8843192309318130926
+    second: Tierra_Taladro_8_Frames_1024x512_137
+  - first:
+      213: -1230008560884157686
+    second: Tierra_Taladro_8_Frames_1024x512_138
+  - first:
+      213: -5107984958351483085
+    second: Tierra_Taladro_8_Frames_1024x512_139
+  - first:
+      213: 8451148161683744891
+    second: Tierra_Taladro_8_Frames_1024x512_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7a76052784549a0800000000000000
+      internalID: -6249509252094253107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe092edb487819a0800000000000000
+      internalID: -6262123014613561669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984b2ff83213c6940800000000000000
+      internalID: 5290657691062154377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5d728094f35480800000000000000
+      internalID: -8911510336134358497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba260ec5990950fc0800000000000000
+      internalID: -3529255744612310357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8097314d2e4e503b0800000000000000
+      internalID: -5546775703165110008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bde85bfaddbfd00800000000000000
+      internalID: 1007642688382491464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tierra_Taladro_8_Frames_1024x512_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e9af20eabf1920800000000000000
+      internalID: 2963292551868180619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ff9d644d14c0ca45889df5535cbcd0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tierra_Taladro_8_Frames_1024x512_0: -6249509252094253107
+      Tierra_Taladro_8_Frames_1024x512_1: -6262123014613561669
+      Tierra_Taladro_8_Frames_1024x512_2: 5290657691062154377
+      Tierra_Taladro_8_Frames_1024x512_3: -8911510336134358497
+      Tierra_Taladro_8_Frames_1024x512_4: -3529255744612310357
+      Tierra_Taladro_8_Frames_1024x512_5: -5546775703165110008
+      Tierra_Taladro_8_Frames_1024x512_6: 1007642688382491464
+      Tierra_Taladro_8_Frames_1024x512_7: 2963292551868180619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
